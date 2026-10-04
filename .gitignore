@@ -1,0 +1,17 @@
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+.runs/
+.local/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+dist/
+build/
+recovered/*.h5
+recovered/database-export.zip

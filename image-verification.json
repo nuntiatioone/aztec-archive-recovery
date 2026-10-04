@@ -1,0 +1,4071 @@
+{
+  "images": [
+    {
+      "image_id": "2748f887-f4b8-4215-bdb7-8483c42b9b42",
+      "label": "Electron Image 43",
+      "table": "ElectronImages",
+      "dtype": "<i2",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "818fbdd4d991ba936a0c517487a1b0772f7d37e3c79ddb014488caf73e780f5b",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "b7612004-a54b-4cdb-9c4b-e3f297c970d6",
+      "label": "Electron Image 47",
+      "table": "ElectronImages",
+      "dtype": "<i2",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "32d6ada3858d7496865cf2821f97ac71826ab8300ced6f1dcba5700b9fd6ea37",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "9469c461-0453-48fb-8834-6a6f17722fd7",
+      "label": "Electron Image 50",
+      "table": "ElectronImages",
+      "dtype": "<i2",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "8c0f782c5168369e45abf58653d48cb8242c20130e9e6b0764ebc83395d07b68",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "bab27439-cf82-41dc-b036-730937c51d8f",
+      "label": "Electron Image 54",
+      "table": "ElectronImages",
+      "dtype": "<i2",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "eebf43b59dd8411171a6fb4d9dbb1c93dc890b05875d888ec75ba0b916afaa66",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "fc7a8aa7-3092-44ac-aeb2-d1c9efb64984",
+      "label": "Electron Image 55",
+      "table": "ElectronImages",
+      "dtype": "<i2",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "cf415e9648b412b2f6a3e46bc7a7fb4a76fc24661ac7fe3c38cd3f92c6353814",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "cf406bf9-fa93-4e37-8ee7-6329b404bf5a",
+      "label": "Electron Image 57",
+      "table": "ElectronImages",
+      "dtype": "<i2",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "fdba1a6d03894b787d8977195cc2596cb73af90eb8a5cbc4f475903025c3298c",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "7a515797-8e36-4cc2-9534-4f225b28493b",
+      "label": "Electron Image 81",
+      "table": "ElectronImages",
+      "dtype": "<i2",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "29304ec936e4890e2408f2ee5c6e512c4dfc3c7f6ff016eceb76edd1a260027b",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "3b3ccb85-7132-45a5-9478-4f5e4db44d89",
+      "label": "Electron Image 82",
+      "table": "ElectronImages",
+      "dtype": "<i2",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "b9b0189d0f5d4f5743854ae9708d5c80c518316bc547c7b85630ddad12c7c152",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "db56439d-646e-434d-aecc-a56c07f03e4a",
+      "label": "Electron Image 83",
+      "table": "ElectronImages",
+      "dtype": "<i2",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "7c379ccb1838b4ee5b7c46113eaec864f70d2e447fd716008d00a061c495c2cb",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "1ef17e59-f263-4768-a998-98418fda0eca",
+      "label": "C K\u03b11_2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "1144772467b9118c0e598672de6d063837aa1bdb5cdc92887e8aaa08bc07fbcb",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "46859445-4e51-49f7-a88c-5358ffbc83b7",
+      "label": "Ta L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "d07e5076c6d364ecced5c10aa8c84df39cf42ab2d1cd923b82386ea1a818f390",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "3bde9af9-be5c-4db5-b37c-4fd89a5c6c29",
+      "label": "W L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "08e08af6306bba01cb007e56547e441970b4e4cd5635d794a4637ad9b5bba102",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "e72f6223-4782-4fb5-b9fa-b4f3f76dd716",
+      "label": "Mo L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "2d68fb129de812234a250ffa9f1b1781f3f293ff5c6e9f150d58fb1348c96772",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "fa0f3afe-6376-421b-93f0-0502c82ab9eb",
+      "label": "Nb L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "d875c996d0fb645d31368f43667424de7ff1f7d161d0219f1ddfcea980efb9c1",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "2619f4d3-e6cb-4cc2-a822-a0c9711ab964",
+      "label": "Zr L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "a8e78a7c3d4f1727b381520304c73898be2f1bf91ba99c2e9bc80e657f5ba84c",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "dd2fdf16-946c-44f8-b928-40d7bb98c877",
+      "label": "Ni K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "3a3afa10184ccf2e7549f345fe6fc0c03d4455415e9f5564de89d8dc20d32511",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "24c5bf0a-e32c-425d-823f-4bd31d62fd6f",
+      "label": "Co K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "4b5790f5a8deaade07292300049feac79df84f6ad59d4740639eda83ddc6caef",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "c013747b-5c9f-4d29-9202-c761175dc7bd",
+      "label": "Mn L\u03b11,2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "51036047d3e896391485500e45c2dc7d618ffb35370dd25544610a96a189d216",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "d91c0087-651c-4827-9398-61a6928469b6",
+      "label": "Ti K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "50cff4a6ba55857dc5285382573c3b60bf2062b2eaf1b97f75bddd5497135051",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "a17c3e2e-4e35-49bb-8c25-aa3f2218cfd2",
+      "label": "Al K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "6feda394429dd1f499e753ad421b651f8f3e2311dfece7ba75efb257db86a876",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "a5e11a4e-7771-4b97-a5d1-fe53c105e518",
+      "label": "B K\u03b11_2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "5d63248bc5c44a6b7ae7642a7772031cce483bdcad1d0fa8a05357bae4476922",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "0b0b4836-1a7b-4de3-b77b-403970ed6486",
+      "label": "O K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "b3ad4dc492759fe7e41f72eb1860c2d2d8dac1c23969e3bdc433de2997aadacb",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "88e0775b-be56-4914-b7ed-208943b6711d",
+      "label": "Cr K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "645fe7dbf523529ad2050c7e33ea42b761a83a1d9dc482933ef34ed4ed52835e",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "0c9e1f8d-548b-4c3b-bfad-a0318e66060f",
+      "label": "Mn L\u03b11,2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "59c92d344a1ff5aa37aa84278b493ec91ad53f3e0bc252baa3b0d0963a545529",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "95eb88e9-b558-4eed-a249-2846455bf5a8",
+      "label": "Mn L\u03b11,2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "c5c0c1a858c4cc31e2285c554784c5a4d92b1db03cd87521506cdc1d60cf58ac",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "68a206de-d9a8-472a-af60-8d0f9830e4a2",
+      "label": "Mn L\u03b11,2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "524e2df008283d7b8cfcb8d5e85221711e64affddbc05a87d867951f12256ff6",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "34b59b97-be2f-4eb2-8b94-09b54355ebe5",
+      "label": "Mn L\u03b11,2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "72358933dce044930949e76c3cd0569afe72bf2233021929f0025937da0468ed",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "2ae99984-6bf9-4ec4-867b-1ff605e00a9d",
+      "label": "Mn L\u03b11,2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "a63971bb3e3c57a44914727ba8681d2b2e560b4c625efe74fe145a7a071b9991",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "ac69a206-3232-4e09-b5b3-de1c193af80b",
+      "label": "Mn L\u03b11,2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "601280ff93967704034676bbe84b13007fc25f3f359eb9dd43b92d0f2a2065d7",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "fbe70d02-9110-4cc4-b9b8-b64404592085",
+      "label": "Mn L\u03b11,2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "25f2c4116aadda9ddd0a7ae3371cedb66edb0f04f151056d5628f904131bc62f",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "8a704446-2f64-42ec-a1b4-9186576f7871",
+      "label": "Mn L\u03b11,2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "112263e84dca75332f3f7f97302c3e5d03ac39d1de09c3c429d51f9e8bc1f5ce",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "7fbd6938-6fa5-43ca-b17f-9f18febd0415",
+      "label": "Cr K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "8712a2e4bc2d97d1da7363235a1ccc37e60f2f61ede269e4ef8c13ea8e31523b",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "704f8f7e-ef8a-49b0-bd45-78ac341b2f4e",
+      "label": "C K\u03b11_2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "bd75825c0c51f6e0e2cdcd3664935e12a0134cf19004795ec9be52782048c6ca",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "853dfd40-6847-4eb3-9c79-f21611de0fe4",
+      "label": "Cr K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "95ad27c7d51baf1d57f460cd3565e115608cfd6989fb22968dcd5e5566ffa1f4",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "b2686bc1-3592-4e5f-86aa-8f99c6329043",
+      "label": "Ta L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "e7809c00ac7419104051b4d61a0d65120564faca88146599657b6b60dbf7eff4",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "106fe3ef-1fd6-4426-b3a2-78bba596fe14",
+      "label": "W L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "625df791044045c87c4e537551032380c6666dca9b766b385a4fe4d7f090a13a",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "41a32523-4281-465b-a10b-0e6d92af04da",
+      "label": "Mo L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "c366ded67a92936ac5d786b69e4a1af6f94b3562f60cd47c5d79fc49d87df419",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "353f8876-67ac-4a3c-9822-5d6991e31df1",
+      "label": "Nb L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "956e43a8b9bb4135e6b3fd22013cac9debbab3fffd2e1429273d8b3182cb36c6",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "ff23b1a7-7341-444d-83ce-028ee90e2bec",
+      "label": "Zr L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "06b88cd0d2b241f48aea3616061a5ac53f7f3f152f91b76d74d8dac6f33f69c9",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "7c0f679c-8e29-41eb-ace6-ea5d828779e9",
+      "label": "Ni K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "7d9d17174571c1ef8f51bbab422428a9f6e6ba6f1db726f6b2ed004e54e98e6c",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "74c609ab-6dc1-4194-bcd2-3ca89822f0eb",
+      "label": "Co K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "5b35e4858b7b0f989ec7f8102da1990b0722e0c5a0e5203d14d496ba601f3e2c",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "4ea50df5-5fa3-4662-8465-5f19b3bd0146",
+      "label": "Ti K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "03e08bee3c4da6fb7f070104aa05ee61afb73dbc8fc7da1d9c05310b2627e831",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "803da799-fa61-4818-b823-2fcc3bafcfdf",
+      "label": "Al K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "f2276e4b8a405fe605490f127c47ece225915b7f074facf90367a8a60c2a109a",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "467fccc5-6b53-4882-a40d-4d3bef596c83",
+      "label": "B K\u03b11_2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "25cabcb6260c02dcd81d53be3ac951a6ee930d93a5e8f6289e8fdd5ab559132b",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "7a90d835-b000-4169-9181-23b74cef2537",
+      "label": "O K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "b49081a603bd655e1f55a4c109cc9d348c3384be3031e732d41b8456ba8396bd",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "a09c7b4d-1da3-40e6-a23f-a42f0928902e",
+      "label": "C K\u03b11_2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "134a24acf37123dc8c25b55ccb8032230620b8aa2cfaff7a36f19dcb482db6a6",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "3edc1fc5-f6cc-4437-81ab-35d5d1e807cf",
+      "label": "Cr K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "4093927024e964011b7125293ff35a25fc5d69fb9677ab824cc2b7ac9822b4fc",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "46e0ae50-022d-49f1-a576-612e7e75660a",
+      "label": "Ta L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "d8c0434fcc493dfafe3adf3f010e49448f6f69c69738e642256ac309941cb6bc",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "f5ef39af-1098-4a24-ab3d-fcaa5c3ecd40",
+      "label": "W L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "66659d1453bc5614b2b1a8edcf544972ae1c40f0cf61881246818b937b103abb",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "4c01ce80-0548-4a0b-a383-44fc0cbf63cd",
+      "label": "Mo L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "304cd8f24f8609083163883c064eccfcbaf3c3359969456ddb7b2dc2cfa0dd66",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "33d041ed-5ce0-4a43-a42a-8261b02f129c",
+      "label": "Nb L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "e43c30d67d495eb2f746ec29513606fd35cc70bc5191d79c9931260d0527c86e",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "face0375-a64d-410c-9d01-530fe96d0f32",
+      "label": "Zr L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "ecfd8bad792b92d13ff860d3a643c9a0df706e42cb8cbe68089cc2fe1608602e",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "1173a5f1-a7b9-4782-b10b-51eea069a874",
+      "label": "Ni K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "e35faa045920b73d2b36bfba427dbf48ff470836e2e66b32580dbda945cbf5e2",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "eb74ba1b-3647-4bd1-b684-deb38874f946",
+      "label": "Co K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "af5c4c4230238b2a7e668b27e20b11473c2ab8be209baf474a760196da1f1740",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "61ce3eb0-3933-4fe6-8be2-7c778015eba4",
+      "label": "Ti K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "9d6727968f76ed04282e9a47353574023b3bc954e46b46e5e323c7a003adc641",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "a65d00d0-ff61-435f-a7e8-810060035d9a",
+      "label": "Al K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "ab16a6dcfa70c7f72d14a7507f11d6de29169c69d23746a9a51bcf85ac3dfa98",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "d0d95de3-38b3-45ea-aad6-3997285656cc",
+      "label": "B K\u03b11_2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "e6c0a8d5508a0011d434920283f831a857b3ad0600e989c1b8730e02bef6c812",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "5296ad5c-f683-485a-873e-8ffeafd91f24",
+      "label": "O K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "0dc5df600e28d66db6a697a2015213e329ad11b80bbf506e084df3add96ff65f",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "9a29bb0b-4619-4073-9d7c-1cd3b019ec7c",
+      "label": "Cr K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "cc003120045676e6eb4f30da55606fc58e15aab60effc3d6154337e337a1ce06",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "5733d523-6480-47d9-a061-c534beec008c",
+      "label": "O K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "450f70b07c984794dc0a0c8492992ade75b48158381e908a67198cde3831c557",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "0076277a-a014-4fe4-af78-5d19a9902274",
+      "label": "B K\u03b11_2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "97d99ae1b29777b0feab38fa3de89a0472054e46774f42ede1e517129593ff86",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "52cc5b3d-f409-4723-b688-38b4b6651e77",
+      "label": "Al K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "ab7e8e5241e6f166ca7cf0581a94c450c0e56f115e878773edc70c94781e8fc3",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "d4ac7c65-5a66-41df-829b-382815847c9c",
+      "label": "Ti K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "e060d7a0b3dbc5b3c45bebff9f4ce0489ea5b524ba65a2ac7d8bbee8b8b52d0d",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "fb89a7cf-2600-4c0d-a42d-0ae66e623ab8",
+      "label": "Co K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "f7ea1b40a3e72032b56ea18d9750dd752227c10a1e9427886abf8b73d4a4ea5b",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "4325a4bc-9716-4767-8880-25cb18d84155",
+      "label": "Ni K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "395418659115ff4adcc2c20d6548c3a3ca3e081b2ee4b695e8e048f26bf8d7cb",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "d13484b6-2adb-425e-93b9-b625ed131ff5",
+      "label": "Zr L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "a85d8c455332c2afae9fcb243d3c6fefaa41003bd25aa71e18cd584fe43e4a9f",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "fccb9453-a102-4b58-8317-738ad2b10b27",
+      "label": "Nb L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "3269a38eae78d087b1f369abf5b71001a415735e7974d89eeaf1b5a66d5b74c1",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "ca0f8169-16bc-4f35-a885-6c4608170cd9",
+      "label": "Mo L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "79f415983c34704e470167e010f549c5c158eb7ef7c6c55be9b0884d3c207394",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "594e05d5-4d68-45cb-b3c6-052581e14487",
+      "label": "W L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "1506d6a1aad613b64ea829f3e31d06238c7fe8fd70d2a847cd0e7625f2988d38",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "335573fe-77f0-4520-bbc0-449bd6224d66",
+      "label": "Ta L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "6b85eef6c0777b55c95d80963f8106182d6bdff561c6e8be1d2c4a1b98c35a67",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "6710a216-265c-44ca-8e88-318883724d6e",
+      "label": "C K\u03b11_2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "9f646eb652f49fdb2614f12c5637cf53abe3ad0c2cc97722f7fe28a1464723c1",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "f9308085-3f56-4d92-8fa7-bcd362746d14",
+      "label": "C K\u03b11_2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "b7ccf680e44e3e41142f4a336ea37c06f9ba0416e26872edd5a31230c756816d",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "a5e80b77-e711-4607-8967-1124a88b733c",
+      "label": "Ta L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "22c138f26307e05224f276ed92a1cc6741a513e99aa09836051a57ec8798a011",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "19071486-06a4-41e4-8369-7e0948ef4cec",
+      "label": "W L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "4ed8d3f230ec9f473be79f57a37f4d308b253cb4ad750f5278659dbbac5dcc34",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "46585380-0dd0-43ca-bd13-4c0fb3ebefa2",
+      "label": "Mo L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "a3757e3852162a17da0b796ff09599acf14e2cc1194ef972f9f079689e10143b",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "f191a09f-bff6-46df-b921-66f1cb4b7914",
+      "label": "Nb L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "44a2afd912d06379da1e1bef677e29373fafa7d33071afad11cbc06c354247e4",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "78d952d8-f047-4deb-bba4-8a18ec065a37",
+      "label": "Zr L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "136b852d9c9e21f36c6283dfaef413c228048170592da55446c362cd5ee02584",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "28b5ea5d-7cd4-42cb-8dd7-5aaedf367095",
+      "label": "Ni K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "d1319088922e569b2a66e5694b0e4eddadedb00a4daa023fa6db8a15458a71cc",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "f579f890-7936-4477-b464-df63e54b9ba9",
+      "label": "Co K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "7ef6a321566f939621fff9ad4a1493743563dfe98f95cb7611f8de3d61992d9c",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "d1bafca8-7384-4b71-8bbf-696c607ae6e0",
+      "label": "Ti K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "1c12fd9563e7071ecd5756fbfb706d7d6f120e77c3364334c7e050e4dc3f974d",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "c72c8170-f4c1-4d85-924f-f42c4ccfd86e",
+      "label": "Al K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "4112432b782d702775c1040bfffb8491f3de4a057841e31664435281dc4a2c79",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "e54d2d70-319a-41ee-82a9-ae4a91d8d531",
+      "label": "B K\u03b11_2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "d3fb0c61509c6352efd857f4cf3006319662fe3b6e784e8089ad4d3b72f20c96",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "af4a3ad1-2c28-48af-8088-f5e025abaefa",
+      "label": "O K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "a6f6a3afdc8fceb3032492063f9895c7da6fe81ece8a159ac2e2a438e8d02fc0",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "a656dc21-0e63-4394-8433-711e0169f389",
+      "label": "C K\u03b11_2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "c94126ce579ddb4b437f7741811c09dc8cb84cf5ed26eedaca21274990e7029b",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "26144af2-e950-488d-91b9-ba3fe28d51d1",
+      "label": "Cr K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "139c8e4d250ce8d766fc7edb84c2f0a747a0fd7fa725529e5790689f67334b38",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "01392966-86dc-4631-bf30-9b13d950143d",
+      "label": "Ta L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "d7968a8dc99df85681373484afe66368e1c261c62208e604c99b9341c99c9f1c",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "14d1298a-075d-4152-ba3f-f37fc5bf18dc",
+      "label": "W L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "22dd057d5b92f722893a87e35276103e7590d2fc09d17808a43b5cd9d15ceab5",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "81dcb00c-fb64-41ee-b8c1-fcd6ae840202",
+      "label": "Mo L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "f0816719408aaecebe7cc75874d00301775a1075301e796948a7e015e40742c0",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "049a7f3a-d041-441a-8b04-75e4cf705213",
+      "label": "Nb L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "79e28fa24da5cf4ecd3c6cd89a4481f7877ac9a9ef4cfe16eb699bc12f30a8eb",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "fb460ff1-6ea3-4a61-a62a-ab32bf4123c8",
+      "label": "Zr L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "20cae1c6863f64088d30ac08347e241f66ba0df37bd4f9a99de18d6021bb08a2",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "db0ba75d-9bac-45bb-8eaf-b6193eae8f33",
+      "label": "Ni K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "010433b43d37ebe942a4426ef8e55423fcb22e33d4c2c086e1e14256ba0dc37c",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "459bb1a0-57b1-483e-844e-e8cf04083aa2",
+      "label": "Co K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "a3f7de4f46cf34cc0852c7bf8b3e371bc3a20f23dd3242e7e542629ddc9ba109",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "fc28947e-f9ac-4c5c-be41-488d0f5f340c",
+      "label": "Ti K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "a0b881c7a3a32815e72f5cd9e37e6d8ae95ed87ed86b31337f3696de1015a181",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "6e6c445c-1b8a-434f-98c9-6c9a0fa4b01c",
+      "label": "Al K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "89e38c14104d49e94383a28d6e02c1562a83bb64a70ec5310bb6a6870bcb86af",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "19585284-bcd3-4c7b-b075-e2c308d45a3f",
+      "label": "B K\u03b11_2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "b29343af9b2c8bfd0c6ce27bf7f2c5a1e337f26cbd3b138cfd4fce4b48c8add7",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "c2e7a04e-3ccf-410e-8107-72dabd43c717",
+      "label": "O K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          1024,
+          768,
+          0
+        ],
+        [
+          512,
+          384,
+          786432
+        ]
+      ],
+      "sha256": "414e8b5b12cab7c2f37190fa8bc90bc3ef35e7884af739dfb5672c22b1e27612",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "c73ee401-c086-479e-a73e-33eab81f2ae4",
+      "label": "Cr K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "722ef610f96f058f291a3b1804fe887d2245c5f9698b60754e2a8da437ddc303",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "ce904c1e-1957-4c88-b057-53d2faab97d6",
+      "label": "O K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "8a16b2e2fb397e1f82cfea478d192eb96bf08b632a3a205246a9147c4724251e",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "4d7a0138-ddce-4a60-9d71-104c39fe9d6e",
+      "label": "B K\u03b11_2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "5420eb0e1a8f946d03ca8d0d882f02ee074dcc9b1712f04cbc73f6486f971541",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "f6c4801e-2c23-458c-8a6d-a9b0cab6ea86",
+      "label": "Al K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "119c086066ba4f4297b12564e156c7e0686ea49917344e13b64b96033e3776a1",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "d08699d9-4041-4b40-bb92-9effbc1575ad",
+      "label": "Ti K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "55ce9f853adaaabbd331788ad31a059c718930dc900ea1a8c554fff84ca4e5c4",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "2b8bbc15-3e15-49d9-adcb-470d2ad77a89",
+      "label": "Co K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "0ff7cd7a6fa2cd95585dd3f6f84e8607266bfccdb982a3f2f9b4abc9b2e09ac1",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "8cfb49f5-3663-4359-a455-5f2ae032efa5",
+      "label": "Ni K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "c4efb1011656de0b1a1ce19f506d1653b76ed2075408272d578fdba03b347d71",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "00300c31-951b-44eb-9fc7-a024864c94bf",
+      "label": "Zr L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "a7ca58f711a7691f8b49894114c230ce8a2769076c69ab7ad27c14349ca8fb48",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "701cf97e-bee6-4bf0-b2ed-841db31a300b",
+      "label": "Nb L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "ffa1b29f0b4c54abbbcd7f049fb351716a20c533397e5c8cce632de2366db767",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "121cfeae-1437-4b63-a0eb-03400de5faf4",
+      "label": "Mo L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "c90044ef81eaaeeb8627a7e8be0ea97e1a68ceb859a14f718d5b38c4643ba1e5",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "7e6efc35-ad5c-4a43-810a-7ef5a64e19d2",
+      "label": "W L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "c49027fe810ccc4b0519a4cf26e176d7640ae95c2fc79a1c16da08726c88498e",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "72011222-8e0d-4ed9-82e5-7c1b13b1392f",
+      "label": "Ta L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "431ecceceb914952cea2b9f6a8c87a49ed00b0ad2878623ee24b30f07a69d049",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "68080f47-bcbc-4c3f-8bc5-bec85192c23f",
+      "label": "C K\u03b11_2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "40ed8d77846c3e91497af806cff229c6c618aaf4e526ec9f4cd6eab996510570",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "c87e2c58-cb44-4b93-9aef-d49d7499bf35",
+      "label": "C K\u03b11_2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "6ef4cf3ee7e3ec8f58cb2176f31b90574588a2f4bda8f1f49e388e83daa3aa92",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "abeaae41-d77c-4c2d-ab50-33f733b2be73",
+      "label": "Ta L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "6394917351c72dd4824ebcb9d33813e7b9cf4885bb2f5ef28ea28ec0f2d42c3b",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "886e3db0-606f-4fcb-84b2-a88db439b933",
+      "label": "W L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "89dccc3103db3eeb194861052d00c6e6797de2232c57071fe7d4b9962b2321e5",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "18e2bf1b-5652-47ef-9623-1fcb2ff00375",
+      "label": "Mo L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "ee7880eb0aacf1a32dfbf691e819e832ac6e80c54cf2647558007f203f5d5e52",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "2ebc2e79-2c5c-4ebc-9b68-fd547e671cdb",
+      "label": "Nb L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "5c00f5c4e7510e36990fd2a2074925aef8aadd7147a316f4152815329abdec36",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "938cf1ad-22a4-48f8-9949-ffa7328d3ed9",
+      "label": "Zr L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "de11347ca8d1a443776439bedee549e83038c60df7a704dca60b6f10fd58e529",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "3e805164-eded-4ea8-a078-baec6c967551",
+      "label": "Ni K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "2e175a0a02b68870505efb9e7f2deceb75cad7098c3be57267849d1bef7c7489",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "73265f7c-4ca2-4774-887f-dc112c676de9",
+      "label": "Co K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "79bbc7a0f911287c58e2db1e4b0e367ebb27991b9fc86be61c829b1f0264de9e",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "166e0214-552d-4184-9a99-4e48af540f51",
+      "label": "Ti K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "19785a6f969f0362ec775f560b003e6afa7032b06878af7c58594e7ceea84794",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "2f0f5976-a3b2-49fb-91d0-78999f6b34e4",
+      "label": "Al K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "942dd492104bfe05dea2b822fd21df3f6d06e42f033ceded7a9abd5def50766a",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "234e6649-0ca6-4df6-96b0-97a30e289209",
+      "label": "B K\u03b11_2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "319afabe601efd545f0d6b51ee29d0319989958b65d44bdf84da6b1be7368a89",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "a57355a2-4508-4af6-9691-9cc0eb043ac1",
+      "label": "O K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "19e8e8b07e758deb1ab8cc6f8683a1c4a377e77e44d585899b3661cde53ae132",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "ea0272c2-ab0e-4757-9bb9-136187f848b6",
+      "label": "Cr K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "c4ef28d3c4c144cf9e567d758644300033c9fb6e541e82a9add697f51382493a",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "bf28f051-1d75-4305-a061-50127c2e1e66",
+      "label": "C K\u03b11_2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "6fbec064f297169ec2c5e44b66c54690ddae06559517b926bafbcd544cc8ea97",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "e45ea664-4e63-495e-8507-7f08bd79f903",
+      "label": "Ta L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "c7382ff17bd8c1b73654060fe5a6b1a53e044d3fb49cb9e2877d49abe294b3b0",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "e6e4b9a7-6000-44c1-a291-c830e41f9b3e",
+      "label": "W L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "b06e452140a82d2bd7c7fe129b8a7cf90e3de7dca1c9808ab7dbf2cd62c7fcb5",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "f918e780-94e0-449f-8cd1-33452b9a3846",
+      "label": "Mo L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "0ad4fa366b42a92d79696604ef9ed3775ad97ccac6224ed391bf583c329ecd2c",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "4c79c129-4905-47f5-a559-3beeb4d36890",
+      "label": "Nb L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "1d7613675b11e119e559f38bfbdecf5459ca7489c4e73795e95e8c957fce3977",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "587bfe2a-cef0-4596-a503-4af438bf6618",
+      "label": "Zr L\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "cedabdcb152255f12808e4c4498f9e0c3e40d08c0d39364133abbd1c979b07c5",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "ed2dc165-4cee-4a77-bd48-b926e0bbd211",
+      "label": "Ni K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "7fbafbf965ab9f5def476ad554b549dd055d270a583aab97d63ea92b6c9cde6a",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "3ae39876-c02d-4e4c-b60a-e24463cdd5b8",
+      "label": "Co K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "d678bea7af079c85174b82339980463de8bca124db88c0ed1f1e100258d43043",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "678ca7a9-014c-48df-b718-51c7d891ed1f",
+      "label": "Ti K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "ae331f911a6be7587578852cfe28c14128a9dba489254340b88bf5c50c0e0b3e",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "97d35ea9-393e-4991-b39d-31757b4974d1",
+      "label": "Al K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "dec5e3d5da0a734624a032b9988b98e5e0f2bdf48778fa61e8285e62e40ccd9a",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "d98f3e8c-c3d6-4055-bb16-7d2b3f205f31",
+      "label": "B K\u03b11_2",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "b97c63e28f5936edae0a43742eb7ed65bcb3bee67aaa28905f5318a5735d2e3b",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "2f85f2c8-a73d-46fd-acb3-735652889ea5",
+      "label": "O K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "feb79294e4fa933e0aaf083676e33f59ce0c16c58a10a207c33c54a837b3540e",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    },
+    {
+      "image_id": "c0c42f08-c37c-45c7-87a7-3722b3ea7eca",
+      "label": "Cr K\u03b11",
+      "table": "XrayMapImages",
+      "dtype": "<f4",
+      "levels": [
+        [
+          2048,
+          1536,
+          0
+        ],
+        [
+          1024,
+          768,
+          3145728
+        ],
+        [
+          512,
+          384,
+          3932160
+        ]
+      ],
+      "sha256": "082a771bb90445b0909157bbe75e78217bc6b193f4296af78bcbf5a623070e0f",
+      "array_bytes_roundtrip": true,
+      "pyramid_checks": [
+        {
+          "pixels": 786432,
+          "exact_matches": 786432,
+          "max_absolute_error": 0.0
+        },
+        {
+          "pixels": 196608,
+          "exact_matches": 196608,
+          "max_absolute_error": 0.0
+        }
+      ]
+    }
+  ],
+  "count": 135,
+  "hdf5_sha256": "6b694ef9cd428803fafbeff8b228e4ecceab8ba63fa8601fc9f884da96b45340"
+}

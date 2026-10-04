@@ -1,0 +1,6 @@
+{
+  "file": "database-export.zip",
+  "sha256": "5383df7e10b8b5a6208b8979ea574be1628c827cfdfcb71950e6b7db85759f3a",
+  "bytes": 1476831,
+  "description": "All 22 SQL table exports and their original binary XML blobs plus decoded XML; 2470 files. Unknown fields are preserved without interpretation."
+}

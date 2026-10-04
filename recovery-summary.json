@@ -1,0 +1,27 @@
+{
+  "status": "primary_measurement_arrays_recovered",
+  "source_doi": "10.17863/CAM.97038",
+  "source_members_verified": 371,
+  "source_member_bytes": 1786485558,
+  "dat_members_verified": 370,
+  "referenced_dat_members": 369,
+  "unreferenced_members_preserved": [
+    "98fe969e-8dc2-423f-8187-80e858985ebc.dat"
+  ],
+  "stored_spectra": 18,
+  "spectral_maps": 9,
+  "spectral_tiles": 216,
+  "decoded_tile_channel_planes": 442368,
+  "stored_map_spectrum_channel_comparisons": 18432,
+  "map_photon_counts": 213795229,
+  "spatial_pixels": 14155776,
+  "stored_images": 135,
+  "stored_image_pyramid_comparisons_exact": 177,
+  "time_planes": 18,
+  "database_tables": 22,
+  "database_rows": 1224,
+  "raw_arrays_bit_exact_checks": true,
+  "external_vendor_export_comparison": false,
+  "remaining_opaque": "Quantification/calibration and other auxiliary blob meanings; one unreferenced DAT. All original bytes retained. Energy/time units inferred, physical scale and beam energy unresolved.",
+  "review": "Autonomous agent checks; no external human review."
+}

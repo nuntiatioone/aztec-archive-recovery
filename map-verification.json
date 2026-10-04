@@ -1,0 +1,2084 @@
+{
+  "maps": [
+    {
+      "map_id": "bb89c3d1-5fb8-4089-baab-fcc5c74cfc81",
+      "sample": "Nb2",
+      "site": "Site 1",
+      "width": 1024,
+      "height": 768,
+      "channels": 2048,
+      "counts": 22827920,
+      "stored_spectrum_id": "8dfa26c1-83f3-43ef-88d6-9c988db41e23",
+      "all_2048_channels_equal_stored_spectrum": true,
+      "each_pixel_covered_once": true,
+      "tiles": [
+        {
+          "tile": "89eaab92-2d55-4d9e-a42a-1e17a918f1e5",
+          "counts": 2326693,
+          "x": 0,
+          "y": 704,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "e0874638-0432-4fcb-bfe7-6ac2e3bb31e9",
+          "counts": 2341091,
+          "x": 0,
+          "y": 640,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "57a47723-7c71-4f9d-8b36-f7d734f77e0c",
+          "counts": 2363392,
+          "x": 0,
+          "y": 576,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "3bc2cf1c-8572-41c1-bd20-1772797a8242",
+          "counts": 2362921,
+          "x": 0,
+          "y": 512,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "9f65cfbd-dfd9-4b23-80f5-37e9ce6fff1e",
+          "counts": 2239384,
+          "x": 0,
+          "y": 448,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "9bbd7eac-3383-406b-bbd0-2330ab5340cc",
+          "counts": 2179291,
+          "x": 0,
+          "y": 384,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "c6fbb33c-74ae-4a0d-b0c8-209e3978eae0",
+          "counts": 2215665,
+          "x": 0,
+          "y": 320,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "7feaac41-9464-42db-afbf-2315f968ccac",
+          "counts": 2095494,
+          "x": 0,
+          "y": 256,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "f861f6fe-014e-45d5-adcf-b8997c461dfe",
+          "counts": 1729380,
+          "x": 0,
+          "y": 192,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "9a2b7e23-deb2-41ed-9dce-3c71690b5d04",
+          "counts": 1234751,
+          "x": 0,
+          "y": 128,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "e8f944d5-fd3a-478a-b5aa-686942fff55e",
+          "counts": 758858,
+          "x": 0,
+          "y": 64,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "b39be2c8-fe5f-40df-bd5e-cf5bd4aa01b5",
+          "counts": 981000,
+          "x": 0,
+          "y": 0,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        }
+      ],
+      "hdf5_sha256": "b95f5f8b5eb455d7dd6bbbe1f4e3d2ccbc82d6a9cf5185c901e731e40ba1fab9"
+    },
+    {
+      "map_id": "b7ef6eda-7951-4908-b9b9-ea29d2ea6cda",
+      "sample": "Nb1",
+      "site": "Site 1",
+      "width": 1024,
+      "height": 768,
+      "channels": 2048,
+      "counts": 20363032,
+      "stored_spectrum_id": "c7c095aa-9950-4d03-b55a-2f2ae6a853e7",
+      "all_2048_channels_equal_stored_spectrum": true,
+      "each_pixel_covered_once": true,
+      "tiles": [
+        {
+          "tile": "6bdf09c0-1e04-4abe-a610-0e9b152f3668",
+          "counts": 2339853,
+          "x": 0,
+          "y": 704,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "4d401b16-78f0-478b-b829-f31784b61e4a",
+          "counts": 2342498,
+          "x": 0,
+          "y": 640,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "a8f84a77-5e74-400c-828e-9ba1a877a6b7",
+          "counts": 2294227,
+          "x": 0,
+          "y": 576,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "77df15bb-d4a4-4fd4-b632-e179e8ca5709",
+          "counts": 2222538,
+          "x": 0,
+          "y": 512,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "c128ae08-0b73-4a98-a4ff-4135ba1bd8d3",
+          "counts": 2200472,
+          "x": 0,
+          "y": 448,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "0b629ee6-b8a2-4388-ad69-7f3b0eb43b18",
+          "counts": 2195304,
+          "x": 0,
+          "y": 384,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "45ad1f26-0287-4923-9869-866ad54b02ef",
+          "counts": 2169419,
+          "x": 0,
+          "y": 320,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "36e0895c-8b9b-47dd-8abe-a51fc068533f",
+          "counts": 2129739,
+          "x": 0,
+          "y": 256,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "366b2871-bd8b-4719-b41b-922bb9659aef",
+          "counts": 1653244,
+          "x": 0,
+          "y": 192,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "5915a55d-d30e-41ec-ad9c-836b77a1c75c",
+          "counts": 716981,
+          "x": 0,
+          "y": 128,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "e5e0c7e8-3e0b-4448-abc9-594f94aa6711",
+          "counts": 56111,
+          "x": 0,
+          "y": 64,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "0f487e1d-f967-4bc1-af94-744390e326e6",
+          "counts": 42646,
+          "x": 0,
+          "y": 0,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        }
+      ],
+      "hdf5_sha256": "400c25e3bec3c2841197587dd2a3c045ba6cf359bcf83ad5edf7687fe3eff4cd"
+    },
+    {
+      "map_id": "90e028d6-5007-4f8c-8403-f055eac13bb2",
+      "sample": "Ta2",
+      "site": "Site 1",
+      "width": 1024,
+      "height": 768,
+      "channels": 2048,
+      "counts": 20564233,
+      "stored_spectrum_id": "d5febe22-675d-4089-848c-083fd681609e",
+      "all_2048_channels_equal_stored_spectrum": true,
+      "each_pixel_covered_once": true,
+      "tiles": [
+        {
+          "tile": "cc7ec181-bfc4-4824-81ba-60bbbbf35ad7",
+          "counts": 2345095,
+          "x": 0,
+          "y": 704,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "729461ec-0573-4411-9450-18d2a6778ebd",
+          "counts": 2352474,
+          "x": 0,
+          "y": 640,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "f9c39be8-4198-40c3-8ebf-f7592a4bd2c7",
+          "counts": 2353486,
+          "x": 0,
+          "y": 576,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "808d03a9-49d9-4a47-aa51-e10288b99202",
+          "counts": 2355505,
+          "x": 0,
+          "y": 512,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "dd6fcc79-0f21-4cfe-b878-5fa91206bcd9",
+          "counts": 2360429,
+          "x": 0,
+          "y": 448,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "386e0f16-5638-4930-9b0b-308ab89b93b6",
+          "counts": 2341751,
+          "x": 0,
+          "y": 384,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "b8c99a6b-3461-4a2a-b399-c1c09cc4a9a8",
+          "counts": 1715324,
+          "x": 0,
+          "y": 320,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "b68a27f7-731f-41f8-830f-6f9ad860e603",
+          "counts": 965812,
+          "x": 0,
+          "y": 256,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "14768527-bac9-4728-9c74-49216db92a5d",
+          "counts": 892696,
+          "x": 0,
+          "y": 192,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "de1ef454-657e-4b6b-b9b9-50586f8633d0",
+          "counts": 1001500,
+          "x": 0,
+          "y": 128,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "dc630cce-4cf5-484c-872b-041ecac37600",
+          "counts": 990572,
+          "x": 0,
+          "y": 64,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "0bac39d3-745a-496f-8883-46ab4d89ae94",
+          "counts": 889589,
+          "x": 0,
+          "y": 0,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        }
+      ],
+      "hdf5_sha256": "ccb89fd39e9abd818abe6c2255b63f2a33c5ee095de5527b9bccf1113dbfe206"
+    },
+    {
+      "map_id": "1ed2c46b-4cb1-44a4-b269-e5c3c72a2c20",
+      "sample": "Ta1",
+      "site": "Site 1",
+      "width": 1024,
+      "height": 768,
+      "channels": 2048,
+      "counts": 23825999,
+      "stored_spectrum_id": "5cf7a9ef-ed11-48c0-9132-8b958c6c4804",
+      "all_2048_channels_equal_stored_spectrum": true,
+      "each_pixel_covered_once": true,
+      "tiles": [
+        {
+          "tile": "d7cb7972-5252-4a3f-ad98-f8ee17bbf85a",
+          "counts": 2321097,
+          "x": 0,
+          "y": 512,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "19527e15-2c74-429f-a333-8bcf4c0a8105",
+          "counts": 2322447,
+          "x": 0,
+          "y": 448,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "7aad6cf4-f5a8-4670-8f16-bc1b39069e0e",
+          "counts": 2322521,
+          "x": 0,
+          "y": 384,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "ec5b7b66-8342-4afc-b321-d7d69a713161",
+          "counts": 2318607,
+          "x": 0,
+          "y": 320,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "77352547-91ce-4856-b349-5e7df50b059c",
+          "counts": 2173514,
+          "x": 0,
+          "y": 256,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "d03b1258-b98b-45ce-b44a-bea8b81f6a97",
+          "counts": 1305212,
+          "x": 0,
+          "y": 192,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "5d8c28bf-0e5b-407c-b592-1cfa0a7fe358",
+          "counts": 1357240,
+          "x": 0,
+          "y": 128,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "0d4a966d-ea82-4bfe-ba3c-a7378fdbd8a5",
+          "counts": 1380157,
+          "x": 0,
+          "y": 64,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "8403e650-196d-4fbe-aee2-8c430eadab87",
+          "counts": 1351711,
+          "x": 0,
+          "y": 0,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "fcd5abcb-5450-4923-935b-92b52fde93ac",
+          "counts": 2320255,
+          "x": 0,
+          "y": 576,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "64dc9706-9d6c-4d59-82ba-67263e5ab4f5",
+          "counts": 2326960,
+          "x": 0,
+          "y": 640,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "ae575984-e648-42d9-a95a-3d7d83280b79",
+          "counts": 2326278,
+          "x": 0,
+          "y": 704,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        }
+      ],
+      "hdf5_sha256": "859a9fe92150ca14c8fef32e88d53971831f9473b2d0191eb99ec4ced0895feb"
+    },
+    {
+      "map_id": "b2de9ce4-ec60-4579-b143-6200ae714e05",
+      "sample": "Ti2",
+      "site": "Site 1",
+      "width": 1024,
+      "height": 768,
+      "channels": 2048,
+      "counts": 19509340,
+      "stored_spectrum_id": "51a638f8-8771-4b45-a0fd-beff34f30be3",
+      "all_2048_channels_equal_stored_spectrum": true,
+      "each_pixel_covered_once": true,
+      "tiles": [
+        {
+          "tile": "221d7a66-2cc6-4703-b57f-6890cdf5cd18",
+          "counts": 2356876,
+          "x": 0,
+          "y": 704,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "ea351de4-3a4a-421e-9509-5657040d35e7",
+          "counts": 2357187,
+          "x": 0,
+          "y": 640,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "553aa1be-40ac-4c2c-9c72-3851c6f9ce71",
+          "counts": 2365980,
+          "x": 0,
+          "y": 576,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "5f992888-f5d8-45b7-830c-1a647fc4a2fc",
+          "counts": 2363638,
+          "x": 0,
+          "y": 512,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "f58a9a87-15f1-457f-b7e7-5bd16194fced",
+          "counts": 2253500,
+          "x": 0,
+          "y": 448,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "096e8a45-7110-4b38-851e-8d56d737e9a5",
+          "counts": 2219708,
+          "x": 0,
+          "y": 384,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "c0b621d0-5ab2-47ad-82c3-98920eb06d55",
+          "counts": 2232260,
+          "x": 0,
+          "y": 320,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "58cdd2e9-bb8e-402a-b4f7-92b5998ee0fb",
+          "counts": 2001335,
+          "x": 0,
+          "y": 256,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "52c0e8b0-9713-46cf-9ebb-667f3cd6c8f6",
+          "counts": 1087132,
+          "x": 0,
+          "y": 192,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "8791e1fd-8f36-4c68-92ad-151d75efc58f",
+          "counts": 180365,
+          "x": 0,
+          "y": 128,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "8e1796b9-fc20-4a77-a572-8c14e6d11629",
+          "counts": 51477,
+          "x": 0,
+          "y": 64,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "e28f5225-a52e-4b5f-a704-c52c6c8dd077",
+          "counts": 39882,
+          "x": 0,
+          "y": 0,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        }
+      ],
+      "hdf5_sha256": "4676422df60b272b08e0290d48f7899da7d4b3a3480b9eede2a1a6fd713b0935"
+    },
+    {
+      "map_id": "f03d4429-9a36-42c0-870b-ef52433f46db",
+      "sample": "Ti1",
+      "site": "Site 1",
+      "width": 1024,
+      "height": 768,
+      "channels": 2048,
+      "counts": 11290068,
+      "stored_spectrum_id": "6755849b-a6f4-4055-a55b-bafc6dcebb07",
+      "all_2048_channels_equal_stored_spectrum": true,
+      "each_pixel_covered_once": true,
+      "tiles": [
+        {
+          "tile": "82ea0d5c-062c-4b29-82bc-453bfe694ec7",
+          "counts": 1086096,
+          "x": 0,
+          "y": 704,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "284c403d-3945-4fee-92d3-90c13b3c867d",
+          "counts": 1087839,
+          "x": 0,
+          "y": 640,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "e25b88df-9ee3-44d2-94b9-858433381590",
+          "counts": 1089989,
+          "x": 0,
+          "y": 576,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "a39d0290-4423-4728-a22a-25a6b3092156",
+          "counts": 1097224,
+          "x": 0,
+          "y": 512,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "8ce97635-83fe-43c0-ba80-f04f1c64b826",
+          "counts": 1099031,
+          "x": 0,
+          "y": 448,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "6b0117f2-688b-4fc4-938e-2ff10a22b5a7",
+          "counts": 1054782,
+          "x": 0,
+          "y": 384,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "1fc5e261-b472-4595-914a-ed89391c3c10",
+          "counts": 1008536,
+          "x": 0,
+          "y": 320,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "7105ed09-8420-40a6-8fe7-0edcf9647907",
+          "counts": 1010136,
+          "x": 0,
+          "y": 256,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "ca41eefc-d3d2-4ef0-8278-a7a46f2a55b4",
+          "counts": 987278,
+          "x": 0,
+          "y": 192,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "ea3df383-4cec-4697-8bf5-28a83a8d12ed",
+          "counts": 710491,
+          "x": 0,
+          "y": 128,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "5bdb4042-45b0-4279-b4b0-e668dbeb0a66",
+          "counts": 540348,
+          "x": 0,
+          "y": 64,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "25e1c731-93b6-4353-b63d-052d884bef6b",
+          "counts": 518318,
+          "x": 0,
+          "y": 0,
+          "width": 1024,
+          "height": 64,
+          "packed_and_hdf5_roundtrip": true
+        }
+      ],
+      "hdf5_sha256": "7b1fba37c15a9051ea398d14bd20c41859065f597fe8a6bc44453d9506fff6da"
+    },
+    {
+      "map_id": "e58e43f8-1ca9-4a7f-adcf-4642316f2f55",
+      "sample": "Ta2",
+      "site": "Site 2",
+      "width": 2048,
+      "height": 1536,
+      "channels": 2048,
+      "counts": 29223368,
+      "stored_spectrum_id": "177b7557-b93e-4dbe-a4ac-2640012f40b5",
+      "all_2048_channels_equal_stored_spectrum": true,
+      "each_pixel_covered_once": true,
+      "tiles": [
+        {
+          "tile": "7421986b-ad3a-4549-bb40-c7991f5a581b",
+          "counts": 713896,
+          "x": 0,
+          "y": 1504,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "1fb27959-ee05-4d71-a8c5-f94b3cb0c611",
+          "counts": 714467,
+          "x": 0,
+          "y": 1472,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "fbbca7fc-b270-41ba-beb9-8b5b7f6fcf19",
+          "counts": 712350,
+          "x": 0,
+          "y": 1440,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "37990bdf-3897-4a23-a8d3-64fa3b1b37f8",
+          "counts": 712683,
+          "x": 0,
+          "y": 1408,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "ef7b4d2b-3ad5-46e2-89c8-fe83f5d52a54",
+          "counts": 711802,
+          "x": 0,
+          "y": 1376,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "ae44ee66-24a9-42c8-a46b-f3e0d9f7cb29",
+          "counts": 713896,
+          "x": 0,
+          "y": 1344,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "cb1bbd90-e24a-4e29-88e9-8ff543369a00",
+          "counts": 713944,
+          "x": 0,
+          "y": 1312,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "6ec7523a-0959-4e81-92e6-c434a2a94a72",
+          "counts": 714859,
+          "x": 0,
+          "y": 1280,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "e4ee4989-63ab-4200-9589-5a5e3a87011d",
+          "counts": 715296,
+          "x": 0,
+          "y": 1248,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "9bdf965e-1180-4a13-99ae-8651b5c952d7",
+          "counts": 714646,
+          "x": 0,
+          "y": 1216,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "ea3ab851-ee07-43d5-9041-8c702b532e9c",
+          "counts": 716110,
+          "x": 0,
+          "y": 1184,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "fb51fa31-4049-470f-adc0-cab10f21f888",
+          "counts": 715073,
+          "x": 0,
+          "y": 1152,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "b8fa2269-b61f-4dd5-9188-1fee88c0b3c0",
+          "counts": 716045,
+          "x": 0,
+          "y": 1120,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "04fc445b-6ef4-4bb3-a08a-a7fa69840975",
+          "counts": 717043,
+          "x": 0,
+          "y": 1088,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "527ae366-1dcf-47cb-8bab-4a59b89fdfa5",
+          "counts": 717002,
+          "x": 0,
+          "y": 1056,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "d92ee15f-fb47-44ec-b7db-113816ee7131",
+          "counts": 712816,
+          "x": 0,
+          "y": 1024,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "8f4716c3-21cd-40e7-8599-e5efc75a2921",
+          "counts": 706186,
+          "x": 0,
+          "y": 992,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "69a4bea3-eed0-4e9d-bd82-cb5832f51890",
+          "counts": 694362,
+          "x": 0,
+          "y": 960,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "8d87126e-3d61-45cf-ac17-7255c2763359",
+          "counts": 680631,
+          "x": 0,
+          "y": 928,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "b3c097b9-81a3-4634-8853-fa87bb4ff007",
+          "counts": 671107,
+          "x": 0,
+          "y": 896,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "8219c894-733c-4187-9966-76ddcddbaf8d",
+          "counts": 666529,
+          "x": 0,
+          "y": 864,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "879b7b8c-a9be-44c0-b581-f8ab4a362f10",
+          "counts": 664117,
+          "x": 0,
+          "y": 832,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "07a8c928-0019-4ff4-9831-2231151281fd",
+          "counts": 665342,
+          "x": 0,
+          "y": 800,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "6021f4f1-7dff-4b31-b1d9-a7e93d13172a",
+          "counts": 666797,
+          "x": 0,
+          "y": 768,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "882bb560-a136-442f-8ebb-fc6d192364c7",
+          "counts": 669137,
+          "x": 0,
+          "y": 736,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "f96bdfa4-0625-4fc4-953a-01a30c9dbc0b",
+          "counts": 669188,
+          "x": 0,
+          "y": 704,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "40d94785-e2c0-4b41-b4db-bb56d9490378",
+          "counts": 670584,
+          "x": 0,
+          "y": 672,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "2aa904e4-3e4d-4ff6-9712-89f0b9810b0a",
+          "counts": 677454,
+          "x": 0,
+          "y": 640,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "c3f7e650-d98f-41be-8fff-fbc0e5993a54",
+          "counts": 680321,
+          "x": 0,
+          "y": 608,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "10a93b41-facc-4085-839f-2929ed9a5046",
+          "counts": 678236,
+          "x": 0,
+          "y": 576,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "58a1c463-4260-4bfd-9f27-69e3c4ca5958",
+          "counts": 673611,
+          "x": 0,
+          "y": 544,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "74906b64-93db-4d41-8b3f-5a3ba2ac6b38",
+          "counts": 650284,
+          "x": 0,
+          "y": 512,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "6a95006a-fb3b-4ff6-b94a-011cbb072d7b",
+          "counts": 633553,
+          "x": 0,
+          "y": 480,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "cf50443c-cf7b-46c5-8556-15bb4727c340",
+          "counts": 618694,
+          "x": 0,
+          "y": 448,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "a7858ed8-9f1f-4c0f-8a2a-b6362149a5c3",
+          "counts": 597552,
+          "x": 0,
+          "y": 416,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "2ca923aa-b030-4ad1-9ff2-98eac6dcd7a6",
+          "counts": 561372,
+          "x": 0,
+          "y": 384,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "48a61fbc-da3f-48a3-bff3-d93bc14e6761",
+          "counts": 510986,
+          "x": 0,
+          "y": 352,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "921d42d8-040c-4dd2-814a-6cd1d28c7c9c",
+          "counts": 468345,
+          "x": 0,
+          "y": 320,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "12f55a39-aae5-4ced-a664-e7b74f982b74",
+          "counts": 439848,
+          "x": 0,
+          "y": 288,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "fe899d76-418c-4626-83fe-d009f0b46093",
+          "counts": 424228,
+          "x": 0,
+          "y": 256,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "13376d30-0c55-4386-8fef-24d9ac8a79c4",
+          "counts": 407279,
+          "x": 0,
+          "y": 224,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "bb76e733-0d1e-4f4e-9bf0-8777df77199f",
+          "counts": 379716,
+          "x": 0,
+          "y": 192,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "67eac640-71ea-47b5-997e-eef4c541b07f",
+          "counts": 360745,
+          "x": 0,
+          "y": 160,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "d5ec67c3-4f19-46e5-9e94-6828872415c4",
+          "counts": 341506,
+          "x": 0,
+          "y": 128,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "3823b753-b9ef-46b3-b829-c054af1f76ea",
+          "counts": 327195,
+          "x": 0,
+          "y": 96,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "2700ee9e-4cf6-4482-b7bc-11d5562676fc",
+          "counts": 310855,
+          "x": 0,
+          "y": 64,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "1f238b47-b909-4b14-bb39-0830747eebd6",
+          "counts": 307822,
+          "x": 0,
+          "y": 32,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "262b2830-7b99-4ef2-a851-e842b45bf844",
+          "counts": 317858,
+          "x": 0,
+          "y": 0,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        }
+      ],
+      "hdf5_sha256": "644da38205389210f01368c2f4e66ca2a941f0769e1b5934242843ee539f55a4"
+    },
+    {
+      "map_id": "81ecec1d-a043-40e9-bd5a-44fe2fb4e340",
+      "sample": "Ta1",
+      "site": "Site 2",
+      "width": 2048,
+      "height": 1536,
+      "channels": 2048,
+      "counts": 30225835,
+      "stored_spectrum_id": "2c3f9c15-638f-4a2f-8e83-041f9143da43",
+      "all_2048_channels_equal_stored_spectrum": true,
+      "each_pixel_covered_once": true,
+      "tiles": [
+        {
+          "tile": "69409829-68fe-4dd4-bfda-b050dfbc5b25",
+          "counts": 677342,
+          "x": 0,
+          "y": 992,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "6271a0f6-bc05-49d5-9dff-4d6831e75546",
+          "counts": 678290,
+          "x": 0,
+          "y": 960,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "b3e09cd7-7370-44eb-af5f-c5432e0f7511",
+          "counts": 681795,
+          "x": 0,
+          "y": 928,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "f4039b17-0ac0-43d3-bb00-fab7d675b136",
+          "counts": 683158,
+          "x": 0,
+          "y": 896,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "a11ab07d-df04-409b-9883-e70bf19729e3",
+          "counts": 685896,
+          "x": 0,
+          "y": 864,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "6e8d240b-f428-4d0f-851e-88b46ed7d921",
+          "counts": 684340,
+          "x": 0,
+          "y": 832,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "05b8e71f-d315-4120-b5b6-e6e2fa381584",
+          "counts": 686456,
+          "x": 0,
+          "y": 800,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "a497385d-b113-4119-87d9-50481ed82d41",
+          "counts": 686244,
+          "x": 0,
+          "y": 768,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "ce367833-b8a5-44e8-820f-da2ed5ca6cce",
+          "counts": 678046,
+          "x": 0,
+          "y": 736,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "e726a443-7e24-419c-a44c-58b7a8a1b5a6",
+          "counts": 665802,
+          "x": 0,
+          "y": 704,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "9f6f57bc-b55e-4750-88eb-aa552d3c473a",
+          "counts": 663907,
+          "x": 0,
+          "y": 672,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "55a56dce-c9d5-4737-96a6-27928d6e947f",
+          "counts": 669807,
+          "x": 0,
+          "y": 640,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "9e122afc-6ba2-4e8a-83a2-e38314b2cec6",
+          "counts": 672752,
+          "x": 0,
+          "y": 608,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "c17ce5ea-1191-4bef-9d19-9977843e16c8",
+          "counts": 669117,
+          "x": 0,
+          "y": 576,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "b8673b9c-2dd2-4c05-9fa5-1e79b3c8777c",
+          "counts": 636164,
+          "x": 0,
+          "y": 544,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "34b804f3-b8ae-48a5-9556-a188df10990a",
+          "counts": 605321,
+          "x": 0,
+          "y": 512,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "7365745d-84f3-4a0a-be37-a678bab02b61",
+          "counts": 611609,
+          "x": 0,
+          "y": 480,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "0569b5d8-99c5-4cda-8afb-6249dc8b052b",
+          "counts": 610798,
+          "x": 0,
+          "y": 448,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "dbef3ce8-7656-4472-9204-0dfe9a7b7a17",
+          "counts": 615461,
+          "x": 0,
+          "y": 416,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "dd9ca771-5fe5-4cce-80c8-a2bb4095b4d6",
+          "counts": 627168,
+          "x": 0,
+          "y": 384,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "a26a1f4f-a87d-4645-8c5b-26a9d924cc39",
+          "counts": 624450,
+          "x": 0,
+          "y": 352,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "51c1f9a0-e2d9-43d4-b1d8-ff9b35cd7170",
+          "counts": 615716,
+          "x": 0,
+          "y": 320,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "2324ebe9-ad2e-4870-8bd2-f4c217ddfb6b",
+          "counts": 589514,
+          "x": 0,
+          "y": 288,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "91130c59-0280-4ac8-9bb6-f7c91efd248e",
+          "counts": 553184,
+          "x": 0,
+          "y": 256,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "8e80bd7b-e561-4d9d-a313-f6eb9033de80",
+          "counts": 711215,
+          "x": 0,
+          "y": 1504,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "6d737f2e-ae79-49d3-b612-c579e5f2beb2",
+          "counts": 712217,
+          "x": 0,
+          "y": 1472,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "a17cc97f-20d4-41b9-a335-3391044fabaa",
+          "counts": 511753,
+          "x": 0,
+          "y": 224,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "c8952cdf-8fee-4713-a63f-6ed81c754ad0",
+          "counts": 713111,
+          "x": 0,
+          "y": 1440,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "da9b117c-0c61-4706-abf3-369a5bfa322b",
+          "counts": 472206,
+          "x": 0,
+          "y": 192,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "66c74da0-baac-4f97-9ad3-58f8359dc7bc",
+          "counts": 709246,
+          "x": 0,
+          "y": 1408,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "d1c2e70d-e4b8-40ea-9e30-2007ef8cee8e",
+          "counts": 706218,
+          "x": 0,
+          "y": 1376,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "7463619b-54b6-482d-9718-c0924e19d0a8",
+          "counts": 437219,
+          "x": 0,
+          "y": 160,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "0d98a662-9e5e-4725-889c-c221018bbf6a",
+          "counts": 700387,
+          "x": 0,
+          "y": 1344,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "17d5c022-8d17-46a4-913f-122c6dd406bc",
+          "counts": 420077,
+          "x": 0,
+          "y": 128,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "c58a9431-41be-4aa7-80f7-04420e417c27",
+          "counts": 693426,
+          "x": 0,
+          "y": 1312,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "e2345437-5e92-4d7d-98a5-d536046504e4",
+          "counts": 690930,
+          "x": 0,
+          "y": 1280,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "3872dd38-d39c-4b62-b3ff-29dc006f27d6",
+          "counts": 424091,
+          "x": 0,
+          "y": 96,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "2bf114a2-049c-450f-9f0e-054b51379371",
+          "counts": 686205,
+          "x": 0,
+          "y": 1248,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "c16c1506-8916-4dd4-bd70-e63515fd3f55",
+          "counts": 429291,
+          "x": 0,
+          "y": 64,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "75fd9c17-f146-412b-b9ab-349e382941cf",
+          "counts": 429491,
+          "x": 0,
+          "y": 32,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "4d23ec54-573f-4271-a41f-c621d049da5c",
+          "counts": 690130,
+          "x": 0,
+          "y": 1216,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "05ceeb58-8feb-4e47-92be-0e31580271dc",
+          "counts": 421607,
+          "x": 0,
+          "y": 0,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "b3e70b6d-d655-4da3-a0a2-a1464bd88114",
+          "counts": 689099,
+          "x": 0,
+          "y": 1184,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "5a8a0ddd-117c-4109-9956-7c5265f113a7",
+          "counts": 686573,
+          "x": 0,
+          "y": 1152,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "656d060b-6db0-474a-a877-9593e83d9a6c",
+          "counts": 681593,
+          "x": 0,
+          "y": 1120,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "ee9ce727-671c-499e-9ee7-6e4d1b7f6804",
+          "counts": 678805,
+          "x": 0,
+          "y": 1088,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "283a7941-77b8-41ec-9877-4f0e023c9f93",
+          "counts": 679348,
+          "x": 0,
+          "y": 1056,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "9fa40c77-8417-4063-b21c-e09c0dceefaf",
+          "counts": 679260,
+          "x": 0,
+          "y": 1024,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        }
+      ],
+      "hdf5_sha256": "6e8a2778215ff67f8e4530490f2a74cc73ea074815182309c0bfbbffb0d468a4"
+    },
+    {
+      "map_id": "5977e017-c42e-4473-875f-b0bd2706e3b1",
+      "sample": "Ti1",
+      "site": "Site 2",
+      "width": 2048,
+      "height": 1536,
+      "channels": 2048,
+      "counts": 35965434,
+      "stored_spectrum_id": "bed8d217-529f-4273-ab80-e31cdf92ac2f",
+      "all_2048_channels_equal_stored_spectrum": true,
+      "each_pixel_covered_once": true,
+      "tiles": [
+        {
+          "tile": "4fa612d8-790e-450e-b0b5-925a1497cc04",
+          "counts": 960399,
+          "x": 0,
+          "y": 992,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "3446fcc5-6eb1-40fe-af9f-ff9c512e9676",
+          "counts": 962357,
+          "x": 0,
+          "y": 960,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "f1362556-f8af-4723-9c6c-5eae1bcdf04e",
+          "counts": 968159,
+          "x": 0,
+          "y": 928,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "dee74f01-5d9a-4fe4-8279-c3cd0f7684b9",
+          "counts": 975991,
+          "x": 0,
+          "y": 896,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "491eeb5c-6c99-424f-847f-11863eb73d9c",
+          "counts": 979379,
+          "x": 0,
+          "y": 864,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "7ceb68e5-f4a3-4d9b-8914-55f195b986b7",
+          "counts": 981816,
+          "x": 0,
+          "y": 832,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "712c15bb-4e73-4190-8cc4-d1d2e7109c1c",
+          "counts": 983472,
+          "x": 0,
+          "y": 800,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "f5c06bb0-0ceb-4293-9694-097198acff04",
+          "counts": 984957,
+          "x": 0,
+          "y": 768,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "2107d0c0-cfc8-4e16-934c-a8bfda14ee27",
+          "counts": 984818,
+          "x": 0,
+          "y": 736,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "ae5a9da9-1765-487f-96b1-8fc310ab6c38",
+          "counts": 980278,
+          "x": 0,
+          "y": 704,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "7538bbd8-ff7d-41ea-a2ce-b9f17293de3f",
+          "counts": 957979,
+          "x": 0,
+          "y": 672,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "dfa1973c-a931-4af7-a5fc-a5f6223dc440",
+          "counts": 904276,
+          "x": 0,
+          "y": 640,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "721637be-cf6b-460a-96a9-8ae7b8d94a5b",
+          "counts": 782563,
+          "x": 0,
+          "y": 608,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "0f6fecbe-e95e-49b1-af42-3104b8208730",
+          "counts": 648637,
+          "x": 0,
+          "y": 576,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "4214bc5f-8984-49ed-92a7-169583c748ec",
+          "counts": 509548,
+          "x": 0,
+          "y": 544,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "6f219ad7-8099-4f84-bdf9-d56ea8c3e80a",
+          "counts": 427185,
+          "x": 0,
+          "y": 512,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "05d9aa7d-e1e6-4b36-bd7f-39e0cf2ef2ac",
+          "counts": 383685,
+          "x": 0,
+          "y": 480,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "7ceca057-28de-4cc5-88d8-42837cf2e613",
+          "counts": 392094,
+          "x": 0,
+          "y": 448,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "233ce1fb-86bb-4d18-a1f5-f2dd83648834",
+          "counts": 438200,
+          "x": 0,
+          "y": 416,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "ed71e8ac-c2a0-4304-84b5-312a79748509",
+          "counts": 458728,
+          "x": 0,
+          "y": 384,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "6fda76aa-1de4-46c3-8927-05a29d2e5458",
+          "counts": 445094,
+          "x": 0,
+          "y": 352,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "5bd90b56-0803-453a-a97a-3f7a1df4dc74",
+          "counts": 435779,
+          "x": 0,
+          "y": 320,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "af5ca2fc-1976-46eb-982d-da37247e554e",
+          "counts": 439683,
+          "x": 0,
+          "y": 288,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "d9826ab6-2d4d-43d2-96ac-7ee6f06a954b",
+          "counts": 446626,
+          "x": 0,
+          "y": 256,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "064a41fb-634b-4561-8a17-25dafa728c4d",
+          "counts": 453592,
+          "x": 0,
+          "y": 224,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "25268569-7d94-4feb-aa49-9719bce90e99",
+          "counts": 454493,
+          "x": 0,
+          "y": 192,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "cf7ca875-2662-4ce3-bb1e-6558adbbfac2",
+          "counts": 449771,
+          "x": 0,
+          "y": 160,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "356c2e6b-b8b1-44b5-b665-89787ed8fb97",
+          "counts": 438764,
+          "x": 0,
+          "y": 128,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "743b5916-4a84-428c-bef4-89b5e982c71a",
+          "counts": 438587,
+          "x": 0,
+          "y": 96,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "e9998506-e1c9-4cd6-b6ee-21f05b9d0192",
+          "counts": 444187,
+          "x": 0,
+          "y": 64,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "158c1551-4803-47eb-93e4-4dab849e26a9",
+          "counts": 448239,
+          "x": 0,
+          "y": 32,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "f1648d24-5895-4a2b-8201-4add6fb3d298",
+          "counts": 453088,
+          "x": 0,
+          "y": 0,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "96913887-4d68-4696-9239-93ee9fd1a791",
+          "counts": 908807,
+          "x": 0,
+          "y": 1504,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "03b41647-da36-4ca0-b6ac-eb54a5b176e9",
+          "counts": 911193,
+          "x": 0,
+          "y": 1472,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "aad55967-9349-4f29-adb3-10b612823747",
+          "counts": 914555,
+          "x": 0,
+          "y": 1440,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "0cc000fb-3d5c-4c05-aa8d-b5ed32324ecf",
+          "counts": 920001,
+          "x": 0,
+          "y": 1408,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "a37bd4b2-03ad-4f3a-99be-a1f08014284f",
+          "counts": 921222,
+          "x": 0,
+          "y": 1376,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "6eb85b98-7fd1-4bf9-9d82-6f6b6647c2c0",
+          "counts": 925635,
+          "x": 0,
+          "y": 1344,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "17bdcd1f-72f1-44d4-8732-b69d374a186a",
+          "counts": 929704,
+          "x": 0,
+          "y": 1312,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "5fb20324-99b7-49c5-bba0-7b14b9cbc273",
+          "counts": 931850,
+          "x": 0,
+          "y": 1280,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "6e66795a-3936-44b6-9ed4-40136c0f5100",
+          "counts": 934640,
+          "x": 0,
+          "y": 1248,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "30b20f6f-e590-4dee-8fc8-dfb7f34c9327",
+          "counts": 939453,
+          "x": 0,
+          "y": 1216,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "dddb293f-492d-473c-8aaa-b2bbea24065f",
+          "counts": 945390,
+          "x": 0,
+          "y": 1184,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "15004d00-fc61-4e42-98ea-dac480475893",
+          "counts": 948671,
+          "x": 0,
+          "y": 1152,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "ec77e9d2-c2be-4517-bdd5-ae6b2a0eb399",
+          "counts": 950824,
+          "x": 0,
+          "y": 1120,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "50839f2d-8653-44d1-8283-3886189041d1",
+          "counts": 953386,
+          "x": 0,
+          "y": 1088,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "63c6f1b4-0038-4fb3-a2fc-ca93c44a04a3",
+          "counts": 957492,
+          "x": 0,
+          "y": 1056,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        },
+        {
+          "tile": "8048c5f7-b203-48e0-892f-1e75305bf25f",
+          "counts": 960187,
+          "x": 0,
+          "y": 1024,
+          "width": 2048,
+          "height": 32,
+          "packed_and_hdf5_roundtrip": true
+        }
+      ],
+      "hdf5_sha256": "68f523f1e54ae5bb9e21a1faecb14d2af0a36dde6ee50ce4ebae5a9534903187"
+    }
+  ],
+  "count": 9
+}

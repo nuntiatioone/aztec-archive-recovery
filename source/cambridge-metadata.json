@@ -1,0 +1,242 @@
+{
+  "id" : "54dabeea-836d-4752-be7f-1d68d43b8568",
+  "uuid" : "54dabeea-836d-4752-be7f-1d68d43b8568",
+  "name" : "Research Data Supporting \"The Effect of Nb, Ta, and Ti on the Oxidation of a New Polycrystalline Ni-Based Superalloy\"",
+  "handle" : "1810/362685",
+  "metadata" : {
+    "cam.depositDate" : [ {
+      "value" : "2023-06-05",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "datacite.contributor.supervisor" : [ {
+      "value" : "Stone, Howard James",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "datacite.issupplementto.url" : [ {
+      "value" : "https://www.repository.cam.ac.uk/handle/1810/362704.2",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.contributor.author" : [ {
+      "value" : "Wo, Jackson",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    }, {
+      "value" : "Hardy, Mark",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 1
+    }, {
+      "value" : "Stone, Howard",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 2
+    } ],
+    "dc.contributor.orcid" : [ {
+      "value" : "Wo, Jackson [0000-0002-7635-947X]",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.date.accessioned" : [ {
+      "value" : "2023-12-22T13:27:17Z",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.description" : [ {
+      "value" : "The raw X-ray diffraction (XRD) and thermo-gravimetric analysis data (TGA) described in the manuscript are enclosed in this dataset. Scanning electron micrographs (.tif and .jpg files) included in the manuscript are provided. Energy dispersive X-ray spectroscopy data are also included (.oip file) with the relevant data files (.dat) and can be opened using the proprietary Oxford Instruments AZtec software. In addition, EDX data for supplementary information is also provided in a Microsoft Word Document (.docx).",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.description.sponsorship" : [ {
+      "value" : "Cambridge Trusts, Rolls-Royce plc, Natural Sciences and Engineering Research Council of Canada (NSERC) [funding reference number PGSD3-532682-2019]",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.format" : [ {
+      "value" : "The EDX data can only be opened in the Oxford Instruments AZtec software. However, in order to use the .oip file, it is compulsory to unzip the relevant data files (.dat) and place them in the same directory as the .oip file. The scanning electron micrographs can be viewed in any conventional image viewer. The EDX data for supplementary information can be viewed in Microsoft Word (.docx). The TGA data can be opened in Microsoft Excel. The XRD data can be opened with Notepad (.xy).",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.identifier.doi" : [ {
+      "value" : "https://doi.org/10.17863/CAM.97038",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.identifier.uri" : [ {
+      "value" : "https://www.repository.cam.ac.uk/handle/1810/362685",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.publisher.department" : [ {
+      "value" : "Department of Materials Science and Metallurgy Student",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.rights" : [ {
+      "value" : "Attribution 4.0 International (CC BY 4.0)",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.rights.uri" : [ {
+      "value" : "https://creativecommons.org/licenses/by/4.0/",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.subject" : [ {
+      "value" : "Ni-based superalloys",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    }, {
+      "value" : "Niobium",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 1
+    }, {
+      "value" : "Oxidation",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 2
+    }, {
+      "value" : "Tantalum",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 3
+    }, {
+      "value" : "Titanium",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 4
+    } ],
+    "dc.title" : [ {
+      "value" : "Research Data Supporting \"The Effect of Nb, Ta, and Ti on the Oxidation of a New Polycrystalline Ni-Based Superalloy\"",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.type" : [ {
+      "value" : "Dataset",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dcterms.format" : [ {
+      "value" : "xlsx, tif, jpg, oip, dat, xy, docx",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "pubs.licence-display-name" : [ {
+      "value" : "Apollo Repository Deposit Licence Agreement",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "pubs.licence-identifier" : [ {
+      "value" : "apollo-deposit-licence-3",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "rioxxterms.licenseref.uri" : [ {
+      "value" : "https://creativecommons.org/licenses/by/4.0/",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "rioxxterms.type" : [ {
+      "value" : "Other",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ]
+  },
+  "inArchive" : true,
+  "discoverable" : true,
+  "withdrawn" : false,
+  "lastModified" : "2024-12-08T03:21:34.278+00:00",
+  "entityType" : null,
+  "type" : "item",
+  "_links" : {
+    "accessStatus" : {
+      "href" : "https://api.repository.cam.ac.uk/server/api/core/items/54dabeea-836d-4752-be7f-1d68d43b8568/accessStatus"
+    },
+    "bundles" : {
+      "href" : "https://api.repository.cam.ac.uk/server/api/core/items/54dabeea-836d-4752-be7f-1d68d43b8568/bundles"
+    },
+    "citationInformation" : {
+      "href" : "https://api.repository.cam.ac.uk/server/api/core/items/54dabeea-836d-4752-be7f-1d68d43b8568/citationInformation"
+    },
+    "embargoInformation" : {
+      "href" : "https://api.repository.cam.ac.uk/server/api/core/items/54dabeea-836d-4752-be7f-1d68d43b8568/embargoInformation"
+    },
+    "identifiers" : {
+      "href" : "https://api.repository.cam.ac.uk/server/api/core/items/54dabeea-836d-4752-be7f-1d68d43b8568/identifiers"
+    },
+    "mappedCollections" : {
+      "href" : "https://api.repository.cam.ac.uk/server/api/core/items/54dabeea-836d-4752-be7f-1d68d43b8568/mappedCollections"
+    },
+    "owningCollection" : {
+      "href" : "https://api.repository.cam.ac.uk/server/api/core/items/54dabeea-836d-4752-be7f-1d68d43b8568/owningCollection"
+    },
+    "relationships" : {
+      "href" : "https://api.repository.cam.ac.uk/server/api/core/items/54dabeea-836d-4752-be7f-1d68d43b8568/relationships"
+    },
+    "version" : {
+      "href" : "https://api.repository.cam.ac.uk/server/api/core/items/54dabeea-836d-4752-be7f-1d68d43b8568/version"
+    },
+    "templateItemOf" : {
+      "href" : "https://api.repository.cam.ac.uk/server/api/core/items/54dabeea-836d-4752-be7f-1d68d43b8568/templateItemOf"
+    },
+    "thumbnail" : {
+      "href" : "https://api.repository.cam.ac.uk/server/api/core/items/54dabeea-836d-4752-be7f-1d68d43b8568/thumbnail"
+    },
+    "self" : {
+      "href" : "https://api.repository.cam.ac.uk/server/api/core/items/54dabeea-836d-4752-be7f-1d68d43b8568"
+    }
+  }
+}

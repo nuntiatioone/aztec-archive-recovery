@@ -1,0 +1,15 @@
+{
+  "map": "Nb2 / Site 1",
+  "carbon_channels_inclusive": [
+    45,
+    50
+  ],
+  "row_major_correlation": 0.9961701093255718,
+  "vertical_flip_correlation": -0.25789977747112364,
+  "horizontal_flip_correlation": 0.71222607073484,
+  "column_major_correlation": -0.03883875607605478,
+  "no_boundary_channel_pixels": 616750,
+  "interior_rate_exact_pixels": 592247,
+  "interior_rate_max_absolute_error": 0.0009765625,
+  "interpretation": "Stored live-named float plane normalizes interior channels; seconds inferred, not vendor-export verified. Fractional end-channel integration remains uninterpreted."
+}

@@ -1,0 +1,472 @@
+{
+  "source_hash_verified": true,
+  "guid_and_label_matches": 18,
+  "complete_payloads": 18,
+  "lossless_count_roundtrips": 18,
+  "unique_sample_site_ancestries": 18,
+  "channels_per_spectrum": 2048,
+  "count_values_recovered": 36864,
+  "peak_sanity_checks": 54,
+  "max_abs_peak_difference_eV": 18.2520999999997,
+  "peak_check_tolerance_eV": 30,
+  "calibration_independently_export_verified": false,
+  "scope": "Stored spectra only; full archive coverage is in recovery-summary.json",
+  "table_rows": {
+    "Analyses": 9,
+    "AreaOfInterests": 18,
+    "DataNodes": 546,
+    "Display256LinearARGBData": 135,
+    "DisplayARGBData": 9,
+    "EDXSpectra": 18,
+    "ElectronImages": 9,
+    "Elements": 33,
+    "ExtraData": 17,
+    "FileGroups": 9,
+    "FsdAcquires": 0,
+    "FsdChannels": 0,
+    "FsdMixedImages": 0,
+    "IdentifiedElements": 27,
+    "LayerMaps": 9,
+    "MapAcquires": 9,
+    "Project": 1,
+    "QuantResults": 18,
+    "Samples": 6,
+    "SmartMaps": 9,
+    "TileGroups": 216,
+    "XrayMapImages": 126
+  },
+  "peaks": [
+    {
+      "spectrum_id": "bb6672d7-98e9-46cb-9dbd-39c044c4006b",
+      "element": "Al",
+      "reference_eV": 1486.708,
+      "peak_channel": 169,
+      "peak_eV": 1490.0,
+      "difference_eV": 3.2919999999999163
+    },
+    {
+      "spectrum_id": "bb6672d7-98e9-46cb-9dbd-39c044c4006b",
+      "element": "Cr",
+      "reference_eV": 5414.8045,
+      "peak_channel": 561,
+      "peak_eV": 5410.0,
+      "difference_eV": -4.804500000000189
+    },
+    {
+      "spectrum_id": "bb6672d7-98e9-46cb-9dbd-39c044c4006b",
+      "element": "Ni",
+      "reference_eV": 7478.2521,
+      "peak_channel": 767,
+      "peak_eV": 7470.0,
+      "difference_eV": -8.2520999999997
+    },
+    {
+      "spectrum_id": "8dfa26c1-83f3-43ef-88d6-9c988db41e23",
+      "element": "Al",
+      "reference_eV": 1486.708,
+      "peak_channel": 169,
+      "peak_eV": 1490.0,
+      "difference_eV": 3.2919999999999163
+    },
+    {
+      "spectrum_id": "8dfa26c1-83f3-43ef-88d6-9c988db41e23",
+      "element": "Cr",
+      "reference_eV": 5414.8045,
+      "peak_channel": 561,
+      "peak_eV": 5410.0,
+      "difference_eV": -4.804500000000189
+    },
+    {
+      "spectrum_id": "8dfa26c1-83f3-43ef-88d6-9c988db41e23",
+      "element": "Ni",
+      "reference_eV": 7478.2521,
+      "peak_channel": 767,
+      "peak_eV": 7470.0,
+      "difference_eV": -8.2520999999997
+    },
+    {
+      "spectrum_id": "fec1170a-04d9-4783-8cea-e3cd30689e49",
+      "element": "Al",
+      "reference_eV": 1486.708,
+      "peak_channel": 169,
+      "peak_eV": 1490.0,
+      "difference_eV": 3.2919999999999163
+    },
+    {
+      "spectrum_id": "fec1170a-04d9-4783-8cea-e3cd30689e49",
+      "element": "Cr",
+      "reference_eV": 5414.8045,
+      "peak_channel": 561,
+      "peak_eV": 5410.0,
+      "difference_eV": -4.804500000000189
+    },
+    {
+      "spectrum_id": "fec1170a-04d9-4783-8cea-e3cd30689e49",
+      "element": "Ni",
+      "reference_eV": 7478.2521,
+      "peak_channel": 766,
+      "peak_eV": 7460.0,
+      "difference_eV": -18.2520999999997
+    },
+    {
+      "spectrum_id": "c7c095aa-9950-4d03-b55a-2f2ae6a853e7",
+      "element": "Al",
+      "reference_eV": 1486.708,
+      "peak_channel": 169,
+      "peak_eV": 1490.0,
+      "difference_eV": 3.2919999999999163
+    },
+    {
+      "spectrum_id": "c7c095aa-9950-4d03-b55a-2f2ae6a853e7",
+      "element": "Cr",
+      "reference_eV": 5414.8045,
+      "peak_channel": 561,
+      "peak_eV": 5410.0,
+      "difference_eV": -4.804500000000189
+    },
+    {
+      "spectrum_id": "c7c095aa-9950-4d03-b55a-2f2ae6a853e7",
+      "element": "Ni",
+      "reference_eV": 7478.2521,
+      "peak_channel": 767,
+      "peak_eV": 7470.0,
+      "difference_eV": -8.2520999999997
+    },
+    {
+      "spectrum_id": "38e7a37e-1eaa-4e03-8020-85b7b97439b1",
+      "element": "Al",
+      "reference_eV": 1486.708,
+      "peak_channel": 169,
+      "peak_eV": 1490.0,
+      "difference_eV": 3.2919999999999163
+    },
+    {
+      "spectrum_id": "38e7a37e-1eaa-4e03-8020-85b7b97439b1",
+      "element": "Cr",
+      "reference_eV": 5414.8045,
+      "peak_channel": 560,
+      "peak_eV": 5400.0,
+      "difference_eV": -14.80450000000019
+    },
+    {
+      "spectrum_id": "38e7a37e-1eaa-4e03-8020-85b7b97439b1",
+      "element": "Ni",
+      "reference_eV": 7478.2521,
+      "peak_channel": 766,
+      "peak_eV": 7460.0,
+      "difference_eV": -18.2520999999997
+    },
+    {
+      "spectrum_id": "d5febe22-675d-4089-848c-083fd681609e",
+      "element": "Al",
+      "reference_eV": 1486.708,
+      "peak_channel": 169,
+      "peak_eV": 1490.0,
+      "difference_eV": 3.2919999999999163
+    },
+    {
+      "spectrum_id": "d5febe22-675d-4089-848c-083fd681609e",
+      "element": "Cr",
+      "reference_eV": 5414.8045,
+      "peak_channel": 561,
+      "peak_eV": 5410.0,
+      "difference_eV": -4.804500000000189
+    },
+    {
+      "spectrum_id": "d5febe22-675d-4089-848c-083fd681609e",
+      "element": "Ni",
+      "reference_eV": 7478.2521,
+      "peak_channel": 766,
+      "peak_eV": 7460.0,
+      "difference_eV": -18.2520999999997
+    },
+    {
+      "spectrum_id": "df3d77fb-18d1-4675-a88b-9e7f40548b7e",
+      "element": "Al",
+      "reference_eV": 1486.708,
+      "peak_channel": 168,
+      "peak_eV": 1480.0,
+      "difference_eV": -6.708000000000084
+    },
+    {
+      "spectrum_id": "df3d77fb-18d1-4675-a88b-9e7f40548b7e",
+      "element": "Cr",
+      "reference_eV": 5414.8045,
+      "peak_channel": 562,
+      "peak_eV": 5420.0,
+      "difference_eV": 5.195499999999811
+    },
+    {
+      "spectrum_id": "df3d77fb-18d1-4675-a88b-9e7f40548b7e",
+      "element": "Ni",
+      "reference_eV": 7478.2521,
+      "peak_channel": 767,
+      "peak_eV": 7470.0,
+      "difference_eV": -8.2520999999997
+    },
+    {
+      "spectrum_id": "5cf7a9ef-ed11-48c0-9132-8b958c6c4804",
+      "element": "Al",
+      "reference_eV": 1486.708,
+      "peak_channel": 169,
+      "peak_eV": 1490.0,
+      "difference_eV": 3.2919999999999163
+    },
+    {
+      "spectrum_id": "5cf7a9ef-ed11-48c0-9132-8b958c6c4804",
+      "element": "Cr",
+      "reference_eV": 5414.8045,
+      "peak_channel": 561,
+      "peak_eV": 5410.0,
+      "difference_eV": -4.804500000000189
+    },
+    {
+      "spectrum_id": "5cf7a9ef-ed11-48c0-9132-8b958c6c4804",
+      "element": "Ni",
+      "reference_eV": 7478.2521,
+      "peak_channel": 767,
+      "peak_eV": 7470.0,
+      "difference_eV": -8.2520999999997
+    },
+    {
+      "spectrum_id": "b8799165-6890-4de4-a466-0273c8088740",
+      "element": "Al",
+      "reference_eV": 1486.708,
+      "peak_channel": 170,
+      "peak_eV": 1500.0,
+      "difference_eV": 13.291999999999916
+    },
+    {
+      "spectrum_id": "b8799165-6890-4de4-a466-0273c8088740",
+      "element": "Cr",
+      "reference_eV": 5414.8045,
+      "peak_channel": 562,
+      "peak_eV": 5420.0,
+      "difference_eV": 5.195499999999811
+    },
+    {
+      "spectrum_id": "b8799165-6890-4de4-a466-0273c8088740",
+      "element": "Ni",
+      "reference_eV": 7478.2521,
+      "peak_channel": 766,
+      "peak_eV": 7460.0,
+      "difference_eV": -18.2520999999997
+    },
+    {
+      "spectrum_id": "51a638f8-8771-4b45-a0fd-beff34f30be3",
+      "element": "Al",
+      "reference_eV": 1486.708,
+      "peak_channel": 169,
+      "peak_eV": 1490.0,
+      "difference_eV": 3.2919999999999163
+    },
+    {
+      "spectrum_id": "51a638f8-8771-4b45-a0fd-beff34f30be3",
+      "element": "Cr",
+      "reference_eV": 5414.8045,
+      "peak_channel": 561,
+      "peak_eV": 5410.0,
+      "difference_eV": -4.804500000000189
+    },
+    {
+      "spectrum_id": "51a638f8-8771-4b45-a0fd-beff34f30be3",
+      "element": "Ni",
+      "reference_eV": 7478.2521,
+      "peak_channel": 767,
+      "peak_eV": 7470.0,
+      "difference_eV": -8.2520999999997
+    },
+    {
+      "spectrum_id": "4c32e7cf-625b-4763-9e6a-011be66cdc53",
+      "element": "Al",
+      "reference_eV": 1486.708,
+      "peak_channel": 168,
+      "peak_eV": 1480.0,
+      "difference_eV": -6.708000000000084
+    },
+    {
+      "spectrum_id": "4c32e7cf-625b-4763-9e6a-011be66cdc53",
+      "element": "Cr",
+      "reference_eV": 5414.8045,
+      "peak_channel": 562,
+      "peak_eV": 5420.0,
+      "difference_eV": 5.195499999999811
+    },
+    {
+      "spectrum_id": "4c32e7cf-625b-4763-9e6a-011be66cdc53",
+      "element": "Ni",
+      "reference_eV": 7478.2521,
+      "peak_channel": 766,
+      "peak_eV": 7460.0,
+      "difference_eV": -18.2520999999997
+    },
+    {
+      "spectrum_id": "6755849b-a6f4-4055-a55b-bafc6dcebb07",
+      "element": "Al",
+      "reference_eV": 1486.708,
+      "peak_channel": 169,
+      "peak_eV": 1490.0,
+      "difference_eV": 3.2919999999999163
+    },
+    {
+      "spectrum_id": "6755849b-a6f4-4055-a55b-bafc6dcebb07",
+      "element": "Cr",
+      "reference_eV": 5414.8045,
+      "peak_channel": 561,
+      "peak_eV": 5410.0,
+      "difference_eV": -4.804500000000189
+    },
+    {
+      "spectrum_id": "6755849b-a6f4-4055-a55b-bafc6dcebb07",
+      "element": "Ni",
+      "reference_eV": 7478.2521,
+      "peak_channel": 767,
+      "peak_eV": 7470.0,
+      "difference_eV": -8.2520999999997
+    },
+    {
+      "spectrum_id": "2326f7af-733b-46cb-aefd-a5bb64315c29",
+      "element": "Al",
+      "reference_eV": 1486.708,
+      "peak_channel": 169,
+      "peak_eV": 1490.0,
+      "difference_eV": 3.2919999999999163
+    },
+    {
+      "spectrum_id": "2326f7af-733b-46cb-aefd-a5bb64315c29",
+      "element": "Cr",
+      "reference_eV": 5414.8045,
+      "peak_channel": 560,
+      "peak_eV": 5400.0,
+      "difference_eV": -14.80450000000019
+    },
+    {
+      "spectrum_id": "2326f7af-733b-46cb-aefd-a5bb64315c29",
+      "element": "Ni",
+      "reference_eV": 7478.2521,
+      "peak_channel": 767,
+      "peak_eV": 7470.0,
+      "difference_eV": -8.2520999999997
+    },
+    {
+      "spectrum_id": "177b7557-b93e-4dbe-a4ac-2640012f40b5",
+      "element": "Al",
+      "reference_eV": 1486.708,
+      "peak_channel": 169,
+      "peak_eV": 1490.0,
+      "difference_eV": 3.2919999999999163
+    },
+    {
+      "spectrum_id": "177b7557-b93e-4dbe-a4ac-2640012f40b5",
+      "element": "Cr",
+      "reference_eV": 5414.8045,
+      "peak_channel": 561,
+      "peak_eV": 5410.0,
+      "difference_eV": -4.804500000000189
+    },
+    {
+      "spectrum_id": "177b7557-b93e-4dbe-a4ac-2640012f40b5",
+      "element": "Ni",
+      "reference_eV": 7478.2521,
+      "peak_channel": 767,
+      "peak_eV": 7470.0,
+      "difference_eV": -8.2520999999997
+    },
+    {
+      "spectrum_id": "76352836-e61b-4727-9c19-ba3aa9fa7c69",
+      "element": "Al",
+      "reference_eV": 1486.708,
+      "peak_channel": 167,
+      "peak_eV": 1470.0,
+      "difference_eV": -16.708000000000084
+    },
+    {
+      "spectrum_id": "76352836-e61b-4727-9c19-ba3aa9fa7c69",
+      "element": "Cr",
+      "reference_eV": 5414.8045,
+      "peak_channel": 561,
+      "peak_eV": 5410.0,
+      "difference_eV": -4.804500000000189
+    },
+    {
+      "spectrum_id": "76352836-e61b-4727-9c19-ba3aa9fa7c69",
+      "element": "Ni",
+      "reference_eV": 7478.2521,
+      "peak_channel": 768,
+      "peak_eV": 7480.0,
+      "difference_eV": 1.7479000000002998
+    },
+    {
+      "spectrum_id": "2c3f9c15-638f-4a2f-8e83-041f9143da43",
+      "element": "Al",
+      "reference_eV": 1486.708,
+      "peak_channel": 169,
+      "peak_eV": 1490.0,
+      "difference_eV": 3.2919999999999163
+    },
+    {
+      "spectrum_id": "2c3f9c15-638f-4a2f-8e83-041f9143da43",
+      "element": "Cr",
+      "reference_eV": 5414.8045,
+      "peak_channel": 561,
+      "peak_eV": 5410.0,
+      "difference_eV": -4.804500000000189
+    },
+    {
+      "spectrum_id": "2c3f9c15-638f-4a2f-8e83-041f9143da43",
+      "element": "Ni",
+      "reference_eV": 7478.2521,
+      "peak_channel": 767,
+      "peak_eV": 7470.0,
+      "difference_eV": -8.2520999999997
+    },
+    {
+      "spectrum_id": "f83810f1-a4df-4d85-9383-81442e391b29",
+      "element": "Al",
+      "reference_eV": 1486.708,
+      "peak_channel": 169,
+      "peak_eV": 1490.0,
+      "difference_eV": 3.2919999999999163
+    },
+    {
+      "spectrum_id": "f83810f1-a4df-4d85-9383-81442e391b29",
+      "element": "Cr",
+      "reference_eV": 5414.8045,
+      "peak_channel": 562,
+      "peak_eV": 5420.0,
+      "difference_eV": 5.195499999999811
+    },
+    {
+      "spectrum_id": "f83810f1-a4df-4d85-9383-81442e391b29",
+      "element": "Ni",
+      "reference_eV": 7478.2521,
+      "peak_channel": 766,
+      "peak_eV": 7460.0,
+      "difference_eV": -18.2520999999997
+    },
+    {
+      "spectrum_id": "bed8d217-529f-4273-ab80-e31cdf92ac2f",
+      "element": "Al",
+      "reference_eV": 1486.708,
+      "peak_channel": 169,
+      "peak_eV": 1490.0,
+      "difference_eV": 3.2919999999999163
+    },
+    {
+      "spectrum_id": "bed8d217-529f-4273-ab80-e31cdf92ac2f",
+      "element": "Cr",
+      "reference_eV": 5414.8045,
+      "peak_channel": 561,
+      "peak_eV": 5410.0,
+      "difference_eV": -4.804500000000189
+    },
+    {
+      "spectrum_id": "bed8d217-529f-4273-ab80-e31cdf92ac2f",
+      "element": "Ni",
+      "reference_eV": 7478.2521,
+      "peak_channel": 767,
+      "peak_eV": 7470.0,
+      "difference_eV": -8.2520999999997
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+﻿[
+    {
+        "table":  "Analyses",
+        "column":  "AnalysisId",
+        "type":  "uniqueidentifier"
+    },
+    {
+        "table":  "Analyses",
+        "column":  "InstanceVersion",
+        "type":  "int"
+    },
+    {
+        "table":  "Analyses",
+        "column":  "Label",
+        "type":  "nvarchar"
+    },
+    {
+        "table":  "Analyses",
+        "column":  "ObjectBlob",
+        "type":  "image"
+    },
+    {
+        "table":  "AreaOfInterests",
+        "column":  "AreaOfInterestId",
+        "type":  "uniqueidentifier"
+    },
+    {
+        "table":  "AreaOfInterests",
+        "column":  "InstanceVersion",
+        "type":  "int"
+    },
+    {
+        "table":  "AreaOfInterests",
+        "column":  "ObjectBlob",
+        "type":  "image"
+    },
+    {
+        "table":  "DataNodes",
+        "column":  "Id",
+        "type":  "uniqueidentifier"
+    },
+    {
+        "table":  "DataNodes",
+        "column":  "InstanceVersion",
+        "type":  "int"
+    },
+    {
+        "table":  "DataNodes",
+        "column":  "ItemOrder",
+        "type":  "int"
+    },
+    {
+        "table":  "DataNodes",
+        "column":  "ParentId",
+        "type":  "uniqueidentifier"
+    },
+    {
+        "table":  "DataNodes",
+        "column":  "AssociatedId",
+        "type":  "uniqueidentifier"
+    },
+    {
+        "table":  "DataNodes",
+        "column":  "AssociatedType",
+        "type":  "int"
+    },
+    {
+        "table":  "DataNodes",
+        "column":  "ObjectBlob",
+        "type":  "image"
+    },
+    {
+        "table":  "Display256LinearARGBData",
+        "column":  "ARGBDataId",
+        "type":  "uniqueidentifier"
+    },
+    {
+        "table":  "Display256LinearARGBData",
+        "column":  "InstanceVersion",
+        "type":  "int"
+    },
+    {
+        "table":  "Display256LinearARGBData",
+        "column":  "ObjectBlob",
+        "type":  "image"
+    },
+    {
+        "table":  "DisplayARGBData",
+        "column":  "ARGBDataId",
+        "type":  "uniqueidentifier"
+    },
+    {
+        "table":  "DisplayARGBData",
+        "column":  "InstanceVersion",
+        "type":  "int"
+    },
+    {
+        "table":  "DisplayARGBData",
+        "column":  "ObjectBlob",
+        "type":  "image"
+    },
+    {
+        "table":  "EDXSpectra",
+        "column":  "SpectrumId",
+        "type":  "uniqueidentifier"
+    },
+    {
+        "table":  "EDXSpectra",
+        "column":  "InstanceVersion",
+        "type":  "int"
+    },
+    {
+        "table":  "EDXSpectra",
+        "column":  "Label",
+        "type":  "nvarchar"
+    },
+    {
+        "table":  "EDXSpectra",
+        "column":  "AcquisitionDate",
+        "type":  "datetime"
+    },
+    {
+        "table":  "EDXSpectra",
+        "column":  "ObjectBlob",
+        "type":  "image"
+    },
+    {
+        "table":  "ElectronImages",
+        "column":  "ImageId",
+        "type":  "uniqueidentifier"
+    },
+    {
+        "table":  "ElectronImages",
+        "column":  "InstanceVersion",
+        "type":  "int"
+    },
+    {
+        "table":  "ElectronImages",
+        "column":  "Label",
+        "type":  "nvarchar"
+    },
+    {
+        "table":  "ElectronImages",
+        "column":  "AcquisitionDate",
+        "type":  "datetime"
+    },
+    {
+        "table":  "ElectronImages",
+        "column":  "ObjectBlob",
+        "type":  "image"
+    },
+    {
+        "table":  "Elements",
+        "column":  "ElementsId",
+        "type":  "uniqueidentifier"
+    },
+    {
+        "table":  "Elements",
+        "column":  "InstanceVersion",
+        "type":  "int"
+    },
+    {
+        "table":  "Elements",
+        "column":  "ObjectBlob",
+        "type":  "image"
+    },
+    {
+        "table":  "ExtraData",
+        "column":  "ExtraDataId",
+        "type":  "uniqueidentifier"
+    },
+    {
+        "table":  "ExtraData",
+        "column":  "InstanceVersion",
+        "type":  "int"
+    },
+    {
+        "table":  "ExtraData",
+        "column":  "ObjectBlob",
+        "type":  "image"
+    },
+    {
+        "table":  "FileGroups",
+        "column":  "FileGroupId",
+        "type":  "uniqueidentifier"
+    },
+    {
+        "table":  "FileGroups",
+        "column":  "InstanceVersion",
+        "type":  "int"
+    },
+    {
+        "table":  "FileGroups",
+        "column":  "ObjectBlob",
+        "type":  "image"
+    },
+    {
+        "table":  "FsdAcquires",
+        "column":  "FsdAcquireId",
+        "type":  "uniqueidentifier"
+    },
+    {
+        "table":  "FsdAcquires",
+        "column":  "InstanceVersion",
+        "type":  "int"
+    },
+    {
+        "table":  "FsdAcquires",
+        "column":  "Label",
+        "type":  "nvarchar"
+    },
+    {
+        "table":  "FsdAcquires",
+        "column":  "ObjectBlob",
+        "type":  "image"
+    },
+    {
+        "table":  "FsdChannels",
+        "column":  "FsdChannelsId",
+        "type":  "uniqueidentifier"
+    },
+    {
+        "table":  "FsdChannels",
+        "column":  "InstanceVersion",
+        "type":  "int"
+    },
+    {
+        "table":  "FsdChannels",
+        "column":  "Label",
+        "type":  "nvarchar"
+    },
+    {
+        "table":  "FsdChannels",
+        "column":  "ObjectBlob",
+        "type":  "image"
+    },
+    {
+        "table":  "FsdMixedImages",
+        "column":  "FsdMixedImageId",
+        "type":  "uniqueidentifier"
+    },
+    {
+        "table":  "FsdMixedImages",
+        "column":  "InstanceVersion",
+        "type":  "int"
+    },
+    {
+        "table":  "FsdMixedImages",
+        "column":  "Label",
+        "type":  "nvarchar"
+    },
+    {
+        "table":  "FsdMixedImages",
+        "column":  "ObjectBlob",
+        "type":  "image"
+    },
+    {
+        "table":  "IdentifiedElements",
+        "column":  "IdentifiedElementsId",
+        "type":  "uniqueidentifier"
+    },
+    {
+        "table":  "IdentifiedElements",
+        "column":  "InstanceVersion",
+        "type":  "int"
+    },
+    {
+        "table":  "IdentifiedElements",
+        "column":  "ObjectBlob",
+        "type":  "image"
+    },
+    {
+        "table":  "LayerMaps",
+        "column":  "LayerMapId",
+        "type":  "uniqueidentifier"
+    },
+    {
+        "table":  "LayerMaps",
+        "column":  "InstanceVersion",
+        "type":  "int"
+    },
+    {
+        "table":  "LayerMaps",
+        "column":  "ObjectBlob",
+        "type":  "image"
+    },
+    {
+        "table":  "MapAcquires",
+        "column":  "MapAcquireId",
+        "type":  "uniqueidentifier"
+    },
+    {
+        "table":  "MapAcquires",
+        "column":  "InstanceVersion",
+        "type":  "int"
+    },
+    {
+        "table":  "MapAcquires",
+        "column":  "Label",
+        "type":  "nvarchar"
+    },
+    {
+        "table":  "MapAcquires",
+        "column":  "ObjectBlob",
+        "type":  "image"
+    },
+    {
+        "table":  "Project",
+        "column":  "ProjectId",
+        "type":  "uniqueidentifier"
+    },
+    {
+        "table":  "Project",
+        "column":  "InstanceVersion",
+        "type":  "int"
+    },
+    {
+        "table":  "Project",
+        "column":  "Label",
+        "type":  "nvarchar"
+    },
+    {
+        "table":  "Project",
+        "column":  "Version",
+        "type":  "nvarchar"
+    },
+    {
+        "table":  "Project",
+        "column":  "ObjectBlob",
+        "type":  "image"
+    },
+    {
+        "table":  "QuantResults",
+        "column":  "QuantResultId",
+        "type":  "uniqueidentifier"
+    },
+    {
+        "table":  "QuantResults",
+        "column":  "InstanceVersion",
+        "type":  "int"
+    },
+    {
+        "table":  "QuantResults",
+        "column":  "ObjectBlob",
+        "type":  "image"
+    },
+    {
+        "table":  "Samples",
+        "column":  "SampleId",
+        "type":  "uniqueidentifier"
+    },
+    {
+        "table":  "Samples",
+        "column":  "InstanceVersion",
+        "type":  "int"
+    },
+    {
+        "table":  "Samples",
+        "column":  "Label",
+        "type":  "nvarchar"
+    },
+    {
+        "table":  "Samples",
+        "column":  "ObjectBlob",
+        "type":  "image"
+    },
+    {
+        "table":  "SmartMaps",
+        "column":  "SmartMapId",
+        "type":  "uniqueidentifier"
+    },
+    {
+        "table":  "SmartMaps",
+        "column":  "InstanceVersion",
+        "type":  "int"
+    },
+    {
+        "table":  "SmartMaps",
+        "column":  "Label",
+        "type":  "nvarchar"
+    },
+    {
+        "table":  "SmartMaps",
+        "column":  "ObjectBlob",
+        "type":  "image"
+    },
+    {
+        "table":  "TileGroups",
+        "column":  "TileGroupId",
+        "type":  "uniqueidentifier"
+    },
+    {
+        "table":  "TileGroups",
+        "column":  "InstanceVersion",
+        "type":  "int"
+    },
+    {
+        "table":  "TileGroups",
+        "column":  "SmartMapId",
+        "type":  "uniqueidentifier"
+    },
+    {
+        "table":  "TileGroups",
+        "column":  "ObjectBlob",
+        "type":  "image"
+    },
+    {
+        "table":  "XrayMapImages",
+        "column":  "ImageId",
+        "type":  "uniqueidentifier"
+    },
+    {
+        "table":  "XrayMapImages",
+        "column":  "InstanceVersion",
+        "type":  "int"
+    },
+    {
+        "table":  "XrayMapImages",
+        "column":  "Label",
+        "type":  "nvarchar"
+    },
+    {
+        "table":  "XrayMapImages",
+        "column":  "AcquisitionDate",
+        "type":  "datetime"
+    },
+    {
+        "table":  "XrayMapImages",
+        "column":  "ObjectBlob",
+        "type":  "image"
+    }
+]
