@@ -24,7 +24,9 @@ For practical analysis, the current repository adds a [sample/site catalog](reco
 
 ## Interpretation limits
 
-Energy and exposure units remain inferred. Named microscope settings are now decoded, with their unit interpretation documented in [acquisition metadata](recovered/acquisition-metadata.json). Physical pixel scale, vendor quantification and parts of the image-window calculation remain unresolved. These arrays support count-based inspection and region selection, without independent vendor-export validation or universal AZtec compatibility. See [usage limits](USAGE.md#what-this-supports) and the [all-site spatial audit](spatial-audit.json) before scientific interpretation.
+The authors' deposited figure panels now match all nine recovered sites, establishing image identity/orientation and an **approximate displayed physical scale**: fields about 14.6–14.8 µm wide. A source-derived fractional-bin model has also been tested across all 126 X-ray windows. See the [reference and calibration report](CALIBRATION.md), [reproducible image comparisons](reference-validation.json) and [per-site scale estimates](recovered/reference-scale.json).
+
+Energy and exposure units remain inferred. Exact detector calibration, vendor quantification and the complete image-window calculation remain unresolved; identical stored spectra/live values can produce different stored image values. The figure comparisons are not standalone numerical AZtec exports or a test of instrument accuracy. These arrays support count-based inspection and region selection, with approximate spatial context. See [usage limits](USAGE.md#what-this-supports) before scientific interpretation.
 
 ## Credit and licence
 

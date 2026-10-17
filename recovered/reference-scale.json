@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "source_doi": "https://doi.org/10.17863/CAM.97038",
+  "validation_report": "reference-validation.json",
+  "status": "approximate_display_derived",
+  "automatic_application": false,
+  "records": [
+    {
+      "sample": "Nb1",
+      "site": "Site 1",
+      "electron_image_id": "b7612004-a54b-4cdb-9c4b-e3f297c970d6",
+      "spectral_map_id": "b7ef6eda-7951-4908-b9b9-ea29d2ea6cda",
+      "reference": "image1",
+      "source_image_sha256": "3b97be7c1fd52f32fb06fdc393f879d022fcaa9c0ad46f500f6a0fab60b51a00",
+      "field_width_um_approx": 14.75,
+      "field_width_um_raster_edge_bounds": [
+        14.426229508196721,
+        15.084745762711865
+      ],
+      "electron_width_pixels": 1024,
+      "spectral_map_width_pixels": 1024,
+      "electron_x_nm_per_pixel_approx": 14.404296875,
+      "spectral_map_x_nm_per_pixel_approx": 14.404296875,
+      "spectral_map_x_nm_per_pixel_raster_edge_bounds": [
+        14.088114754098362,
+        14.731197033898306
+      ],
+      "status": "Approximate scale transferred from the authors' displayed 5 micrometre bar; not instrument calibration",
+      "assumptions": "The displayed bar accurately describes its image; full-frame electron/EDX linkage and native AOI geometry hold. No uncertainty for source instrument accuracy or manual figure composition is available.",
+      "y_scale": "No separate y calibration established; equal x/y specimen pixel pitch requires the native normalized geometry/square-pixel assumption."
+    },
+    {
+      "sample": "Nb2",
+      "site": "Site 1",
+      "electron_image_id": "2748f887-f4b8-4215-bdb7-8483c42b9b42",
+      "spectral_map_id": "bb89c3d1-5fb8-4089-baab-fcc5c74cfc81",
+      "reference": "image2",
+      "source_image_sha256": "f5ca25830fdba79a801a0d3f077f657215e471d84af7add3c6f9932ffa383556",
+      "field_width_um_approx": 14.62809917355372,
+      "field_width_um_raster_edge_bounds": [
+        14.308943089430894,
+        14.957983193277311
+      ],
+      "electron_width_pixels": 1024,
+      "spectral_map_width_pixels": 1024,
+      "electron_x_nm_per_pixel_approx": 14.285253099173554,
+      "spectral_map_x_nm_per_pixel_approx": 14.285253099173554,
+      "spectral_map_x_nm_per_pixel_raster_edge_bounds": [
+        13.973577235772357,
+        14.607405462184873
+      ],
+      "status": "Approximate scale transferred from the authors' displayed 5 micrometre bar; not instrument calibration",
+      "assumptions": "The displayed bar accurately describes its image; full-frame electron/EDX linkage and native AOI geometry hold. No uncertainty for source instrument accuracy or manual figure composition is available.",
+      "y_scale": "No separate y calibration established; equal x/y specimen pixel pitch requires the native normalized geometry/square-pixel assumption."
+    },
+    {
+      "sample": "Ta1",
+      "site": "Site 2",
+      "electron_image_id": "3b3ccb85-7132-45a5-9478-4f5e4db44d89",
+      "spectral_map_id": "81ecec1d-a043-40e9-bd5a-44fe2fb4e340",
+      "reference": "image3",
+      "source_image_sha256": "6a79756b5d7973c84a5be1845fab8a2dd27c34f09e18d93eef6ea53ab6e8301f",
+      "field_width_um_approx": 14.791666666666666,
+      "field_width_um_raster_edge_bounds": [
+        14.467213114754099,
+        15.127118644067796
+      ],
+      "electron_width_pixels": 1024,
+      "spectral_map_width_pixels": 2048,
+      "electron_x_nm_per_pixel_approx": 14.444986979166666,
+      "spectral_map_x_nm_per_pixel_approx": 7.222493489583333,
+      "spectral_map_x_nm_per_pixel_raster_edge_bounds": [
+        7.064068903688525,
+        7.386288400423728
+      ],
+      "status": "Approximate scale transferred from the authors' displayed 5 micrometre bar; not instrument calibration",
+      "assumptions": "The displayed bar accurately describes its image; full-frame electron/EDX linkage and native AOI geometry hold. No uncertainty for source instrument accuracy or manual figure composition is available.",
+      "y_scale": "No separate y calibration established; equal x/y specimen pixel pitch requires the native normalized geometry/square-pixel assumption."
+    },
+    {
+      "sample": "Ta1",
+      "site": "Site 1",
+      "electron_image_id": "bab27439-cf82-41dc-b036-730937c51d8f",
+      "spectral_map_id": "1ed2c46b-4cb1-44a4-b269-e5c3c72a2c20",
+      "reference": "image4",
+      "source_image_sha256": "36a862914cf3ec1a62a086135f8326cd8a4027f4eb332f51ac18fc19f51ac221",
+      "field_width_um_approx": 14.791666666666666,
+      "field_width_um_raster_edge_bounds": [
+        14.467213114754099,
+        15.127118644067796
+      ],
+      "electron_width_pixels": 1024,
+      "spectral_map_width_pixels": 1024,
+      "electron_x_nm_per_pixel_approx": 14.444986979166666,
+      "spectral_map_x_nm_per_pixel_approx": 14.444986979166666,
+      "spectral_map_x_nm_per_pixel_raster_edge_bounds": [
+        14.12813780737705,
+        14.772576800847457
+      ],
+      "status": "Approximate scale transferred from the authors' displayed 5 micrometre bar; not instrument calibration",
+      "assumptions": "The displayed bar accurately describes its image; full-frame electron/EDX linkage and native AOI geometry hold. No uncertainty for source instrument accuracy or manual figure composition is available.",
+      "y_scale": "No separate y calibration established; equal x/y specimen pixel pitch requires the native normalized geometry/square-pixel assumption."
+    },
+    {
+      "sample": "Ta2",
+      "site": "Site 2",
+      "electron_image_id": "7a515797-8e36-4cc2-9534-4f225b28493b",
+      "spectral_map_id": "e58e43f8-1ca9-4a7f-adcf-4642316f2f55",
+      "reference": "image5",
+      "source_image_sha256": "1017e67aead4b80ce95084c4c9d63754d11cc5dafba06662e23858539da014e9",
+      "field_width_um_approx": 14.62809917355372,
+      "field_width_um_raster_edge_bounds": [
+        14.308943089430894,
+        14.957983193277311
+      ],
+      "electron_width_pixels": 1024,
+      "spectral_map_width_pixels": 2048,
+      "electron_x_nm_per_pixel_approx": 14.285253099173554,
+      "spectral_map_x_nm_per_pixel_approx": 7.142626549586777,
+      "spectral_map_x_nm_per_pixel_raster_edge_bounds": [
+        6.986788617886178,
+        7.303702731092437
+      ],
+      "status": "Approximate scale transferred from the authors' displayed 5 micrometre bar; not instrument calibration",
+      "assumptions": "The displayed bar accurately describes its image; full-frame electron/EDX linkage and native AOI geometry hold. No uncertainty for source instrument accuracy or manual figure composition is available.",
+      "y_scale": "No separate y calibration established; equal x/y specimen pixel pitch requires the native normalized geometry/square-pixel assumption."
+    },
+    {
+      "sample": "Ta2",
+      "site": "Site 1",
+      "electron_image_id": "9469c461-0453-48fb-8834-6a6f17722fd7",
+      "spectral_map_id": "90e028d6-5007-4f8c-8403-f055eac13bb2",
+      "reference": "image6",
+      "source_image_sha256": "b4b9701e593153cfe442e5ca17a5c6e0bfa7c803a37c19d5be5a0437baf9daa2",
+      "field_width_um_approx": 14.75,
+      "field_width_um_raster_edge_bounds": [
+        14.426229508196721,
+        15.084745762711865
+      ],
+      "electron_width_pixels": 1024,
+      "spectral_map_width_pixels": 1024,
+      "electron_x_nm_per_pixel_approx": 14.404296875,
+      "spectral_map_x_nm_per_pixel_approx": 14.404296875,
+      "spectral_map_x_nm_per_pixel_raster_edge_bounds": [
+        14.088114754098362,
+        14.731197033898306
+      ],
+      "status": "Approximate scale transferred from the authors' displayed 5 micrometre bar; not instrument calibration",
+      "assumptions": "The displayed bar accurately describes its image; full-frame electron/EDX linkage and native AOI geometry hold. No uncertainty for source instrument accuracy or manual figure composition is available.",
+      "y_scale": "No separate y calibration established; equal x/y specimen pixel pitch requires the native normalized geometry/square-pixel assumption."
+    },
+    {
+      "sample": "Ti1",
+      "site": "Site 1",
+      "electron_image_id": "cf406bf9-fa93-4e37-8ee7-6329b404bf5a",
+      "spectral_map_id": "f03d4429-9a36-42c0-870b-ef52433f46db",
+      "reference": "image7",
+      "source_image_sha256": "1cf3733244e52e7e09c6f9f1556b8d780df87529ef275ece29bcac85efb27fd9",
+      "field_width_um_approx": 14.75,
+      "field_width_um_raster_edge_bounds": [
+        14.426229508196721,
+        15.084745762711865
+      ],
+      "electron_width_pixels": 1024,
+      "spectral_map_width_pixels": 1024,
+      "electron_x_nm_per_pixel_approx": 14.404296875,
+      "spectral_map_x_nm_per_pixel_approx": 14.404296875,
+      "spectral_map_x_nm_per_pixel_raster_edge_bounds": [
+        14.088114754098362,
+        14.731197033898306
+      ],
+      "status": "Approximate scale transferred from the authors' displayed 5 micrometre bar; not instrument calibration",
+      "assumptions": "The displayed bar accurately describes its image; full-frame electron/EDX linkage and native AOI geometry hold. No uncertainty for source instrument accuracy or manual figure composition is available.",
+      "y_scale": "No separate y calibration established; equal x/y specimen pixel pitch requires the native normalized geometry/square-pixel assumption."
+    },
+    {
+      "sample": "Ti1",
+      "site": "Site 2",
+      "electron_image_id": "db56439d-646e-434d-aecc-a56c07f03e4a",
+      "spectral_map_id": "5977e017-c42e-4473-875f-b0bd2706e3b1",
+      "reference": "image8",
+      "source_image_sha256": "ed764ce581a2cb2011083ea54324e880ac70357fb0c3bf913cbf4e46dee61335",
+      "field_width_um_approx": 14.62809917355372,
+      "field_width_um_raster_edge_bounds": [
+        14.308943089430894,
+        14.957983193277311
+      ],
+      "electron_width_pixels": 1024,
+      "spectral_map_width_pixels": 2048,
+      "electron_x_nm_per_pixel_approx": 14.285253099173554,
+      "spectral_map_x_nm_per_pixel_approx": 7.142626549586777,
+      "spectral_map_x_nm_per_pixel_raster_edge_bounds": [
+        6.986788617886178,
+        7.303702731092437
+      ],
+      "status": "Approximate scale transferred from the authors' displayed 5 micrometre bar; not instrument calibration",
+      "assumptions": "The displayed bar accurately describes its image; full-frame electron/EDX linkage and native AOI geometry hold. No uncertainty for source instrument accuracy or manual figure composition is available.",
+      "y_scale": "No separate y calibration established; equal x/y specimen pixel pitch requires the native normalized geometry/square-pixel assumption."
+    },
+    {
+      "sample": "Ti2",
+      "site": "Site 1",
+      "electron_image_id": "fc7a8aa7-3092-44ac-aeb2-d1c9efb64984",
+      "spectral_map_id": "b2de9ce4-ec60-4579-b143-6200ae714e05",
+      "reference": "image9",
+      "source_image_sha256": "81b07c28b9ce87e0f0115b99d6f05e1c63870073a8f75b66e571df2e52ac99fc",
+      "field_width_um_approx": 14.791666666666666,
+      "field_width_um_raster_edge_bounds": [
+        14.467213114754099,
+        15.127118644067796
+      ],
+      "electron_width_pixels": 1024,
+      "spectral_map_width_pixels": 1024,
+      "electron_x_nm_per_pixel_approx": 14.444986979166666,
+      "spectral_map_x_nm_per_pixel_approx": 14.444986979166666,
+      "spectral_map_x_nm_per_pixel_raster_edge_bounds": [
+        14.12813780737705,
+        14.772576800847457
+      ],
+      "status": "Approximate scale transferred from the authors' displayed 5 micrometre bar; not instrument calibration",
+      "assumptions": "The displayed bar accurately describes its image; full-frame electron/EDX linkage and native AOI geometry hold. No uncertainty for source instrument accuracy or manual figure composition is available.",
+      "y_scale": "No separate y calibration established; equal x/y specimen pixel pitch requires the native normalized geometry/square-pixel assumption."
+    }
+  ]
+}
