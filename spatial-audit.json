@@ -1,0 +1,224 @@
+{
+  "scope": "Internal spatial/spectral consistency. Endpoint-count pixels are excluded. This does not validate full image weighting, physical scale, seconds, composition, or vendor compatibility.",
+  "source_window_field_checks": [
+    {
+      "sample": "Nb1",
+      "site": "Site 1",
+      "map_id": "b7ef6eda-7951-4908-b9b9-ea29d2ea6cda",
+      "image_id": "704f8f7e-ef8a-49b0-bd45-78ac341b2f4e",
+      "support": [
+        45,
+        50
+      ],
+      "support_origin": "Stored u32 fields at offsets 16/12; interpreting them as support is a tested hypothesis, not an established general rule.",
+      "compared_pixels": 756165,
+      "compared_nonzero_image_pixels": 85203,
+      "exact_pixels": 755653,
+      "max_absolute_residual": 0.000244140625,
+      "max_float32_ulp_residual": 1.0,
+      "pixels_above_two_ulps": 0,
+      "normalized_correlation": 0.9999999999999951
+    },
+    {
+      "sample": "Nb2",
+      "site": "Site 1",
+      "map_id": "bb89c3d1-5fb8-4089-baab-fcc5c74cfc81",
+      "image_id": "1ef17e59-f263-4768-a998-98418fda0eca",
+      "support": [
+        45,
+        50
+      ],
+      "support_origin": "Stored u32 fields at offsets 16/12; interpreting them as support is a tested hypothesis, not an established general rule.",
+      "compared_pixels": 616750,
+      "compared_nonzero_image_pixels": 164839,
+      "exact_pixels": 592247,
+      "max_absolute_residual": 0.0009765625,
+      "max_float32_ulp_residual": 1.0,
+      "pixels_above_two_ulps": 0,
+      "normalized_correlation": 1.0
+    },
+    {
+      "sample": "Ta1",
+      "site": "Site 1",
+      "map_id": "1ed2c46b-4cb1-44a4-b269-e5c3c72a2c20",
+      "image_id": "6710a216-265c-44ca-8e88-318883724d6e",
+      "support": [
+        45,
+        50
+      ],
+      "support_origin": "Stored u32 fields at offsets 16/12; interpreting them as support is a tested hypothesis, not an established general rule.",
+      "compared_pixels": 751078,
+      "compared_nonzero_image_pixels": 93641,
+      "exact_pixels": 750745,
+      "max_absolute_residual": 0.000244140625,
+      "max_float32_ulp_residual": 1.0,
+      "pixels_above_two_ulps": 0,
+      "normalized_correlation": 1.0
+    },
+    {
+      "sample": "Ta1",
+      "site": "Site 2",
+      "map_id": "81ecec1d-a043-40e9-bd5a-44fe2fb4e340",
+      "image_id": "c87e2c58-cb44-4b93-9aef-d49d7499bf35",
+      "support": [
+        42,
+        54
+      ],
+      "support_origin": "Stored u32 fields at offsets 16/12; interpreting them as support is a tested hypothesis, not an established general rule.",
+      "compared_pixels": 3090280,
+      "compared_nonzero_image_pixels": 413576,
+      "exact_pixels": 3038117,
+      "max_absolute_residual": 307.63330078125,
+      "max_float32_ulp_residual": 12447206.0,
+      "pixels_above_two_ulps": 52163,
+      "normalized_correlation": 0.9999620200419337
+    },
+    {
+      "sample": "Ta2",
+      "site": "Site 1",
+      "map_id": "90e028d6-5007-4f8c-8403-f055eac13bb2",
+      "image_id": "a09c7b4d-1da3-40e6-a23f-a42f0928902e",
+      "support": [
+        45,
+        50
+      ],
+      "support_origin": "Stored u32 fields at offsets 16/12; interpreting them as support is a tested hypothesis, not an established general rule.",
+      "compared_pixels": 748355,
+      "compared_nonzero_image_pixels": 104546,
+      "exact_pixels": 746868,
+      "max_absolute_residual": 0.00048828125,
+      "max_float32_ulp_residual": 1.0,
+      "pixels_above_two_ulps": 0,
+      "normalized_correlation": 1.0
+    },
+    {
+      "sample": "Ta2",
+      "site": "Site 2",
+      "map_id": "e58e43f8-1ca9-4a7f-adcf-4642316f2f55",
+      "image_id": "68080f47-bcbc-4c3f-8bc5-bec85192c23f",
+      "support": [
+        42,
+        53
+      ],
+      "support_origin": "Stored u32 fields at offsets 16/12; interpreting them as support is a tested hypothesis, not an established general rule.",
+      "compared_pixels": 3054839,
+      "compared_nonzero_image_pixels": 551304,
+      "exact_pixels": 3024303,
+      "max_absolute_residual": 217.381591796875,
+      "max_float32_ulp_residual": 14331319.0,
+      "pixels_above_two_ulps": 30536,
+      "normalized_correlation": 0.9999937224460531
+    },
+    {
+      "sample": "Ti1",
+      "site": "Site 1",
+      "map_id": "f03d4429-9a36-42c0-870b-ef52433f46db",
+      "image_id": "a656dc21-0e63-4394-8433-711e0169f389",
+      "support": [
+        45,
+        50
+      ],
+      "support_origin": "Stored u32 fields at offsets 16/12; interpreting them as support is a tested hypothesis, not an established general rule.",
+      "compared_pixels": 684615,
+      "compared_nonzero_image_pixels": 131905,
+      "exact_pixels": 665907,
+      "max_absolute_residual": 0.0009765625,
+      "max_float32_ulp_residual": 1.0,
+      "pixels_above_two_ulps": 0,
+      "normalized_correlation": 0.9999999999999393
+    },
+    {
+      "sample": "Ti1",
+      "site": "Site 2",
+      "map_id": "5977e017-c42e-4473-875f-b0bd2706e3b1",
+      "image_id": "bf28f051-1d75-4305-a061-50127c2e1e66",
+      "support": [
+        41,
+        54
+      ],
+      "support_origin": "Stored u32 fields at offsets 16/12; interpreting them as support is a tested hypothesis, not an established general rule.",
+      "compared_pixels": 2942295,
+      "compared_nonzero_image_pixels": 1020870,
+      "exact_pixels": 2728004,
+      "max_absolute_residual": 0.00390625,
+      "max_float32_ulp_residual": 2.0,
+      "pixels_above_two_ulps": 0,
+      "normalized_correlation": 0.9999999999999526
+    },
+    {
+      "sample": "Ti2",
+      "site": "Site 1",
+      "map_id": "b2de9ce4-ec60-4579-b143-6200ae714e05",
+      "image_id": "f9308085-3f56-4d92-8fa7-bcd362746d14",
+      "support": [
+        45,
+        50
+      ],
+      "support_origin": "Stored u32 fields at offsets 16/12; interpreting them as support is a tested hypothesis, not an established general rule.",
+      "compared_pixels": 750132,
+      "compared_nonzero_image_pixels": 86007,
+      "exact_pixels": 748169,
+      "max_absolute_residual": 0.00048828125,
+      "max_float32_ulp_residual": 1.0,
+      "pixels_above_two_ulps": 0,
+      "normalized_correlation": 0.9999999999999766
+    }
+  ],
+  "empirical_support_diagnostics": [
+    {
+      "sample": "Ta1",
+      "site": "Site 2",
+      "map_id": "81ecec1d-a043-40e9-bd5a-44fe2fb4e340",
+      "image_id": "c87e2c58-cb44-4b93-9aef-d49d7499bf35",
+      "support": [
+        41,
+        53
+      ],
+      "support_origin": "Empirical support from neighboring-channel fits; not decoded from the source calibration.",
+      "compared_pixels": 3090660,
+      "compared_nonzero_image_pixels": 396822,
+      "exact_pixels": 3090660,
+      "max_absolute_residual": 0.0,
+      "max_float32_ulp_residual": 0.0,
+      "pixels_above_two_ulps": 0,
+      "normalized_correlation": 1.0
+    },
+    {
+      "sample": "Ta2",
+      "site": "Site 2",
+      "map_id": "e58e43f8-1ca9-4a7f-adcf-4642316f2f55",
+      "image_id": "68080f47-bcbc-4c3f-8bc5-bec85192c23f",
+      "support": [
+        41,
+        53
+      ],
+      "support_origin": "Empirical support from neighboring-channel fits; not decoded from the source calibration.",
+      "compared_pixels": 3064816,
+      "compared_nonzero_image_pixels": 561281,
+      "exact_pixels": 3064816,
+      "max_absolute_residual": 0.0,
+      "max_float32_ulp_residual": 0.0,
+      "pixels_above_two_ulps": 0,
+      "normalized_correlation": 1.0
+    },
+    {
+      "sample": "Ti1",
+      "site": "Site 2",
+      "map_id": "5977e017-c42e-4473-875f-b0bd2706e3b1",
+      "image_id": "bf28f051-1d75-4305-a061-50127c2e1e66",
+      "support": [
+        41,
+        54
+      ],
+      "support_origin": "Empirical support from neighboring-channel fits; not decoded from the source calibration.",
+      "compared_pixels": 2942295,
+      "compared_nonzero_image_pixels": 1020870,
+      "exact_pixels": 2728004,
+      "max_absolute_residual": 0.00390625,
+      "max_float32_ulp_residual": 2.0,
+      "pixels_above_two_ulps": 0,
+      "normalized_correlation": 0.9999999999999526
+    }
+  ],
+  "interpretation": "Seven source-field checks agree within two float32 ULPs; Ta1/Ta2 Site 2 do not. Empirical neighboring-channel support gives exact interior agreement there, indicating unresolved window/calibration semantics rather than evidence of a pixel-layout defect. Empirical fits are not a substitute for decoding or an independent vendor comparison."
+}

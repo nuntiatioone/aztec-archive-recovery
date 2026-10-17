@@ -1,0 +1,129 @@
+{
+  "full_map_checks": [
+    {
+      "map_id": "b7ef6eda-7951-4908-b9b9-ea29d2ea6cda",
+      "total_counts": 20363032,
+      "all_channels_equal": true
+    },
+    {
+      "map_id": "bb89c3d1-5fb8-4089-baab-fcc5c74cfc81",
+      "total_counts": 22827920,
+      "all_channels_equal": true
+    },
+    {
+      "map_id": "1ed2c46b-4cb1-44a4-b269-e5c3c72a2c20",
+      "total_counts": 23825999,
+      "all_channels_equal": true
+    },
+    {
+      "map_id": "81ecec1d-a043-40e9-bd5a-44fe2fb4e340",
+      "total_counts": 30225835,
+      "all_channels_equal": true
+    },
+    {
+      "map_id": "90e028d6-5007-4f8c-8403-f055eac13bb2",
+      "total_counts": 20564233,
+      "all_channels_equal": true
+    },
+    {
+      "map_id": "e58e43f8-1ca9-4a7f-adcf-4642316f2f55",
+      "total_counts": 29223368,
+      "all_channels_equal": true
+    },
+    {
+      "map_id": "f03d4429-9a36-42c0-870b-ef52433f46db",
+      "total_counts": 11290068,
+      "all_channels_equal": true
+    },
+    {
+      "map_id": "5977e017-c42e-4473-875f-b0bd2706e3b1",
+      "total_counts": 35965434,
+      "all_channels_equal": true
+    },
+    {
+      "map_id": "b2de9ce4-ec60-4579-b143-6200ae714e05",
+      "total_counts": 19509340,
+      "all_channels_equal": true
+    }
+  ],
+  "roi_checks": [
+    {
+      "sample": "Nb2",
+      "site": "Site 1",
+      "roi": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "total_counts": 13,
+      "channels_45_to_50": 8
+    },
+    {
+      "sample": "Nb2",
+      "site": "Site 1",
+      "roi": [
+        1023,
+        63,
+        1024,
+        64
+      ],
+      "total_counts": 13,
+      "channels_45_to_50": 3
+    },
+    {
+      "sample": "Nb2",
+      "site": "Site 1",
+      "roi": [
+        1023,
+        64,
+        1024,
+        65
+      ],
+      "total_counts": 17,
+      "channels_45_to_50": 7
+    },
+    {
+      "sample": "Nb2",
+      "site": "Site 1",
+      "roi": [
+        1019,
+        60,
+        1024,
+        68
+      ],
+      "total_counts": 539,
+      "channels_45_to_50": 235
+    },
+    {
+      "sample": "Nb2",
+      "site": "Site 1",
+      "roi": [
+        0,
+        767,
+        1024,
+        768
+      ],
+      "total_counts": 36218,
+      "channels_45_to_50": 216
+    },
+    {
+      "sample": "Ta1",
+      "site": "Site 2",
+      "roi": [
+        2040,
+        30,
+        2048,
+        35
+      ],
+      "total_counts": 145,
+      "channels_45_to_50": 21
+    }
+  ],
+  "images_read": 135,
+  "invalid_inputs_rejected": 13,
+  "unicode_cli_listing": true,
+  "cli_csv_roundtrip": true,
+  "existing_output_preserved": true,
+  "scope": "Software correctness on this archived dataset; internal array checks, not vendor comparison or scientific validation."
+}

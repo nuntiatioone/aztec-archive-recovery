@@ -1,0 +1,5729 @@
+{
+  "scope": "CAM.97038 schema18.0 stored AOI declarations; no vendor export comparison",
+  "all_offsets": "Zero-based byte offsets inside decoded XML Blob, not the .bin container",
+  "source_zip": "source/database-export.zip",
+  "source_zip_sha256": "5383df7e10b8b5a6208b8979ea574be1628c827cfdfcb71950e6b7db85759f3a",
+  "source_xml_files_read": [
+    "AreaOfInterests-1-ObjectBlob.xml",
+    "AreaOfInterests-10-ObjectBlob.xml",
+    "AreaOfInterests-11-ObjectBlob.xml",
+    "AreaOfInterests-12-ObjectBlob.xml",
+    "AreaOfInterests-13-ObjectBlob.xml",
+    "AreaOfInterests-14-ObjectBlob.xml",
+    "AreaOfInterests-15-ObjectBlob.xml",
+    "AreaOfInterests-16-ObjectBlob.xml",
+    "AreaOfInterests-17-ObjectBlob.xml",
+    "AreaOfInterests-18-ObjectBlob.xml",
+    "AreaOfInterests-2-ObjectBlob.xml",
+    "AreaOfInterests-3-ObjectBlob.xml",
+    "AreaOfInterests-4-ObjectBlob.xml",
+    "AreaOfInterests-5-ObjectBlob.xml",
+    "AreaOfInterests-6-ObjectBlob.xml",
+    "AreaOfInterests-7-ObjectBlob.xml",
+    "AreaOfInterests-8-ObjectBlob.xml",
+    "AreaOfInterests-9-ObjectBlob.xml",
+    "EDXSpectra-1-ObjectBlob.xml",
+    "EDXSpectra-10-ObjectBlob.xml",
+    "EDXSpectra-11-ObjectBlob.xml",
+    "EDXSpectra-12-ObjectBlob.xml",
+    "EDXSpectra-13-ObjectBlob.xml",
+    "EDXSpectra-14-ObjectBlob.xml",
+    "EDXSpectra-15-ObjectBlob.xml",
+    "EDXSpectra-16-ObjectBlob.xml",
+    "EDXSpectra-17-ObjectBlob.xml",
+    "EDXSpectra-18-ObjectBlob.xml",
+    "EDXSpectra-2-ObjectBlob.xml",
+    "EDXSpectra-3-ObjectBlob.xml",
+    "EDXSpectra-4-ObjectBlob.xml",
+    "EDXSpectra-5-ObjectBlob.xml",
+    "EDXSpectra-6-ObjectBlob.xml",
+    "EDXSpectra-7-ObjectBlob.xml",
+    "EDXSpectra-8-ObjectBlob.xml",
+    "EDXSpectra-9-ObjectBlob.xml",
+    "ElectronImages-1-ObjectBlob.xml",
+    "ElectronImages-2-ObjectBlob.xml",
+    "ElectronImages-3-ObjectBlob.xml",
+    "ElectronImages-4-ObjectBlob.xml",
+    "ElectronImages-5-ObjectBlob.xml",
+    "ElectronImages-6-ObjectBlob.xml",
+    "ElectronImages-7-ObjectBlob.xml",
+    "ElectronImages-8-ObjectBlob.xml",
+    "ElectronImages-9-ObjectBlob.xml",
+    "SmartMaps-1-ObjectBlob.xml",
+    "SmartMaps-2-ObjectBlob.xml",
+    "SmartMaps-3-ObjectBlob.xml",
+    "SmartMaps-4-ObjectBlob.xml",
+    "SmartMaps-5-ObjectBlob.xml",
+    "SmartMaps-6-ObjectBlob.xml",
+    "SmartMaps-7-ObjectBlob.xml",
+    "SmartMaps-8-ObjectBlob.xml",
+    "SmartMaps-9-ObjectBlob.xml",
+    "XrayMapImages-1-ObjectBlob.xml",
+    "XrayMapImages-10-ObjectBlob.xml",
+    "XrayMapImages-100-ObjectBlob.xml",
+    "XrayMapImages-101-ObjectBlob.xml",
+    "XrayMapImages-102-ObjectBlob.xml",
+    "XrayMapImages-103-ObjectBlob.xml",
+    "XrayMapImages-104-ObjectBlob.xml",
+    "XrayMapImages-105-ObjectBlob.xml",
+    "XrayMapImages-106-ObjectBlob.xml",
+    "XrayMapImages-107-ObjectBlob.xml",
+    "XrayMapImages-108-ObjectBlob.xml",
+    "XrayMapImages-109-ObjectBlob.xml",
+    "XrayMapImages-11-ObjectBlob.xml",
+    "XrayMapImages-110-ObjectBlob.xml",
+    "XrayMapImages-111-ObjectBlob.xml",
+    "XrayMapImages-112-ObjectBlob.xml",
+    "XrayMapImages-113-ObjectBlob.xml",
+    "XrayMapImages-114-ObjectBlob.xml",
+    "XrayMapImages-115-ObjectBlob.xml",
+    "XrayMapImages-116-ObjectBlob.xml",
+    "XrayMapImages-117-ObjectBlob.xml",
+    "XrayMapImages-118-ObjectBlob.xml",
+    "XrayMapImages-119-ObjectBlob.xml",
+    "XrayMapImages-12-ObjectBlob.xml",
+    "XrayMapImages-120-ObjectBlob.xml",
+    "XrayMapImages-121-ObjectBlob.xml",
+    "XrayMapImages-122-ObjectBlob.xml",
+    "XrayMapImages-123-ObjectBlob.xml",
+    "XrayMapImages-124-ObjectBlob.xml",
+    "XrayMapImages-125-ObjectBlob.xml",
+    "XrayMapImages-126-ObjectBlob.xml",
+    "XrayMapImages-13-ObjectBlob.xml",
+    "XrayMapImages-14-ObjectBlob.xml",
+    "XrayMapImages-15-ObjectBlob.xml",
+    "XrayMapImages-16-ObjectBlob.xml",
+    "XrayMapImages-17-ObjectBlob.xml",
+    "XrayMapImages-18-ObjectBlob.xml",
+    "XrayMapImages-19-ObjectBlob.xml",
+    "XrayMapImages-2-ObjectBlob.xml",
+    "XrayMapImages-20-ObjectBlob.xml",
+    "XrayMapImages-21-ObjectBlob.xml",
+    "XrayMapImages-22-ObjectBlob.xml",
+    "XrayMapImages-23-ObjectBlob.xml",
+    "XrayMapImages-24-ObjectBlob.xml",
+    "XrayMapImages-25-ObjectBlob.xml",
+    "XrayMapImages-26-ObjectBlob.xml",
+    "XrayMapImages-27-ObjectBlob.xml",
+    "XrayMapImages-28-ObjectBlob.xml",
+    "XrayMapImages-29-ObjectBlob.xml",
+    "XrayMapImages-3-ObjectBlob.xml",
+    "XrayMapImages-30-ObjectBlob.xml",
+    "XrayMapImages-31-ObjectBlob.xml",
+    "XrayMapImages-32-ObjectBlob.xml",
+    "XrayMapImages-33-ObjectBlob.xml",
+    "XrayMapImages-34-ObjectBlob.xml",
+    "XrayMapImages-35-ObjectBlob.xml",
+    "XrayMapImages-36-ObjectBlob.xml",
+    "XrayMapImages-37-ObjectBlob.xml",
+    "XrayMapImages-38-ObjectBlob.xml",
+    "XrayMapImages-39-ObjectBlob.xml",
+    "XrayMapImages-4-ObjectBlob.xml",
+    "XrayMapImages-40-ObjectBlob.xml",
+    "XrayMapImages-41-ObjectBlob.xml",
+    "XrayMapImages-42-ObjectBlob.xml",
+    "XrayMapImages-43-ObjectBlob.xml",
+    "XrayMapImages-44-ObjectBlob.xml",
+    "XrayMapImages-45-ObjectBlob.xml",
+    "XrayMapImages-46-ObjectBlob.xml",
+    "XrayMapImages-47-ObjectBlob.xml",
+    "XrayMapImages-48-ObjectBlob.xml",
+    "XrayMapImages-49-ObjectBlob.xml",
+    "XrayMapImages-5-ObjectBlob.xml",
+    "XrayMapImages-50-ObjectBlob.xml",
+    "XrayMapImages-51-ObjectBlob.xml",
+    "XrayMapImages-52-ObjectBlob.xml",
+    "XrayMapImages-53-ObjectBlob.xml",
+    "XrayMapImages-54-ObjectBlob.xml",
+    "XrayMapImages-55-ObjectBlob.xml",
+    "XrayMapImages-56-ObjectBlob.xml",
+    "XrayMapImages-57-ObjectBlob.xml",
+    "XrayMapImages-58-ObjectBlob.xml",
+    "XrayMapImages-59-ObjectBlob.xml",
+    "XrayMapImages-6-ObjectBlob.xml",
+    "XrayMapImages-60-ObjectBlob.xml",
+    "XrayMapImages-61-ObjectBlob.xml",
+    "XrayMapImages-62-ObjectBlob.xml",
+    "XrayMapImages-63-ObjectBlob.xml",
+    "XrayMapImages-64-ObjectBlob.xml",
+    "XrayMapImages-65-ObjectBlob.xml",
+    "XrayMapImages-66-ObjectBlob.xml",
+    "XrayMapImages-67-ObjectBlob.xml",
+    "XrayMapImages-68-ObjectBlob.xml",
+    "XrayMapImages-69-ObjectBlob.xml",
+    "XrayMapImages-7-ObjectBlob.xml",
+    "XrayMapImages-70-ObjectBlob.xml",
+    "XrayMapImages-71-ObjectBlob.xml",
+    "XrayMapImages-72-ObjectBlob.xml",
+    "XrayMapImages-73-ObjectBlob.xml",
+    "XrayMapImages-74-ObjectBlob.xml",
+    "XrayMapImages-75-ObjectBlob.xml",
+    "XrayMapImages-76-ObjectBlob.xml",
+    "XrayMapImages-77-ObjectBlob.xml",
+    "XrayMapImages-78-ObjectBlob.xml",
+    "XrayMapImages-79-ObjectBlob.xml",
+    "XrayMapImages-8-ObjectBlob.xml",
+    "XrayMapImages-80-ObjectBlob.xml",
+    "XrayMapImages-81-ObjectBlob.xml",
+    "XrayMapImages-82-ObjectBlob.xml",
+    "XrayMapImages-83-ObjectBlob.xml",
+    "XrayMapImages-84-ObjectBlob.xml",
+    "XrayMapImages-85-ObjectBlob.xml",
+    "XrayMapImages-86-ObjectBlob.xml",
+    "XrayMapImages-87-ObjectBlob.xml",
+    "XrayMapImages-88-ObjectBlob.xml",
+    "XrayMapImages-89-ObjectBlob.xml",
+    "XrayMapImages-9-ObjectBlob.xml",
+    "XrayMapImages-90-ObjectBlob.xml",
+    "XrayMapImages-91-ObjectBlob.xml",
+    "XrayMapImages-92-ObjectBlob.xml",
+    "XrayMapImages-93-ObjectBlob.xml",
+    "XrayMapImages-94-ObjectBlob.xml",
+    "XrayMapImages-95-ObjectBlob.xml",
+    "XrayMapImages-96-ObjectBlob.xml",
+    "XrayMapImages-97-ObjectBlob.xml",
+    "XrayMapImages-98-ObjectBlob.xml",
+    "XrayMapImages-99-ObjectBlob.xml"
+  ],
+  "aois": [
+    {
+      "aoi_index": 1,
+      "aoi_id": "fe137600-5fa6-48ea-9409-05a0bc4f60f8",
+      "source_xml": "AreaOfInterests-1-ObjectBlob.xml",
+      "source_xml_sha256": "5be6601f8319dafe430f57df79a56118167240f7b8523f36fddd0ccc72df2c24",
+      "column_conditions": {
+        "version": 1,
+        "name_count": 10,
+        "value_count_offset": 150,
+        "bytes_consumed": 234,
+        "fields": {
+          "Magnification": {
+            "stored_value": 7231.0,
+            "offset": 154,
+            "type": "<f8",
+            "unit": null
+          },
+          "WorkingDistance": {
+            "stored_value": 8.512519836425781,
+            "offset": 162,
+            "type": "<f8",
+            "unit": null
+          },
+          "HighVoltage": {
+            "stored_value": 20.0,
+            "offset": 170,
+            "type": "<f8",
+            "unit": null
+          },
+          "ColumnConnected": {
+            "stored_value": 1.0,
+            "offset": 178,
+            "type": "<f8",
+            "unit": null
+          },
+          "External": {
+            "stored_value": 1.0,
+            "offset": 186,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamOff": {
+            "stored_value": 0.0,
+            "offset": 194,
+            "type": "<f8",
+            "unit": null
+          },
+          "FilamentOff": {
+            "stored_value": 1.0,
+            "offset": 202,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoContrastBrightness": {
+            "stored_value": 0.0,
+            "offset": 210,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoFocus": {
+            "stored_value": 0.0,
+            "offset": 218,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamCurrent": {
+            "stored_value": 0.0,
+            "offset": 226,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "stage_conditions": {
+        "version": 1,
+        "name_count": 7,
+        "value_count_offset": 87,
+        "bytes_consumed": 147,
+        "fields": {
+          "StageX": {
+            "stored_value": 67.80699,
+            "offset": 91,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageY": {
+            "stored_value": 50.98988,
+            "offset": 99,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageZ": {
+            "stored_value": 37.14936,
+            "offset": 107,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageTilt": {
+            "stored_value": -0.022900000116092892,
+            "offset": 115,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageRotate": {
+            "stored_value": 14.17488956451416,
+            "offset": 123,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageBacklash": {
+            "stored_value": 0.0,
+            "offset": 131,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageConnected": {
+            "stored_value": 0.0,
+            "offset": 139,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "scan_calibration": {
+        "version": 1,
+        "double_at_4": 1.3333333333333333,
+        "double_at_12": 104.55187984813607,
+        "unit": null
+      },
+      "geometry": {
+        "stored_width": 1024,
+        "stored_height": 768,
+        "double_at_8": 0.0009765625,
+        "doubles_at_16_24": [
+          0.0,
+          0.0
+        ],
+        "double_at_44": 0.0,
+        "double_at_52": 1.0,
+        "uninterpreted_uint32_at_60": 1
+      },
+      "full_field_region": {
+        "version": 1,
+        "doubles_at_4_12_20_28": [
+          0.0,
+          0.0,
+          1.0,
+          0.75
+        ],
+        "unit": null
+      },
+      "absolute_position": {
+        "version": 2,
+        "doubles_at_4_12_20_28_36": [
+          67.80699,
+          50.98988,
+          37.14936,
+          0.0,
+          0.0
+        ],
+        "units": null
+      }
+    },
+    {
+      "aoi_index": 2,
+      "aoi_id": "ce340b2c-a91f-45e7-b9d7-e9951a60318e",
+      "source_xml": "AreaOfInterests-2-ObjectBlob.xml",
+      "source_xml_sha256": "0a7ff388789b37e70e6fb75463f2c5f8978db6519c0cdea5493c40dca8ba26fa",
+      "column_conditions": {
+        "version": 1,
+        "name_count": 10,
+        "value_count_offset": 150,
+        "bytes_consumed": 234,
+        "fields": {
+          "Magnification": {
+            "stored_value": 7231.0,
+            "offset": 154,
+            "type": "<f8",
+            "unit": null
+          },
+          "WorkingDistance": {
+            "stored_value": 8.512519836425781,
+            "offset": 162,
+            "type": "<f8",
+            "unit": null
+          },
+          "HighVoltage": {
+            "stored_value": 20.0,
+            "offset": 170,
+            "type": "<f8",
+            "unit": null
+          },
+          "ColumnConnected": {
+            "stored_value": 1.0,
+            "offset": 178,
+            "type": "<f8",
+            "unit": null
+          },
+          "External": {
+            "stored_value": 1.0,
+            "offset": 186,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamOff": {
+            "stored_value": 0.0,
+            "offset": 194,
+            "type": "<f8",
+            "unit": null
+          },
+          "FilamentOff": {
+            "stored_value": 1.0,
+            "offset": 202,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoContrastBrightness": {
+            "stored_value": 0.0,
+            "offset": 210,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoFocus": {
+            "stored_value": 0.0,
+            "offset": 218,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamCurrent": {
+            "stored_value": 0.0,
+            "offset": 226,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "stage_conditions": {
+        "version": 1,
+        "name_count": 7,
+        "value_count_offset": 87,
+        "bytes_consumed": 147,
+        "fields": {
+          "StageX": {
+            "stored_value": 67.80699,
+            "offset": 91,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageY": {
+            "stored_value": 50.98988,
+            "offset": 99,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageZ": {
+            "stored_value": 37.14936,
+            "offset": 107,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageTilt": {
+            "stored_value": -0.022900000116092892,
+            "offset": 115,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageRotate": {
+            "stored_value": 14.17488956451416,
+            "offset": 123,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageBacklash": {
+            "stored_value": 0.0,
+            "offset": 131,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageConnected": {
+            "stored_value": 0.0,
+            "offset": 139,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "scan_calibration": {
+        "version": 1,
+        "double_at_4": 1.3333333333333333,
+        "double_at_12": 104.55187984813607,
+        "unit": null
+      },
+      "geometry": {
+        "stored_width": 1024,
+        "stored_height": 768,
+        "double_at_8": 0.0009765625,
+        "doubles_at_16_24": [
+          0.0,
+          0.0
+        ],
+        "double_at_44": 0.0,
+        "double_at_52": 1.0,
+        "uninterpreted_uint32_at_60": 15
+      },
+      "full_field_region": {
+        "version": 1,
+        "doubles_at_4_12_20_28": [
+          0.0,
+          0.0,
+          1.0,
+          0.75
+        ],
+        "unit": null
+      },
+      "absolute_position": {
+        "version": 2,
+        "doubles_at_4_12_20_28_36": [
+          67.80699,
+          50.98988,
+          37.14936,
+          0.0,
+          0.0
+        ],
+        "units": null
+      }
+    },
+    {
+      "aoi_index": 3,
+      "aoi_id": "7fc5cd53-8610-40c1-98db-33f0f0ad84d6",
+      "source_xml": "AreaOfInterests-3-ObjectBlob.xml",
+      "source_xml_sha256": "934191ab4d97fd587394f2cbbf799d65a9a5abaf227369c2825b45f909b4dee2",
+      "column_conditions": {
+        "version": 1,
+        "name_count": 10,
+        "value_count_offset": 150,
+        "bytes_consumed": 234,
+        "fields": {
+          "Magnification": {
+            "stored_value": 7231.0,
+            "offset": 154,
+            "type": "<f8",
+            "unit": null
+          },
+          "WorkingDistance": {
+            "stored_value": 8.484569549560547,
+            "offset": 162,
+            "type": "<f8",
+            "unit": null
+          },
+          "HighVoltage": {
+            "stored_value": 20.0,
+            "offset": 170,
+            "type": "<f8",
+            "unit": null
+          },
+          "ColumnConnected": {
+            "stored_value": 1.0,
+            "offset": 178,
+            "type": "<f8",
+            "unit": null
+          },
+          "External": {
+            "stored_value": 1.0,
+            "offset": 186,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamOff": {
+            "stored_value": 0.0,
+            "offset": 194,
+            "type": "<f8",
+            "unit": null
+          },
+          "FilamentOff": {
+            "stored_value": 1.0,
+            "offset": 202,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoContrastBrightness": {
+            "stored_value": 0.0,
+            "offset": 210,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoFocus": {
+            "stored_value": 0.0,
+            "offset": 218,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamCurrent": {
+            "stored_value": 0.0,
+            "offset": 226,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "stage_conditions": {
+        "version": 1,
+        "name_count": 7,
+        "value_count_offset": 87,
+        "bytes_consumed": 147,
+        "fields": {
+          "StageX": {
+            "stored_value": 60.15852,
+            "offset": 91,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageY": {
+            "stored_value": 51.75158,
+            "offset": 99,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageZ": {
+            "stored_value": 37.14936,
+            "offset": 107,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageTilt": {
+            "stored_value": -0.022900000116092892,
+            "offset": 115,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageRotate": {
+            "stored_value": 13.81935977935791,
+            "offset": 123,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageBacklash": {
+            "stored_value": 0.0,
+            "offset": 131,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageConnected": {
+            "stored_value": 0.0,
+            "offset": 139,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "scan_calibration": {
+        "version": 1,
+        "double_at_4": 1.3333333333333333,
+        "double_at_12": 104.55187984813607,
+        "unit": null
+      },
+      "geometry": {
+        "stored_width": 1024,
+        "stored_height": 768,
+        "double_at_8": 0.0009765625,
+        "doubles_at_16_24": [
+          0.0,
+          0.0
+        ],
+        "double_at_44": 0.0,
+        "double_at_52": 1.0,
+        "uninterpreted_uint32_at_60": 1
+      },
+      "full_field_region": {
+        "version": 1,
+        "doubles_at_4_12_20_28": [
+          0.0,
+          0.0,
+          1.0,
+          0.75
+        ],
+        "unit": null
+      },
+      "absolute_position": {
+        "version": 2,
+        "doubles_at_4_12_20_28_36": [
+          60.15852,
+          51.75158,
+          37.14936,
+          0.0,
+          0.0
+        ],
+        "units": null
+      }
+    },
+    {
+      "aoi_index": 4,
+      "aoi_id": "d656fdf1-17a0-4e4d-bb6d-beb41b1fb135",
+      "source_xml": "AreaOfInterests-4-ObjectBlob.xml",
+      "source_xml_sha256": "6deec499987c13ecbee64a77a663cfe31c0b97fbce5043bd9e842b57e70f54ef",
+      "column_conditions": {
+        "version": 1,
+        "name_count": 10,
+        "value_count_offset": 150,
+        "bytes_consumed": 234,
+        "fields": {
+          "Magnification": {
+            "stored_value": 7231.0,
+            "offset": 154,
+            "type": "<f8",
+            "unit": null
+          },
+          "WorkingDistance": {
+            "stored_value": 8.484569549560547,
+            "offset": 162,
+            "type": "<f8",
+            "unit": null
+          },
+          "HighVoltage": {
+            "stored_value": 20.0,
+            "offset": 170,
+            "type": "<f8",
+            "unit": null
+          },
+          "ColumnConnected": {
+            "stored_value": 1.0,
+            "offset": 178,
+            "type": "<f8",
+            "unit": null
+          },
+          "External": {
+            "stored_value": 1.0,
+            "offset": 186,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamOff": {
+            "stored_value": 0.0,
+            "offset": 194,
+            "type": "<f8",
+            "unit": null
+          },
+          "FilamentOff": {
+            "stored_value": 1.0,
+            "offset": 202,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoContrastBrightness": {
+            "stored_value": 0.0,
+            "offset": 210,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoFocus": {
+            "stored_value": 0.0,
+            "offset": 218,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamCurrent": {
+            "stored_value": 0.0,
+            "offset": 226,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "stage_conditions": {
+        "version": 1,
+        "name_count": 7,
+        "value_count_offset": 87,
+        "bytes_consumed": 147,
+        "fields": {
+          "StageX": {
+            "stored_value": 60.15852,
+            "offset": 91,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageY": {
+            "stored_value": 51.75158,
+            "offset": 99,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageZ": {
+            "stored_value": 37.14936,
+            "offset": 107,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageTilt": {
+            "stored_value": -0.022900000116092892,
+            "offset": 115,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageRotate": {
+            "stored_value": 13.81935977935791,
+            "offset": 123,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageBacklash": {
+            "stored_value": 0.0,
+            "offset": 131,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageConnected": {
+            "stored_value": 0.0,
+            "offset": 139,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "scan_calibration": {
+        "version": 1,
+        "double_at_4": 1.3333333333333333,
+        "double_at_12": 104.55187984813607,
+        "unit": null
+      },
+      "geometry": {
+        "stored_width": 1024,
+        "stored_height": 768,
+        "double_at_8": 0.0009765625,
+        "doubles_at_16_24": [
+          0.0,
+          0.0
+        ],
+        "double_at_44": 0.0,
+        "double_at_52": 1.0,
+        "uninterpreted_uint32_at_60": 15
+      },
+      "full_field_region": {
+        "version": 1,
+        "doubles_at_4_12_20_28": [
+          0.0,
+          0.0,
+          1.0,
+          0.75
+        ],
+        "unit": null
+      },
+      "absolute_position": {
+        "version": 2,
+        "doubles_at_4_12_20_28_36": [
+          60.15852,
+          51.75158,
+          37.14936,
+          0.0,
+          0.0
+        ],
+        "units": null
+      }
+    },
+    {
+      "aoi_index": 5,
+      "aoi_id": "18d67d3b-706b-4c73-82df-e4eb1efeb7d6",
+      "source_xml": "AreaOfInterests-5-ObjectBlob.xml",
+      "source_xml_sha256": "aa950af4249b564e9ed685e27f802f973824057658145cb1ca2a7e00da0e4072",
+      "column_conditions": {
+        "version": 1,
+        "name_count": 10,
+        "value_count_offset": 150,
+        "bytes_consumed": 234,
+        "fields": {
+          "Magnification": {
+            "stored_value": 7231.0,
+            "offset": 154,
+            "type": "<f8",
+            "unit": null
+          },
+          "WorkingDistance": {
+            "stored_value": 8.503080368041992,
+            "offset": 162,
+            "type": "<f8",
+            "unit": null
+          },
+          "HighVoltage": {
+            "stored_value": 20.0,
+            "offset": 170,
+            "type": "<f8",
+            "unit": null
+          },
+          "ColumnConnected": {
+            "stored_value": 1.0,
+            "offset": 178,
+            "type": "<f8",
+            "unit": null
+          },
+          "External": {
+            "stored_value": 1.0,
+            "offset": 186,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamOff": {
+            "stored_value": 0.0,
+            "offset": 194,
+            "type": "<f8",
+            "unit": null
+          },
+          "FilamentOff": {
+            "stored_value": 1.0,
+            "offset": 202,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoContrastBrightness": {
+            "stored_value": 0.0,
+            "offset": 210,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoFocus": {
+            "stored_value": 0.0,
+            "offset": 218,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamCurrent": {
+            "stored_value": 0.0,
+            "offset": 226,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "stage_conditions": {
+        "version": 1,
+        "name_count": 7,
+        "value_count_offset": 87,
+        "bytes_consumed": 147,
+        "fields": {
+          "StageX": {
+            "stored_value": 67.89777,
+            "offset": 91,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageY": {
+            "stored_value": 57.02311,
+            "offset": 99,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageZ": {
+            "stored_value": 38.79165,
+            "offset": 107,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageTilt": {
+            "stored_value": -0.022900000116092892,
+            "offset": 115,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageRotate": {
+            "stored_value": 13.81935977935791,
+            "offset": 123,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageBacklash": {
+            "stored_value": 0.0,
+            "offset": 131,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageConnected": {
+            "stored_value": 0.0,
+            "offset": 139,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "scan_calibration": {
+        "version": 1,
+        "double_at_4": 1.3333333333333333,
+        "double_at_12": 104.55187984813607,
+        "unit": null
+      },
+      "geometry": {
+        "stored_width": 1024,
+        "stored_height": 768,
+        "double_at_8": 0.0009765625,
+        "doubles_at_16_24": [
+          0.0,
+          0.0
+        ],
+        "double_at_44": 0.0,
+        "double_at_52": 1.0,
+        "uninterpreted_uint32_at_60": 1
+      },
+      "full_field_region": {
+        "version": 1,
+        "doubles_at_4_12_20_28": [
+          0.0,
+          0.0,
+          1.0,
+          0.75
+        ],
+        "unit": null
+      },
+      "absolute_position": {
+        "version": 2,
+        "doubles_at_4_12_20_28_36": [
+          67.89777,
+          57.02311,
+          38.79165,
+          0.0,
+          0.0
+        ],
+        "units": null
+      }
+    },
+    {
+      "aoi_index": 6,
+      "aoi_id": "232b9545-57a7-4893-83de-019db9fb0cba",
+      "source_xml": "AreaOfInterests-6-ObjectBlob.xml",
+      "source_xml_sha256": "668784d94bdc466dffb49bd68e0b1da1a215a23c4a7241002ace25164564a3c2",
+      "column_conditions": {
+        "version": 1,
+        "name_count": 10,
+        "value_count_offset": 150,
+        "bytes_consumed": 234,
+        "fields": {
+          "Magnification": {
+            "stored_value": 7231.0,
+            "offset": 154,
+            "type": "<f8",
+            "unit": null
+          },
+          "WorkingDistance": {
+            "stored_value": 8.503080368041992,
+            "offset": 162,
+            "type": "<f8",
+            "unit": null
+          },
+          "HighVoltage": {
+            "stored_value": 20.0,
+            "offset": 170,
+            "type": "<f8",
+            "unit": null
+          },
+          "ColumnConnected": {
+            "stored_value": 1.0,
+            "offset": 178,
+            "type": "<f8",
+            "unit": null
+          },
+          "External": {
+            "stored_value": 1.0,
+            "offset": 186,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamOff": {
+            "stored_value": 0.0,
+            "offset": 194,
+            "type": "<f8",
+            "unit": null
+          },
+          "FilamentOff": {
+            "stored_value": 1.0,
+            "offset": 202,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoContrastBrightness": {
+            "stored_value": 0.0,
+            "offset": 210,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoFocus": {
+            "stored_value": 0.0,
+            "offset": 218,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamCurrent": {
+            "stored_value": 0.0,
+            "offset": 226,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "stage_conditions": {
+        "version": 1,
+        "name_count": 7,
+        "value_count_offset": 87,
+        "bytes_consumed": 147,
+        "fields": {
+          "StageX": {
+            "stored_value": 67.89777,
+            "offset": 91,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageY": {
+            "stored_value": 57.02311,
+            "offset": 99,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageZ": {
+            "stored_value": 38.79165,
+            "offset": 107,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageTilt": {
+            "stored_value": -0.022900000116092892,
+            "offset": 115,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageRotate": {
+            "stored_value": 13.81935977935791,
+            "offset": 123,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageBacklash": {
+            "stored_value": 0.0,
+            "offset": 131,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageConnected": {
+            "stored_value": 0.0,
+            "offset": 139,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "scan_calibration": {
+        "version": 1,
+        "double_at_4": 1.3333333333333333,
+        "double_at_12": 104.55187984813607,
+        "unit": null
+      },
+      "geometry": {
+        "stored_width": 1024,
+        "stored_height": 768,
+        "double_at_8": 0.0009765625,
+        "doubles_at_16_24": [
+          0.0,
+          0.0
+        ],
+        "double_at_44": 0.0,
+        "double_at_52": 1.0,
+        "uninterpreted_uint32_at_60": 15
+      },
+      "full_field_region": {
+        "version": 1,
+        "doubles_at_4_12_20_28": [
+          0.0,
+          0.0,
+          1.0,
+          0.75
+        ],
+        "unit": null
+      },
+      "absolute_position": {
+        "version": 2,
+        "doubles_at_4_12_20_28_36": [
+          67.89777,
+          57.02311,
+          38.79165,
+          0.0,
+          0.0
+        ],
+        "units": null
+      }
+    },
+    {
+      "aoi_index": 7,
+      "aoi_id": "dbc7e90e-2864-472c-a8a4-54f2b510b5dc",
+      "source_xml": "AreaOfInterests-7-ObjectBlob.xml",
+      "source_xml_sha256": "aef594f0a3028960b8ab9c8c485a363205868472cdcc3e1062868e533b4b9059",
+      "column_conditions": {
+        "version": 1,
+        "name_count": 10,
+        "value_count_offset": 150,
+        "bytes_consumed": 234,
+        "fields": {
+          "Magnification": {
+            "stored_value": 7231.0,
+            "offset": 154,
+            "type": "<f8",
+            "unit": null
+          },
+          "WorkingDistance": {
+            "stored_value": 8.50547981262207,
+            "offset": 162,
+            "type": "<f8",
+            "unit": null
+          },
+          "HighVoltage": {
+            "stored_value": 20.0,
+            "offset": 170,
+            "type": "<f8",
+            "unit": null
+          },
+          "ColumnConnected": {
+            "stored_value": 1.0,
+            "offset": 178,
+            "type": "<f8",
+            "unit": null
+          },
+          "External": {
+            "stored_value": 1.0,
+            "offset": 186,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamOff": {
+            "stored_value": 0.0,
+            "offset": 194,
+            "type": "<f8",
+            "unit": null
+          },
+          "FilamentOff": {
+            "stored_value": 1.0,
+            "offset": 202,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoContrastBrightness": {
+            "stored_value": 0.0,
+            "offset": 210,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoFocus": {
+            "stored_value": 0.0,
+            "offset": 218,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamCurrent": {
+            "stored_value": 0.0,
+            "offset": 226,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "stage_conditions": {
+        "version": 1,
+        "name_count": 7,
+        "value_count_offset": 87,
+        "bytes_consumed": 147,
+        "fields": {
+          "StageX": {
+            "stored_value": 59.06131,
+            "offset": 91,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageY": {
+            "stored_value": 53.27316,
+            "offset": 99,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageZ": {
+            "stored_value": 38.79977,
+            "offset": 107,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageTilt": {
+            "stored_value": -0.001230000071680517,
+            "offset": 115,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageRotate": {
+            "stored_value": 12.147649765014648,
+            "offset": 123,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageBacklash": {
+            "stored_value": 0.0,
+            "offset": 131,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageConnected": {
+            "stored_value": 0.0,
+            "offset": 139,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "scan_calibration": {
+        "version": 1,
+        "double_at_4": 1.3333333333333333,
+        "double_at_12": 104.55187984813607,
+        "unit": null
+      },
+      "geometry": {
+        "stored_width": 1024,
+        "stored_height": 768,
+        "double_at_8": 0.0009765625,
+        "doubles_at_16_24": [
+          0.0,
+          0.0
+        ],
+        "double_at_44": 0.0,
+        "double_at_52": 1.0,
+        "uninterpreted_uint32_at_60": 1
+      },
+      "full_field_region": {
+        "version": 1,
+        "doubles_at_4_12_20_28": [
+          0.0,
+          0.0,
+          1.0,
+          0.75
+        ],
+        "unit": null
+      },
+      "absolute_position": {
+        "version": 2,
+        "doubles_at_4_12_20_28_36": [
+          59.06131,
+          53.27316,
+          38.79977,
+          0.0,
+          0.0
+        ],
+        "units": null
+      }
+    },
+    {
+      "aoi_index": 8,
+      "aoi_id": "4ce86fa3-ce48-43e9-aef4-a34b2edd19c7",
+      "source_xml": "AreaOfInterests-8-ObjectBlob.xml",
+      "source_xml_sha256": "730bf7d99bedc37b7e6a994fa9b00ba5e25e72482559e745edbab2697838873f",
+      "column_conditions": {
+        "version": 1,
+        "name_count": 10,
+        "value_count_offset": 150,
+        "bytes_consumed": 234,
+        "fields": {
+          "Magnification": {
+            "stored_value": 7231.0,
+            "offset": 154,
+            "type": "<f8",
+            "unit": null
+          },
+          "WorkingDistance": {
+            "stored_value": 8.50547981262207,
+            "offset": 162,
+            "type": "<f8",
+            "unit": null
+          },
+          "HighVoltage": {
+            "stored_value": 20.0,
+            "offset": 170,
+            "type": "<f8",
+            "unit": null
+          },
+          "ColumnConnected": {
+            "stored_value": 1.0,
+            "offset": 178,
+            "type": "<f8",
+            "unit": null
+          },
+          "External": {
+            "stored_value": 1.0,
+            "offset": 186,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamOff": {
+            "stored_value": 0.0,
+            "offset": 194,
+            "type": "<f8",
+            "unit": null
+          },
+          "FilamentOff": {
+            "stored_value": 1.0,
+            "offset": 202,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoContrastBrightness": {
+            "stored_value": 0.0,
+            "offset": 210,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoFocus": {
+            "stored_value": 0.0,
+            "offset": 218,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamCurrent": {
+            "stored_value": 0.0,
+            "offset": 226,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "stage_conditions": {
+        "version": 1,
+        "name_count": 7,
+        "value_count_offset": 87,
+        "bytes_consumed": 147,
+        "fields": {
+          "StageX": {
+            "stored_value": 59.06131,
+            "offset": 91,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageY": {
+            "stored_value": 53.27316,
+            "offset": 99,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageZ": {
+            "stored_value": 38.79977,
+            "offset": 107,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageTilt": {
+            "stored_value": -0.001230000071680517,
+            "offset": 115,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageRotate": {
+            "stored_value": 12.147649765014648,
+            "offset": 123,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageBacklash": {
+            "stored_value": 0.0,
+            "offset": 131,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageConnected": {
+            "stored_value": 0.0,
+            "offset": 139,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "scan_calibration": {
+        "version": 1,
+        "double_at_4": 1.3333333333333333,
+        "double_at_12": 104.55187984813607,
+        "unit": null
+      },
+      "geometry": {
+        "stored_width": 1024,
+        "stored_height": 768,
+        "double_at_8": 0.0009765625,
+        "doubles_at_16_24": [
+          0.0,
+          0.0
+        ],
+        "double_at_44": 0.0,
+        "double_at_52": 1.0,
+        "uninterpreted_uint32_at_60": 15
+      },
+      "full_field_region": {
+        "version": 1,
+        "doubles_at_4_12_20_28": [
+          0.0,
+          0.0,
+          1.0,
+          0.75
+        ],
+        "unit": null
+      },
+      "absolute_position": {
+        "version": 2,
+        "doubles_at_4_12_20_28_36": [
+          59.06131,
+          53.27316,
+          38.79977,
+          0.0,
+          0.0
+        ],
+        "units": null
+      }
+    },
+    {
+      "aoi_index": 9,
+      "aoi_id": "30c5bc63-d5f9-4291-bb60-50bb67faff38",
+      "source_xml": "AreaOfInterests-9-ObjectBlob.xml",
+      "source_xml_sha256": "022f0db359bc34dfd9628c6a73d0e386719701432feec2bc7e8bf2afb7afb9cf",
+      "column_conditions": {
+        "version": 1,
+        "name_count": 10,
+        "value_count_offset": 150,
+        "bytes_consumed": 234,
+        "fields": {
+          "Magnification": {
+            "stored_value": 7231.0,
+            "offset": 154,
+            "type": "<f8",
+            "unit": null
+          },
+          "WorkingDistance": {
+            "stored_value": 8.47931957244873,
+            "offset": 162,
+            "type": "<f8",
+            "unit": null
+          },
+          "HighVoltage": {
+            "stored_value": 20.0,
+            "offset": 170,
+            "type": "<f8",
+            "unit": null
+          },
+          "ColumnConnected": {
+            "stored_value": 1.0,
+            "offset": 178,
+            "type": "<f8",
+            "unit": null
+          },
+          "External": {
+            "stored_value": 1.0,
+            "offset": 186,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamOff": {
+            "stored_value": 0.0,
+            "offset": 194,
+            "type": "<f8",
+            "unit": null
+          },
+          "FilamentOff": {
+            "stored_value": 1.0,
+            "offset": 202,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoContrastBrightness": {
+            "stored_value": 0.0,
+            "offset": 210,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoFocus": {
+            "stored_value": 0.0,
+            "offset": 218,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamCurrent": {
+            "stored_value": 0.0,
+            "offset": 226,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "stage_conditions": {
+        "version": 1,
+        "name_count": 7,
+        "value_count_offset": 87,
+        "bytes_consumed": 147,
+        "fields": {
+          "StageX": {
+            "stored_value": 67.42646,
+            "offset": 91,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageY": {
+            "stored_value": 58.80996,
+            "offset": 99,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageZ": {
+            "stored_value": 39.58266,
+            "offset": 107,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageTilt": {
+            "stored_value": -0.001230000071680517,
+            "offset": 115,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageRotate": {
+            "stored_value": 12.147649765014648,
+            "offset": 123,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageBacklash": {
+            "stored_value": 0.0,
+            "offset": 131,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageConnected": {
+            "stored_value": 0.0,
+            "offset": 139,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "scan_calibration": {
+        "version": 1,
+        "double_at_4": 1.3333333333333333,
+        "double_at_12": 104.55187984813607,
+        "unit": null
+      },
+      "geometry": {
+        "stored_width": 1024,
+        "stored_height": 768,
+        "double_at_8": 0.0009765625,
+        "doubles_at_16_24": [
+          0.0,
+          0.0
+        ],
+        "double_at_44": 0.0,
+        "double_at_52": 1.0,
+        "uninterpreted_uint32_at_60": 1
+      },
+      "full_field_region": {
+        "version": 1,
+        "doubles_at_4_12_20_28": [
+          0.0,
+          0.0,
+          1.0,
+          0.75
+        ],
+        "unit": null
+      },
+      "absolute_position": {
+        "version": 2,
+        "doubles_at_4_12_20_28_36": [
+          67.42646,
+          58.80996,
+          39.58266,
+          0.0,
+          0.0
+        ],
+        "units": null
+      }
+    },
+    {
+      "aoi_index": 10,
+      "aoi_id": "cfebdf6e-0d8e-4ddf-a33b-6c3323aedd50",
+      "source_xml": "AreaOfInterests-10-ObjectBlob.xml",
+      "source_xml_sha256": "3a613740efc3f0ba87dcbdbe1c4a7bc22691eca5147a1562de23cc76516733e0",
+      "column_conditions": {
+        "version": 1,
+        "name_count": 10,
+        "value_count_offset": 150,
+        "bytes_consumed": 234,
+        "fields": {
+          "Magnification": {
+            "stored_value": 7231.0,
+            "offset": 154,
+            "type": "<f8",
+            "unit": null
+          },
+          "WorkingDistance": {
+            "stored_value": 8.47931957244873,
+            "offset": 162,
+            "type": "<f8",
+            "unit": null
+          },
+          "HighVoltage": {
+            "stored_value": 20.0,
+            "offset": 170,
+            "type": "<f8",
+            "unit": null
+          },
+          "ColumnConnected": {
+            "stored_value": 1.0,
+            "offset": 178,
+            "type": "<f8",
+            "unit": null
+          },
+          "External": {
+            "stored_value": 1.0,
+            "offset": 186,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamOff": {
+            "stored_value": 0.0,
+            "offset": 194,
+            "type": "<f8",
+            "unit": null
+          },
+          "FilamentOff": {
+            "stored_value": 1.0,
+            "offset": 202,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoContrastBrightness": {
+            "stored_value": 0.0,
+            "offset": 210,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoFocus": {
+            "stored_value": 0.0,
+            "offset": 218,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamCurrent": {
+            "stored_value": 0.0,
+            "offset": 226,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "stage_conditions": {
+        "version": 1,
+        "name_count": 7,
+        "value_count_offset": 87,
+        "bytes_consumed": 147,
+        "fields": {
+          "StageX": {
+            "stored_value": 67.42646,
+            "offset": 91,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageY": {
+            "stored_value": 58.80996,
+            "offset": 99,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageZ": {
+            "stored_value": 39.58266,
+            "offset": 107,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageTilt": {
+            "stored_value": -0.001230000071680517,
+            "offset": 115,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageRotate": {
+            "stored_value": 12.147649765014648,
+            "offset": 123,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageBacklash": {
+            "stored_value": 0.0,
+            "offset": 131,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageConnected": {
+            "stored_value": 0.0,
+            "offset": 139,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "scan_calibration": {
+        "version": 1,
+        "double_at_4": 1.3333333333333333,
+        "double_at_12": 104.55187984813607,
+        "unit": null
+      },
+      "geometry": {
+        "stored_width": 1024,
+        "stored_height": 768,
+        "double_at_8": 0.0009765625,
+        "doubles_at_16_24": [
+          0.0,
+          0.0
+        ],
+        "double_at_44": 0.0,
+        "double_at_52": 1.0,
+        "uninterpreted_uint32_at_60": 15
+      },
+      "full_field_region": {
+        "version": 1,
+        "doubles_at_4_12_20_28": [
+          0.0,
+          0.0,
+          1.0,
+          0.75
+        ],
+        "unit": null
+      },
+      "absolute_position": {
+        "version": 2,
+        "doubles_at_4_12_20_28_36": [
+          67.42646,
+          58.80996,
+          39.58266,
+          0.0,
+          0.0
+        ],
+        "units": null
+      }
+    },
+    {
+      "aoi_index": 11,
+      "aoi_id": "9cc7ddb6-26d6-43c6-8cf1-c4db343cf7dc",
+      "source_xml": "AreaOfInterests-11-ObjectBlob.xml",
+      "source_xml_sha256": "569e529a4e7c2eb41055d466ae1557c7238dc05a7dc769a6aaa72809196d6f69",
+      "column_conditions": {
+        "version": 1,
+        "name_count": 10,
+        "value_count_offset": 150,
+        "bytes_consumed": 234,
+        "fields": {
+          "Magnification": {
+            "stored_value": 7231.0,
+            "offset": 154,
+            "type": "<f8",
+            "unit": null
+          },
+          "WorkingDistance": {
+            "stored_value": 8.513879776000977,
+            "offset": 162,
+            "type": "<f8",
+            "unit": null
+          },
+          "HighVoltage": {
+            "stored_value": 20.0,
+            "offset": 170,
+            "type": "<f8",
+            "unit": null
+          },
+          "ColumnConnected": {
+            "stored_value": 1.0,
+            "offset": 178,
+            "type": "<f8",
+            "unit": null
+          },
+          "External": {
+            "stored_value": 1.0,
+            "offset": 186,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamOff": {
+            "stored_value": 0.0,
+            "offset": 194,
+            "type": "<f8",
+            "unit": null
+          },
+          "FilamentOff": {
+            "stored_value": 1.0,
+            "offset": 202,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoContrastBrightness": {
+            "stored_value": 0.0,
+            "offset": 210,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoFocus": {
+            "stored_value": 0.0,
+            "offset": 218,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamCurrent": {
+            "stored_value": 0.0,
+            "offset": 226,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "stage_conditions": {
+        "version": 1,
+        "name_count": 7,
+        "value_count_offset": 87,
+        "bytes_consumed": 147,
+        "fields": {
+          "StageX": {
+            "stored_value": 59.35742,
+            "offset": 91,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageY": {
+            "stored_value": 53.80373,
+            "offset": 99,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageZ": {
+            "stored_value": 39.58266,
+            "offset": 107,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageTilt": {
+            "stored_value": -0.001230000071680517,
+            "offset": 115,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageRotate": {
+            "stored_value": 12.147649765014648,
+            "offset": 123,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageBacklash": {
+            "stored_value": 0.0,
+            "offset": 131,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageConnected": {
+            "stored_value": 0.0,
+            "offset": 139,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "scan_calibration": {
+        "version": 1,
+        "double_at_4": 1.3333333333333333,
+        "double_at_12": 104.55187984813607,
+        "unit": null
+      },
+      "geometry": {
+        "stored_width": 1024,
+        "stored_height": 768,
+        "double_at_8": 0.0009765625,
+        "doubles_at_16_24": [
+          0.0,
+          0.0
+        ],
+        "double_at_44": 0.0,
+        "double_at_52": 1.0,
+        "uninterpreted_uint32_at_60": 1
+      },
+      "full_field_region": {
+        "version": 1,
+        "doubles_at_4_12_20_28": [
+          0.0,
+          0.0,
+          1.0,
+          0.75
+        ],
+        "unit": null
+      },
+      "absolute_position": {
+        "version": 2,
+        "doubles_at_4_12_20_28_36": [
+          59.35742,
+          53.80373,
+          39.58266,
+          0.0,
+          0.0
+        ],
+        "units": null
+      }
+    },
+    {
+      "aoi_index": 12,
+      "aoi_id": "da84abe7-5704-43c1-b6c7-6a35aa47a1fa",
+      "source_xml": "AreaOfInterests-12-ObjectBlob.xml",
+      "source_xml_sha256": "1d4627fffa7bf5c76fc75f1cc9e0162e1058d40c003ff981c67899fe3788fcc1",
+      "column_conditions": {
+        "version": 1,
+        "name_count": 10,
+        "value_count_offset": 150,
+        "bytes_consumed": 234,
+        "fields": {
+          "Magnification": {
+            "stored_value": 7231.0,
+            "offset": 154,
+            "type": "<f8",
+            "unit": null
+          },
+          "WorkingDistance": {
+            "stored_value": 8.513879776000977,
+            "offset": 162,
+            "type": "<f8",
+            "unit": null
+          },
+          "HighVoltage": {
+            "stored_value": 20.0,
+            "offset": 170,
+            "type": "<f8",
+            "unit": null
+          },
+          "ColumnConnected": {
+            "stored_value": 1.0,
+            "offset": 178,
+            "type": "<f8",
+            "unit": null
+          },
+          "External": {
+            "stored_value": 1.0,
+            "offset": 186,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamOff": {
+            "stored_value": 0.0,
+            "offset": 194,
+            "type": "<f8",
+            "unit": null
+          },
+          "FilamentOff": {
+            "stored_value": 1.0,
+            "offset": 202,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoContrastBrightness": {
+            "stored_value": 0.0,
+            "offset": 210,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoFocus": {
+            "stored_value": 0.0,
+            "offset": 218,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamCurrent": {
+            "stored_value": 0.0,
+            "offset": 226,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "stage_conditions": {
+        "version": 1,
+        "name_count": 7,
+        "value_count_offset": 87,
+        "bytes_consumed": 147,
+        "fields": {
+          "StageX": {
+            "stored_value": 59.35742,
+            "offset": 91,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageY": {
+            "stored_value": 53.80373,
+            "offset": 99,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageZ": {
+            "stored_value": 39.58266,
+            "offset": 107,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageTilt": {
+            "stored_value": -0.001230000071680517,
+            "offset": 115,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageRotate": {
+            "stored_value": 12.147649765014648,
+            "offset": 123,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageBacklash": {
+            "stored_value": 0.0,
+            "offset": 131,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageConnected": {
+            "stored_value": 0.0,
+            "offset": 139,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "scan_calibration": {
+        "version": 1,
+        "double_at_4": 1.3333333333333333,
+        "double_at_12": 104.55187984813607,
+        "unit": null
+      },
+      "geometry": {
+        "stored_width": 1024,
+        "stored_height": 768,
+        "double_at_8": 0.0009765625,
+        "doubles_at_16_24": [
+          0.0,
+          0.0
+        ],
+        "double_at_44": 0.0,
+        "double_at_52": 1.0,
+        "uninterpreted_uint32_at_60": 7
+      },
+      "full_field_region": {
+        "version": 1,
+        "doubles_at_4_12_20_28": [
+          0.0,
+          0.0,
+          1.0,
+          0.75
+        ],
+        "unit": null
+      },
+      "absolute_position": {
+        "version": 2,
+        "doubles_at_4_12_20_28_36": [
+          59.35742,
+          53.80373,
+          39.58266,
+          0.0,
+          0.0
+        ],
+        "units": null
+      }
+    },
+    {
+      "aoi_index": 13,
+      "aoi_id": "4cc319ea-9a83-42f7-9e6d-1e9942810e57",
+      "source_xml": "AreaOfInterests-13-ObjectBlob.xml",
+      "source_xml_sha256": "c63535f3bb6f8f694ac832d6eec1e874eee23e2fff2dab7692d8f6fe504fbbf9",
+      "column_conditions": {
+        "version": 1,
+        "name_count": 10,
+        "value_count_offset": 150,
+        "bytes_consumed": 234,
+        "fields": {
+          "Magnification": {
+            "stored_value": 7231.0,
+            "offset": 154,
+            "type": "<f8",
+            "unit": null
+          },
+          "WorkingDistance": {
+            "stored_value": 8.533220291137695,
+            "offset": 162,
+            "type": "<f8",
+            "unit": null
+          },
+          "HighVoltage": {
+            "stored_value": 20.0,
+            "offset": 170,
+            "type": "<f8",
+            "unit": null
+          },
+          "ColumnConnected": {
+            "stored_value": 1.0,
+            "offset": 178,
+            "type": "<f8",
+            "unit": null
+          },
+          "External": {
+            "stored_value": 1.0,
+            "offset": 186,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamOff": {
+            "stored_value": 0.0,
+            "offset": 194,
+            "type": "<f8",
+            "unit": null
+          },
+          "FilamentOff": {
+            "stored_value": 1.0,
+            "offset": 202,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoContrastBrightness": {
+            "stored_value": 0.0,
+            "offset": 210,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoFocus": {
+            "stored_value": 0.0,
+            "offset": 218,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamCurrent": {
+            "stored_value": 0.0,
+            "offset": 226,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "stage_conditions": {
+        "version": 1,
+        "name_count": 7,
+        "value_count_offset": 87,
+        "bytes_consumed": 147,
+        "fields": {
+          "StageX": {
+            "stored_value": 69.28578,
+            "offset": 91,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageY": {
+            "stored_value": 59.06566,
+            "offset": 99,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageZ": {
+            "stored_value": 38.85163,
+            "offset": 107,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageTilt": {
+            "stored_value": 0.0,
+            "offset": 115,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageRotate": {
+            "stored_value": 7.999989986419678,
+            "offset": 123,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageBacklash": {
+            "stored_value": 0.0,
+            "offset": 131,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageConnected": {
+            "stored_value": 0.0,
+            "offset": 139,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "scan_calibration": {
+        "version": 1,
+        "double_at_4": 1.3333333333333333,
+        "double_at_12": 104.55187984813607,
+        "unit": null
+      },
+      "geometry": {
+        "stored_width": 1024,
+        "stored_height": 768,
+        "double_at_8": 0.0009765625,
+        "doubles_at_16_24": [
+          0.0,
+          0.0
+        ],
+        "double_at_44": 0.0,
+        "double_at_52": 1.0,
+        "uninterpreted_uint32_at_60": 1
+      },
+      "full_field_region": {
+        "version": 1,
+        "doubles_at_4_12_20_28": [
+          0.0,
+          0.0,
+          1.0,
+          0.75
+        ],
+        "unit": null
+      },
+      "absolute_position": {
+        "version": 2,
+        "doubles_at_4_12_20_28_36": [
+          69.28578,
+          59.06566,
+          38.85163,
+          0.0,
+          0.0
+        ],
+        "units": null
+      }
+    },
+    {
+      "aoi_index": 14,
+      "aoi_id": "b768e723-d99d-4f69-a024-7c07487649e3",
+      "source_xml": "AreaOfInterests-14-ObjectBlob.xml",
+      "source_xml_sha256": "54b7778bc36c52d45424f16ac2a2fa0c45f284943df8cd5e1c536ebec79fde5e",
+      "column_conditions": {
+        "version": 1,
+        "name_count": 10,
+        "value_count_offset": 150,
+        "bytes_consumed": 234,
+        "fields": {
+          "Magnification": {
+            "stored_value": 7231.0,
+            "offset": 154,
+            "type": "<f8",
+            "unit": null
+          },
+          "WorkingDistance": {
+            "stored_value": 8.533220291137695,
+            "offset": 162,
+            "type": "<f8",
+            "unit": null
+          },
+          "HighVoltage": {
+            "stored_value": 20.0,
+            "offset": 170,
+            "type": "<f8",
+            "unit": null
+          },
+          "ColumnConnected": {
+            "stored_value": 1.0,
+            "offset": 178,
+            "type": "<f8",
+            "unit": null
+          },
+          "External": {
+            "stored_value": 1.0,
+            "offset": 186,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamOff": {
+            "stored_value": 0.0,
+            "offset": 194,
+            "type": "<f8",
+            "unit": null
+          },
+          "FilamentOff": {
+            "stored_value": 1.0,
+            "offset": 202,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoContrastBrightness": {
+            "stored_value": 0.0,
+            "offset": 210,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoFocus": {
+            "stored_value": 0.0,
+            "offset": 218,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamCurrent": {
+            "stored_value": 0.0,
+            "offset": 226,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "stage_conditions": {
+        "version": 1,
+        "name_count": 7,
+        "value_count_offset": 87,
+        "bytes_consumed": 147,
+        "fields": {
+          "StageX": {
+            "stored_value": 69.28578,
+            "offset": 91,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageY": {
+            "stored_value": 59.06566,
+            "offset": 99,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageZ": {
+            "stored_value": 38.85163,
+            "offset": 107,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageTilt": {
+            "stored_value": 0.0,
+            "offset": 115,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageRotate": {
+            "stored_value": 7.999989986419678,
+            "offset": 123,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageBacklash": {
+            "stored_value": 0.0,
+            "offset": 131,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageConnected": {
+            "stored_value": 0.0,
+            "offset": 139,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "scan_calibration": {
+        "version": 1,
+        "double_at_4": 1.3333333333333333,
+        "double_at_12": 104.55187984813607,
+        "unit": null
+      },
+      "geometry": {
+        "stored_width": 2048,
+        "stored_height": 1536,
+        "double_at_8": 0.00048828125,
+        "doubles_at_16_24": [
+          0.0,
+          0.0
+        ],
+        "double_at_44": 0.0,
+        "double_at_52": 1.0,
+        "uninterpreted_uint32_at_60": 5
+      },
+      "full_field_region": {
+        "version": 1,
+        "doubles_at_4_12_20_28": [
+          0.0,
+          0.0,
+          1.0,
+          0.75
+        ],
+        "unit": null
+      },
+      "absolute_position": {
+        "version": 2,
+        "doubles_at_4_12_20_28_36": [
+          69.28578,
+          59.06566,
+          38.85163,
+          0.0,
+          0.0
+        ],
+        "units": null
+      }
+    },
+    {
+      "aoi_index": 15,
+      "aoi_id": "6b180ada-3dfe-4641-b490-8abb8bfd73e2",
+      "source_xml": "AreaOfInterests-15-ObjectBlob.xml",
+      "source_xml_sha256": "95496cbebeec32e525c1970d1fc32ac2c27a9a0930f75f56fee36b547d0172bd",
+      "column_conditions": {
+        "version": 1,
+        "name_count": 10,
+        "value_count_offset": 150,
+        "bytes_consumed": 234,
+        "fields": {
+          "Magnification": {
+            "stored_value": 7231.0,
+            "offset": 154,
+            "type": "<f8",
+            "unit": null
+          },
+          "WorkingDistance": {
+            "stored_value": 8.548569679260254,
+            "offset": 162,
+            "type": "<f8",
+            "unit": null
+          },
+          "HighVoltage": {
+            "stored_value": 20.0,
+            "offset": 170,
+            "type": "<f8",
+            "unit": null
+          },
+          "ColumnConnected": {
+            "stored_value": 1.0,
+            "offset": 178,
+            "type": "<f8",
+            "unit": null
+          },
+          "External": {
+            "stored_value": 1.0,
+            "offset": 186,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamOff": {
+            "stored_value": 0.0,
+            "offset": 194,
+            "type": "<f8",
+            "unit": null
+          },
+          "FilamentOff": {
+            "stored_value": 1.0,
+            "offset": 202,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoContrastBrightness": {
+            "stored_value": 0.0,
+            "offset": 210,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoFocus": {
+            "stored_value": 0.0,
+            "offset": 218,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamCurrent": {
+            "stored_value": 0.0,
+            "offset": 226,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "stage_conditions": {
+        "version": 1,
+        "name_count": 7,
+        "value_count_offset": 87,
+        "bytes_consumed": 147,
+        "fields": {
+          "StageX": {
+            "stored_value": 61.00021,
+            "offset": 91,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageY": {
+            "stored_value": 52.48055,
+            "offset": 99,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageZ": {
+            "stored_value": 38.85163,
+            "offset": 107,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageTilt": {
+            "stored_value": 0.0,
+            "offset": 115,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageRotate": {
+            "stored_value": 4.404059886932373,
+            "offset": 123,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageBacklash": {
+            "stored_value": 0.0,
+            "offset": 131,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageConnected": {
+            "stored_value": 0.0,
+            "offset": 139,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "scan_calibration": {
+        "version": 1,
+        "double_at_4": 1.3333333333333333,
+        "double_at_12": 104.55187984813607,
+        "unit": null
+      },
+      "geometry": {
+        "stored_width": 1024,
+        "stored_height": 768,
+        "double_at_8": 0.0009765625,
+        "doubles_at_16_24": [
+          0.0,
+          0.0
+        ],
+        "double_at_44": 0.0,
+        "double_at_52": 1.0,
+        "uninterpreted_uint32_at_60": 1
+      },
+      "full_field_region": {
+        "version": 1,
+        "doubles_at_4_12_20_28": [
+          0.0,
+          0.0,
+          1.0,
+          0.75
+        ],
+        "unit": null
+      },
+      "absolute_position": {
+        "version": 2,
+        "doubles_at_4_12_20_28_36": [
+          61.00021,
+          52.48055,
+          38.85163,
+          0.0,
+          0.0
+        ],
+        "units": null
+      }
+    },
+    {
+      "aoi_index": 16,
+      "aoi_id": "ca20282c-8252-402c-ae13-cfbeb33c61c3",
+      "source_xml": "AreaOfInterests-16-ObjectBlob.xml",
+      "source_xml_sha256": "a3d33cf2054f4c53388c81a42c23abc47d0a65e8ad90bddff1bc0deed982e277",
+      "column_conditions": {
+        "version": 1,
+        "name_count": 10,
+        "value_count_offset": 150,
+        "bytes_consumed": 234,
+        "fields": {
+          "Magnification": {
+            "stored_value": 7231.0,
+            "offset": 154,
+            "type": "<f8",
+            "unit": null
+          },
+          "WorkingDistance": {
+            "stored_value": 8.548569679260254,
+            "offset": 162,
+            "type": "<f8",
+            "unit": null
+          },
+          "HighVoltage": {
+            "stored_value": 20.0,
+            "offset": 170,
+            "type": "<f8",
+            "unit": null
+          },
+          "ColumnConnected": {
+            "stored_value": 1.0,
+            "offset": 178,
+            "type": "<f8",
+            "unit": null
+          },
+          "External": {
+            "stored_value": 1.0,
+            "offset": 186,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamOff": {
+            "stored_value": 0.0,
+            "offset": 194,
+            "type": "<f8",
+            "unit": null
+          },
+          "FilamentOff": {
+            "stored_value": 1.0,
+            "offset": 202,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoContrastBrightness": {
+            "stored_value": 0.0,
+            "offset": 210,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoFocus": {
+            "stored_value": 0.0,
+            "offset": 218,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamCurrent": {
+            "stored_value": 0.0,
+            "offset": 226,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "stage_conditions": {
+        "version": 1,
+        "name_count": 7,
+        "value_count_offset": 87,
+        "bytes_consumed": 147,
+        "fields": {
+          "StageX": {
+            "stored_value": 61.00021,
+            "offset": 91,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageY": {
+            "stored_value": 52.48055,
+            "offset": 99,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageZ": {
+            "stored_value": 38.85163,
+            "offset": 107,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageTilt": {
+            "stored_value": 0.0,
+            "offset": 115,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageRotate": {
+            "stored_value": 4.404059886932373,
+            "offset": 123,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageBacklash": {
+            "stored_value": 0.0,
+            "offset": 131,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageConnected": {
+            "stored_value": 0.0,
+            "offset": 139,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "scan_calibration": {
+        "version": 1,
+        "double_at_4": 1.3333333333333333,
+        "double_at_12": 104.55187984813607,
+        "unit": null
+      },
+      "geometry": {
+        "stored_width": 2048,
+        "stored_height": 1536,
+        "double_at_8": 0.00048828125,
+        "doubles_at_16_24": [
+          0.0,
+          0.0
+        ],
+        "double_at_44": 0.0,
+        "double_at_52": 1.0,
+        "uninterpreted_uint32_at_60": 5
+      },
+      "full_field_region": {
+        "version": 1,
+        "doubles_at_4_12_20_28": [
+          0.0,
+          0.0,
+          1.0,
+          0.75
+        ],
+        "unit": null
+      },
+      "absolute_position": {
+        "version": 2,
+        "doubles_at_4_12_20_28_36": [
+          61.00021,
+          52.48055,
+          38.85163,
+          0.0,
+          0.0
+        ],
+        "units": null
+      }
+    },
+    {
+      "aoi_index": 17,
+      "aoi_id": "a6967248-0127-4e51-a9c6-7d08971a0ac2",
+      "source_xml": "AreaOfInterests-17-ObjectBlob.xml",
+      "source_xml_sha256": "fe62f717de06f5c0f01b443e0cdc1d4736e654f8c4d63226e92e2b2c106a266c",
+      "column_conditions": {
+        "version": 1,
+        "name_count": 10,
+        "value_count_offset": 150,
+        "bytes_consumed": 234,
+        "fields": {
+          "Magnification": {
+            "stored_value": 7231.0,
+            "offset": 154,
+            "type": "<f8",
+            "unit": null
+          },
+          "WorkingDistance": {
+            "stored_value": 8.474040031433105,
+            "offset": 162,
+            "type": "<f8",
+            "unit": null
+          },
+          "HighVoltage": {
+            "stored_value": 20.0,
+            "offset": 170,
+            "type": "<f8",
+            "unit": null
+          },
+          "ColumnConnected": {
+            "stored_value": 1.0,
+            "offset": 178,
+            "type": "<f8",
+            "unit": null
+          },
+          "External": {
+            "stored_value": 1.0,
+            "offset": 186,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamOff": {
+            "stored_value": 0.0,
+            "offset": 194,
+            "type": "<f8",
+            "unit": null
+          },
+          "FilamentOff": {
+            "stored_value": 1.0,
+            "offset": 202,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoContrastBrightness": {
+            "stored_value": 0.0,
+            "offset": 210,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoFocus": {
+            "stored_value": 0.0,
+            "offset": 218,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamCurrent": {
+            "stored_value": 0.0,
+            "offset": 226,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "stage_conditions": {
+        "version": 1,
+        "name_count": 7,
+        "value_count_offset": 87,
+        "bytes_consumed": 147,
+        "fields": {
+          "StageX": {
+            "stored_value": 59.22051,
+            "offset": 91,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageY": {
+            "stored_value": 55.8868,
+            "offset": 99,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageZ": {
+            "stored_value": 39.70918,
+            "offset": 107,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageTilt": {
+            "stored_value": 0.0,
+            "offset": 115,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageRotate": {
+            "stored_value": 16.159360885620117,
+            "offset": 123,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageBacklash": {
+            "stored_value": 0.0,
+            "offset": 131,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageConnected": {
+            "stored_value": 0.0,
+            "offset": 139,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "scan_calibration": {
+        "version": 1,
+        "double_at_4": 1.3333333333333333,
+        "double_at_12": 104.55187984813607,
+        "unit": null
+      },
+      "geometry": {
+        "stored_width": 1024,
+        "stored_height": 768,
+        "double_at_8": 0.0009765625,
+        "doubles_at_16_24": [
+          0.0,
+          0.0
+        ],
+        "double_at_44": 0.0,
+        "double_at_52": 1.0,
+        "uninterpreted_uint32_at_60": 1
+      },
+      "full_field_region": {
+        "version": 1,
+        "doubles_at_4_12_20_28": [
+          0.0,
+          0.0,
+          1.0,
+          0.75
+        ],
+        "unit": null
+      },
+      "absolute_position": {
+        "version": 2,
+        "doubles_at_4_12_20_28_36": [
+          59.22051,
+          55.8868,
+          39.70918,
+          0.0,
+          0.0
+        ],
+        "units": null
+      }
+    },
+    {
+      "aoi_index": 18,
+      "aoi_id": "a053a5f7-73d9-4f79-a7ff-e48806145832",
+      "source_xml": "AreaOfInterests-18-ObjectBlob.xml",
+      "source_xml_sha256": "a65105992b9c9ab455f43b6ec508fb8570624702ed4abebcbe230850ae7538d1",
+      "column_conditions": {
+        "version": 1,
+        "name_count": 10,
+        "value_count_offset": 150,
+        "bytes_consumed": 234,
+        "fields": {
+          "Magnification": {
+            "stored_value": 7231.0,
+            "offset": 154,
+            "type": "<f8",
+            "unit": null
+          },
+          "WorkingDistance": {
+            "stored_value": 8.474040031433105,
+            "offset": 162,
+            "type": "<f8",
+            "unit": null
+          },
+          "HighVoltage": {
+            "stored_value": 20.0,
+            "offset": 170,
+            "type": "<f8",
+            "unit": null
+          },
+          "ColumnConnected": {
+            "stored_value": 1.0,
+            "offset": 178,
+            "type": "<f8",
+            "unit": null
+          },
+          "External": {
+            "stored_value": 1.0,
+            "offset": 186,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamOff": {
+            "stored_value": 0.0,
+            "offset": 194,
+            "type": "<f8",
+            "unit": null
+          },
+          "FilamentOff": {
+            "stored_value": 1.0,
+            "offset": 202,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoContrastBrightness": {
+            "stored_value": 0.0,
+            "offset": 210,
+            "type": "<f8",
+            "unit": null
+          },
+          "AutoFocus": {
+            "stored_value": 0.0,
+            "offset": 218,
+            "type": "<f8",
+            "unit": null
+          },
+          "BeamCurrent": {
+            "stored_value": 0.0,
+            "offset": 226,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "stage_conditions": {
+        "version": 1,
+        "name_count": 7,
+        "value_count_offset": 87,
+        "bytes_consumed": 147,
+        "fields": {
+          "StageX": {
+            "stored_value": 59.22051,
+            "offset": 91,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageY": {
+            "stored_value": 55.8868,
+            "offset": 99,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageZ": {
+            "stored_value": 39.70918,
+            "offset": 107,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageTilt": {
+            "stored_value": 0.0,
+            "offset": 115,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageRotate": {
+            "stored_value": 16.159360885620117,
+            "offset": 123,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageBacklash": {
+            "stored_value": 0.0,
+            "offset": 131,
+            "type": "<f8",
+            "unit": null
+          },
+          "StageConnected": {
+            "stored_value": 0.0,
+            "offset": 139,
+            "type": "<f8",
+            "unit": null
+          }
+        }
+      },
+      "scan_calibration": {
+        "version": 1,
+        "double_at_4": 1.3333333333333333,
+        "double_at_12": 104.55187984813607,
+        "unit": null
+      },
+      "geometry": {
+        "stored_width": 2048,
+        "stored_height": 1536,
+        "double_at_8": 0.00048828125,
+        "doubles_at_16_24": [
+          0.0,
+          0.0
+        ],
+        "double_at_44": 0.0,
+        "double_at_52": 1.0,
+        "uninterpreted_uint32_at_60": 7
+      },
+      "full_field_region": {
+        "version": 1,
+        "doubles_at_4_12_20_28": [
+          0.0,
+          0.0,
+          1.0,
+          0.75
+        ],
+        "unit": null
+      },
+      "absolute_position": {
+        "version": 2,
+        "doubles_at_4_12_20_28_36": [
+          59.22051,
+          55.8868,
+          39.70918,
+          0.0,
+          0.0
+        ],
+        "units": null
+      }
+    }
+  ],
+  "object_aoi_joins": [
+    {
+      "table": "ElectronImages",
+      "row": 1,
+      "id": "2748f887-f4b8-4215-bdb7-8483c42b9b42",
+      "label": "Electron Image 43",
+      "source_xml": "ElectronImages-1-ObjectBlob.xml",
+      "aoi_id": "fe137600-5fa6-48ea-9409-05a0bc4f60f8",
+      "aoi_index": 1,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "ElectronImages",
+      "row": 2,
+      "id": "b7612004-a54b-4cdb-9c4b-e3f297c970d6",
+      "label": "Electron Image 47",
+      "source_xml": "ElectronImages-2-ObjectBlob.xml",
+      "aoi_id": "7fc5cd53-8610-40c1-98db-33f0f0ad84d6",
+      "aoi_index": 3,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "ElectronImages",
+      "row": 3,
+      "id": "9469c461-0453-48fb-8834-6a6f17722fd7",
+      "label": "Electron Image 50",
+      "source_xml": "ElectronImages-3-ObjectBlob.xml",
+      "aoi_id": "18d67d3b-706b-4c73-82df-e4eb1efeb7d6",
+      "aoi_index": 5,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "ElectronImages",
+      "row": 4,
+      "id": "bab27439-cf82-41dc-b036-730937c51d8f",
+      "label": "Electron Image 54",
+      "source_xml": "ElectronImages-4-ObjectBlob.xml",
+      "aoi_id": "dbc7e90e-2864-472c-a8a4-54f2b510b5dc",
+      "aoi_index": 7,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "ElectronImages",
+      "row": 5,
+      "id": "fc7a8aa7-3092-44ac-aeb2-d1c9efb64984",
+      "label": "Electron Image 55",
+      "source_xml": "ElectronImages-5-ObjectBlob.xml",
+      "aoi_id": "30c5bc63-d5f9-4291-bb60-50bb67faff38",
+      "aoi_index": 9,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "ElectronImages",
+      "row": 6,
+      "id": "cf406bf9-fa93-4e37-8ee7-6329b404bf5a",
+      "label": "Electron Image 57",
+      "source_xml": "ElectronImages-6-ObjectBlob.xml",
+      "aoi_id": "9cc7ddb6-26d6-43c6-8cf1-c4db343cf7dc",
+      "aoi_index": 11,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "ElectronImages",
+      "row": 7,
+      "id": "7a515797-8e36-4cc2-9534-4f225b28493b",
+      "label": "Electron Image 81",
+      "source_xml": "ElectronImages-7-ObjectBlob.xml",
+      "aoi_id": "4cc319ea-9a83-42f7-9e6d-1e9942810e57",
+      "aoi_index": 13,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "ElectronImages",
+      "row": 8,
+      "id": "3b3ccb85-7132-45a5-9478-4f5e4db44d89",
+      "label": "Electron Image 82",
+      "source_xml": "ElectronImages-8-ObjectBlob.xml",
+      "aoi_id": "6b180ada-3dfe-4641-b490-8abb8bfd73e2",
+      "aoi_index": 15,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "ElectronImages",
+      "row": 9,
+      "id": "db56439d-646e-434d-aecc-a56c07f03e4a",
+      "label": "Electron Image 83",
+      "source_xml": "ElectronImages-9-ObjectBlob.xml",
+      "aoi_id": "a6967248-0127-4e51-a9c6-7d08971a0ac2",
+      "aoi_index": 17,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "SmartMaps",
+      "row": 1,
+      "id": "bb89c3d1-5fb8-4089-baab-fcc5c74cfc81",
+      "label": "EDS Data",
+      "source_xml": "SmartMaps-1-ObjectBlob.xml",
+      "aoi_id": "ce340b2c-a91f-45e7-b9d7-e9951a60318e",
+      "aoi_index": 2,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "aoi_geometry_agrees": true
+      }
+    },
+    {
+      "table": "SmartMaps",
+      "row": 2,
+      "id": "b7ef6eda-7951-4908-b9b9-ea29d2ea6cda",
+      "label": "EDS Data",
+      "source_xml": "SmartMaps-2-ObjectBlob.xml",
+      "aoi_id": "d656fdf1-17a0-4e4d-bb6d-beb41b1fb135",
+      "aoi_index": 4,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "aoi_geometry_agrees": true
+      }
+    },
+    {
+      "table": "SmartMaps",
+      "row": 3,
+      "id": "90e028d6-5007-4f8c-8403-f055eac13bb2",
+      "label": "EDS Data",
+      "source_xml": "SmartMaps-3-ObjectBlob.xml",
+      "aoi_id": "232b9545-57a7-4893-83de-019db9fb0cba",
+      "aoi_index": 6,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "aoi_geometry_agrees": true
+      }
+    },
+    {
+      "table": "SmartMaps",
+      "row": 4,
+      "id": "1ed2c46b-4cb1-44a4-b269-e5c3c72a2c20",
+      "label": "EDS Data",
+      "source_xml": "SmartMaps-4-ObjectBlob.xml",
+      "aoi_id": "4ce86fa3-ce48-43e9-aef4-a34b2edd19c7",
+      "aoi_index": 8,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "aoi_geometry_agrees": true
+      }
+    },
+    {
+      "table": "SmartMaps",
+      "row": 5,
+      "id": "b2de9ce4-ec60-4579-b143-6200ae714e05",
+      "label": "EDS Data",
+      "source_xml": "SmartMaps-5-ObjectBlob.xml",
+      "aoi_id": "cfebdf6e-0d8e-4ddf-a33b-6c3323aedd50",
+      "aoi_index": 10,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "aoi_geometry_agrees": true
+      }
+    },
+    {
+      "table": "SmartMaps",
+      "row": 6,
+      "id": "f03d4429-9a36-42c0-870b-ef52433f46db",
+      "label": "EDS Data",
+      "source_xml": "SmartMaps-6-ObjectBlob.xml",
+      "aoi_id": "da84abe7-5704-43c1-b6c7-6a35aa47a1fa",
+      "aoi_index": 12,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "aoi_geometry_agrees": true
+      }
+    },
+    {
+      "table": "SmartMaps",
+      "row": 7,
+      "id": "e58e43f8-1ca9-4a7f-adcf-4642316f2f55",
+      "label": "EDS Data",
+      "source_xml": "SmartMaps-7-ObjectBlob.xml",
+      "aoi_id": "b768e723-d99d-4f69-a024-7c07487649e3",
+      "aoi_index": 14,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "aoi_geometry_agrees": true
+      }
+    },
+    {
+      "table": "SmartMaps",
+      "row": 8,
+      "id": "81ecec1d-a043-40e9-bd5a-44fe2fb4e340",
+      "label": "EDS Data",
+      "source_xml": "SmartMaps-8-ObjectBlob.xml",
+      "aoi_id": "ca20282c-8252-402c-ae13-cfbeb33c61c3",
+      "aoi_index": 16,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "aoi_geometry_agrees": true
+      }
+    },
+    {
+      "table": "SmartMaps",
+      "row": 9,
+      "id": "5977e017-c42e-4473-875f-b0bd2706e3b1",
+      "label": "EDS Data",
+      "source_xml": "SmartMaps-9-ObjectBlob.xml",
+      "aoi_id": "a053a5f7-73d9-4f79-a7ff-e48806145832",
+      "aoi_index": 18,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "aoi_geometry_agrees": true
+      }
+    },
+    {
+      "table": "EDXSpectra",
+      "row": 1,
+      "id": "bb6672d7-98e9-46cb-9dbd-39c044c4006b",
+      "label": "Preview spectrum",
+      "source_xml": "EDXSpectra-1-ObjectBlob.xml",
+      "aoi_id": "fe137600-5fa6-48ea-9409-05a0bc4f60f8",
+      "aoi_index": 1
+    },
+    {
+      "table": "EDXSpectra",
+      "row": 2,
+      "id": "8dfa26c1-83f3-43ef-88d6-9c988db41e23",
+      "label": "Map Sum Spectrum",
+      "source_xml": "EDXSpectra-2-ObjectBlob.xml",
+      "aoi_id": "ce340b2c-a91f-45e7-b9d7-e9951a60318e",
+      "aoi_index": 2
+    },
+    {
+      "table": "EDXSpectra",
+      "row": 3,
+      "id": "fec1170a-04d9-4783-8cea-e3cd30689e49",
+      "label": "Preview spectrum",
+      "source_xml": "EDXSpectra-3-ObjectBlob.xml",
+      "aoi_id": "7fc5cd53-8610-40c1-98db-33f0f0ad84d6",
+      "aoi_index": 3
+    },
+    {
+      "table": "EDXSpectra",
+      "row": 4,
+      "id": "c7c095aa-9950-4d03-b55a-2f2ae6a853e7",
+      "label": "Map Sum Spectrum",
+      "source_xml": "EDXSpectra-4-ObjectBlob.xml",
+      "aoi_id": "d656fdf1-17a0-4e4d-bb6d-beb41b1fb135",
+      "aoi_index": 4
+    },
+    {
+      "table": "EDXSpectra",
+      "row": 5,
+      "id": "38e7a37e-1eaa-4e03-8020-85b7b97439b1",
+      "label": "Preview spectrum",
+      "source_xml": "EDXSpectra-5-ObjectBlob.xml",
+      "aoi_id": "18d67d3b-706b-4c73-82df-e4eb1efeb7d6",
+      "aoi_index": 5
+    },
+    {
+      "table": "EDXSpectra",
+      "row": 6,
+      "id": "d5febe22-675d-4089-848c-083fd681609e",
+      "label": "Map Sum Spectrum",
+      "source_xml": "EDXSpectra-6-ObjectBlob.xml",
+      "aoi_id": "232b9545-57a7-4893-83de-019db9fb0cba",
+      "aoi_index": 6
+    },
+    {
+      "table": "EDXSpectra",
+      "row": 7,
+      "id": "df3d77fb-18d1-4675-a88b-9e7f40548b7e",
+      "label": "Preview spectrum",
+      "source_xml": "EDXSpectra-7-ObjectBlob.xml",
+      "aoi_id": "dbc7e90e-2864-472c-a8a4-54f2b510b5dc",
+      "aoi_index": 7
+    },
+    {
+      "table": "EDXSpectra",
+      "row": 8,
+      "id": "5cf7a9ef-ed11-48c0-9132-8b958c6c4804",
+      "label": "Map Sum Spectrum",
+      "source_xml": "EDXSpectra-8-ObjectBlob.xml",
+      "aoi_id": "4ce86fa3-ce48-43e9-aef4-a34b2edd19c7",
+      "aoi_index": 8
+    },
+    {
+      "table": "EDXSpectra",
+      "row": 9,
+      "id": "b8799165-6890-4de4-a466-0273c8088740",
+      "label": "Preview spectrum",
+      "source_xml": "EDXSpectra-9-ObjectBlob.xml",
+      "aoi_id": "30c5bc63-d5f9-4291-bb60-50bb67faff38",
+      "aoi_index": 9
+    },
+    {
+      "table": "EDXSpectra",
+      "row": 10,
+      "id": "51a638f8-8771-4b45-a0fd-beff34f30be3",
+      "label": "Map Sum Spectrum",
+      "source_xml": "EDXSpectra-10-ObjectBlob.xml",
+      "aoi_id": "cfebdf6e-0d8e-4ddf-a33b-6c3323aedd50",
+      "aoi_index": 10
+    },
+    {
+      "table": "EDXSpectra",
+      "row": 11,
+      "id": "4c32e7cf-625b-4763-9e6a-011be66cdc53",
+      "label": "Preview spectrum",
+      "source_xml": "EDXSpectra-11-ObjectBlob.xml",
+      "aoi_id": "9cc7ddb6-26d6-43c6-8cf1-c4db343cf7dc",
+      "aoi_index": 11
+    },
+    {
+      "table": "EDXSpectra",
+      "row": 12,
+      "id": "6755849b-a6f4-4055-a55b-bafc6dcebb07",
+      "label": "Map Sum Spectrum",
+      "source_xml": "EDXSpectra-12-ObjectBlob.xml",
+      "aoi_id": "da84abe7-5704-43c1-b6c7-6a35aa47a1fa",
+      "aoi_index": 12
+    },
+    {
+      "table": "EDXSpectra",
+      "row": 13,
+      "id": "2326f7af-733b-46cb-aefd-a5bb64315c29",
+      "label": "Preview spectrum",
+      "source_xml": "EDXSpectra-13-ObjectBlob.xml",
+      "aoi_id": "4cc319ea-9a83-42f7-9e6d-1e9942810e57",
+      "aoi_index": 13
+    },
+    {
+      "table": "EDXSpectra",
+      "row": 14,
+      "id": "177b7557-b93e-4dbe-a4ac-2640012f40b5",
+      "label": "Map Sum Spectrum",
+      "source_xml": "EDXSpectra-14-ObjectBlob.xml",
+      "aoi_id": "b768e723-d99d-4f69-a024-7c07487649e3",
+      "aoi_index": 14
+    },
+    {
+      "table": "EDXSpectra",
+      "row": 15,
+      "id": "76352836-e61b-4727-9c19-ba3aa9fa7c69",
+      "label": "Preview spectrum",
+      "source_xml": "EDXSpectra-15-ObjectBlob.xml",
+      "aoi_id": "6b180ada-3dfe-4641-b490-8abb8bfd73e2",
+      "aoi_index": 15
+    },
+    {
+      "table": "EDXSpectra",
+      "row": 16,
+      "id": "2c3f9c15-638f-4a2f-8e83-041f9143da43",
+      "label": "Map Sum Spectrum",
+      "source_xml": "EDXSpectra-16-ObjectBlob.xml",
+      "aoi_id": "ca20282c-8252-402c-ae13-cfbeb33c61c3",
+      "aoi_index": 16
+    },
+    {
+      "table": "EDXSpectra",
+      "row": 17,
+      "id": "f83810f1-a4df-4d85-9383-81442e391b29",
+      "label": "Preview spectrum",
+      "source_xml": "EDXSpectra-17-ObjectBlob.xml",
+      "aoi_id": "a6967248-0127-4e51-a9c6-7d08971a0ac2",
+      "aoi_index": 17
+    },
+    {
+      "table": "EDXSpectra",
+      "row": 18,
+      "id": "bed8d217-529f-4273-ab80-e31cdf92ac2f",
+      "label": "Map Sum Spectrum",
+      "source_xml": "EDXSpectra-18-ObjectBlob.xml",
+      "aoi_id": "a053a5f7-73d9-4f79-a7ff-e48806145832",
+      "aoi_index": 18
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 1,
+      "id": "1ef17e59-f263-4768-a998-98418fda0eca",
+      "label": "C K\u03b11_2",
+      "source_xml": "XrayMapImages-1-ObjectBlob.xml",
+      "aoi_id": "ce340b2c-a91f-45e7-b9d7-e9951a60318e",
+      "aoi_index": 2,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 2,
+      "id": "46859445-4e51-49f7-a88c-5358ffbc83b7",
+      "label": "Ta L\u03b11",
+      "source_xml": "XrayMapImages-2-ObjectBlob.xml",
+      "aoi_id": "ce340b2c-a91f-45e7-b9d7-e9951a60318e",
+      "aoi_index": 2,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 3,
+      "id": "3bde9af9-be5c-4db5-b37c-4fd89a5c6c29",
+      "label": "W L\u03b11",
+      "source_xml": "XrayMapImages-3-ObjectBlob.xml",
+      "aoi_id": "ce340b2c-a91f-45e7-b9d7-e9951a60318e",
+      "aoi_index": 2,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 4,
+      "id": "e72f6223-4782-4fb5-b9fa-b4f3f76dd716",
+      "label": "Mo L\u03b11",
+      "source_xml": "XrayMapImages-4-ObjectBlob.xml",
+      "aoi_id": "ce340b2c-a91f-45e7-b9d7-e9951a60318e",
+      "aoi_index": 2,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 5,
+      "id": "fa0f3afe-6376-421b-93f0-0502c82ab9eb",
+      "label": "Nb L\u03b11",
+      "source_xml": "XrayMapImages-5-ObjectBlob.xml",
+      "aoi_id": "ce340b2c-a91f-45e7-b9d7-e9951a60318e",
+      "aoi_index": 2,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 6,
+      "id": "2619f4d3-e6cb-4cc2-a822-a0c9711ab964",
+      "label": "Zr L\u03b11",
+      "source_xml": "XrayMapImages-6-ObjectBlob.xml",
+      "aoi_id": "ce340b2c-a91f-45e7-b9d7-e9951a60318e",
+      "aoi_index": 2,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 7,
+      "id": "dd2fdf16-946c-44f8-b928-40d7bb98c877",
+      "label": "Ni K\u03b11",
+      "source_xml": "XrayMapImages-7-ObjectBlob.xml",
+      "aoi_id": "ce340b2c-a91f-45e7-b9d7-e9951a60318e",
+      "aoi_index": 2,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 8,
+      "id": "24c5bf0a-e32c-425d-823f-4bd31d62fd6f",
+      "label": "Co K\u03b11",
+      "source_xml": "XrayMapImages-8-ObjectBlob.xml",
+      "aoi_id": "ce340b2c-a91f-45e7-b9d7-e9951a60318e",
+      "aoi_index": 2,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 9,
+      "id": "c013747b-5c9f-4d29-9202-c761175dc7bd",
+      "label": "Mn L\u03b11,2",
+      "source_xml": "XrayMapImages-9-ObjectBlob.xml",
+      "aoi_id": "ce340b2c-a91f-45e7-b9d7-e9951a60318e",
+      "aoi_index": 2,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 10,
+      "id": "d91c0087-651c-4827-9398-61a6928469b6",
+      "label": "Ti K\u03b11",
+      "source_xml": "XrayMapImages-10-ObjectBlob.xml",
+      "aoi_id": "ce340b2c-a91f-45e7-b9d7-e9951a60318e",
+      "aoi_index": 2,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 11,
+      "id": "a17c3e2e-4e35-49bb-8c25-aa3f2218cfd2",
+      "label": "Al K\u03b11",
+      "source_xml": "XrayMapImages-11-ObjectBlob.xml",
+      "aoi_id": "ce340b2c-a91f-45e7-b9d7-e9951a60318e",
+      "aoi_index": 2,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 12,
+      "id": "a5e11a4e-7771-4b97-a5d1-fe53c105e518",
+      "label": "B K\u03b11_2",
+      "source_xml": "XrayMapImages-12-ObjectBlob.xml",
+      "aoi_id": "ce340b2c-a91f-45e7-b9d7-e9951a60318e",
+      "aoi_index": 2,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 13,
+      "id": "0b0b4836-1a7b-4de3-b77b-403970ed6486",
+      "label": "O K\u03b11",
+      "source_xml": "XrayMapImages-13-ObjectBlob.xml",
+      "aoi_id": "ce340b2c-a91f-45e7-b9d7-e9951a60318e",
+      "aoi_index": 2,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 14,
+      "id": "88e0775b-be56-4914-b7ed-208943b6711d",
+      "label": "Cr K\u03b11",
+      "source_xml": "XrayMapImages-14-ObjectBlob.xml",
+      "aoi_id": "ce340b2c-a91f-45e7-b9d7-e9951a60318e",
+      "aoi_index": 2,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 15,
+      "id": "0c9e1f8d-548b-4c3b-bfad-a0318e66060f",
+      "label": "Mn L\u03b11,2",
+      "source_xml": "XrayMapImages-15-ObjectBlob.xml",
+      "aoi_id": "d656fdf1-17a0-4e4d-bb6d-beb41b1fb135",
+      "aoi_index": 4,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 16,
+      "id": "95eb88e9-b558-4eed-a249-2846455bf5a8",
+      "label": "Mn L\u03b11,2",
+      "source_xml": "XrayMapImages-16-ObjectBlob.xml",
+      "aoi_id": "b768e723-d99d-4f69-a024-7c07487649e3",
+      "aoi_index": 14,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 17,
+      "id": "68a206de-d9a8-472a-af60-8d0f9830e4a2",
+      "label": "Mn L\u03b11,2",
+      "source_xml": "XrayMapImages-17-ObjectBlob.xml",
+      "aoi_id": "232b9545-57a7-4893-83de-019db9fb0cba",
+      "aoi_index": 6,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 18,
+      "id": "34b59b97-be2f-4eb2-8b94-09b54355ebe5",
+      "label": "Mn L\u03b11,2",
+      "source_xml": "XrayMapImages-18-ObjectBlob.xml",
+      "aoi_id": "4ce86fa3-ce48-43e9-aef4-a34b2edd19c7",
+      "aoi_index": 8,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 19,
+      "id": "2ae99984-6bf9-4ec4-867b-1ff605e00a9d",
+      "label": "Mn L\u03b11,2",
+      "source_xml": "XrayMapImages-19-ObjectBlob.xml",
+      "aoi_id": "ca20282c-8252-402c-ae13-cfbeb33c61c3",
+      "aoi_index": 16,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 20,
+      "id": "ac69a206-3232-4e09-b5b3-de1c193af80b",
+      "label": "Mn L\u03b11,2",
+      "source_xml": "XrayMapImages-20-ObjectBlob.xml",
+      "aoi_id": "cfebdf6e-0d8e-4ddf-a33b-6c3323aedd50",
+      "aoi_index": 10,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 21,
+      "id": "fbe70d02-9110-4cc4-b9b8-b64404592085",
+      "label": "Mn L\u03b11,2",
+      "source_xml": "XrayMapImages-21-ObjectBlob.xml",
+      "aoi_id": "da84abe7-5704-43c1-b6c7-6a35aa47a1fa",
+      "aoi_index": 12,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 22,
+      "id": "8a704446-2f64-42ec-a1b4-9186576f7871",
+      "label": "Mn L\u03b11,2",
+      "source_xml": "XrayMapImages-22-ObjectBlob.xml",
+      "aoi_id": "a053a5f7-73d9-4f79-a7ff-e48806145832",
+      "aoi_index": 18,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 23,
+      "id": "7fbd6938-6fa5-43ca-b17f-9f18febd0415",
+      "label": "Cr K\u03b11",
+      "source_xml": "XrayMapImages-23-ObjectBlob.xml",
+      "aoi_id": "cfebdf6e-0d8e-4ddf-a33b-6c3323aedd50",
+      "aoi_index": 10,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 24,
+      "id": "704f8f7e-ef8a-49b0-bd45-78ac341b2f4e",
+      "label": "C K\u03b11_2",
+      "source_xml": "XrayMapImages-24-ObjectBlob.xml",
+      "aoi_id": "d656fdf1-17a0-4e4d-bb6d-beb41b1fb135",
+      "aoi_index": 4,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 25,
+      "id": "853dfd40-6847-4eb3-9c79-f21611de0fe4",
+      "label": "Cr K\u03b11",
+      "source_xml": "XrayMapImages-25-ObjectBlob.xml",
+      "aoi_id": "d656fdf1-17a0-4e4d-bb6d-beb41b1fb135",
+      "aoi_index": 4,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 26,
+      "id": "b2686bc1-3592-4e5f-86aa-8f99c6329043",
+      "label": "Ta L\u03b11",
+      "source_xml": "XrayMapImages-26-ObjectBlob.xml",
+      "aoi_id": "d656fdf1-17a0-4e4d-bb6d-beb41b1fb135",
+      "aoi_index": 4,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 27,
+      "id": "106fe3ef-1fd6-4426-b3a2-78bba596fe14",
+      "label": "W L\u03b11",
+      "source_xml": "XrayMapImages-27-ObjectBlob.xml",
+      "aoi_id": "d656fdf1-17a0-4e4d-bb6d-beb41b1fb135",
+      "aoi_index": 4,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 28,
+      "id": "41a32523-4281-465b-a10b-0e6d92af04da",
+      "label": "Mo L\u03b11",
+      "source_xml": "XrayMapImages-28-ObjectBlob.xml",
+      "aoi_id": "d656fdf1-17a0-4e4d-bb6d-beb41b1fb135",
+      "aoi_index": 4,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 29,
+      "id": "353f8876-67ac-4a3c-9822-5d6991e31df1",
+      "label": "Nb L\u03b11",
+      "source_xml": "XrayMapImages-29-ObjectBlob.xml",
+      "aoi_id": "d656fdf1-17a0-4e4d-bb6d-beb41b1fb135",
+      "aoi_index": 4,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 30,
+      "id": "ff23b1a7-7341-444d-83ce-028ee90e2bec",
+      "label": "Zr L\u03b11",
+      "source_xml": "XrayMapImages-30-ObjectBlob.xml",
+      "aoi_id": "d656fdf1-17a0-4e4d-bb6d-beb41b1fb135",
+      "aoi_index": 4,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 31,
+      "id": "7c0f679c-8e29-41eb-ace6-ea5d828779e9",
+      "label": "Ni K\u03b11",
+      "source_xml": "XrayMapImages-31-ObjectBlob.xml",
+      "aoi_id": "d656fdf1-17a0-4e4d-bb6d-beb41b1fb135",
+      "aoi_index": 4,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 32,
+      "id": "74c609ab-6dc1-4194-bcd2-3ca89822f0eb",
+      "label": "Co K\u03b11",
+      "source_xml": "XrayMapImages-32-ObjectBlob.xml",
+      "aoi_id": "d656fdf1-17a0-4e4d-bb6d-beb41b1fb135",
+      "aoi_index": 4,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 33,
+      "id": "4ea50df5-5fa3-4662-8465-5f19b3bd0146",
+      "label": "Ti K\u03b11",
+      "source_xml": "XrayMapImages-33-ObjectBlob.xml",
+      "aoi_id": "d656fdf1-17a0-4e4d-bb6d-beb41b1fb135",
+      "aoi_index": 4,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 34,
+      "id": "803da799-fa61-4818-b823-2fcc3bafcfdf",
+      "label": "Al K\u03b11",
+      "source_xml": "XrayMapImages-34-ObjectBlob.xml",
+      "aoi_id": "d656fdf1-17a0-4e4d-bb6d-beb41b1fb135",
+      "aoi_index": 4,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 35,
+      "id": "467fccc5-6b53-4882-a40d-4d3bef596c83",
+      "label": "B K\u03b11_2",
+      "source_xml": "XrayMapImages-35-ObjectBlob.xml",
+      "aoi_id": "d656fdf1-17a0-4e4d-bb6d-beb41b1fb135",
+      "aoi_index": 4,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 36,
+      "id": "7a90d835-b000-4169-9181-23b74cef2537",
+      "label": "O K\u03b11",
+      "source_xml": "XrayMapImages-36-ObjectBlob.xml",
+      "aoi_id": "d656fdf1-17a0-4e4d-bb6d-beb41b1fb135",
+      "aoi_index": 4,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 37,
+      "id": "a09c7b4d-1da3-40e6-a23f-a42f0928902e",
+      "label": "C K\u03b11_2",
+      "source_xml": "XrayMapImages-37-ObjectBlob.xml",
+      "aoi_id": "232b9545-57a7-4893-83de-019db9fb0cba",
+      "aoi_index": 6,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 38,
+      "id": "3edc1fc5-f6cc-4437-81ab-35d5d1e807cf",
+      "label": "Cr K\u03b11",
+      "source_xml": "XrayMapImages-38-ObjectBlob.xml",
+      "aoi_id": "232b9545-57a7-4893-83de-019db9fb0cba",
+      "aoi_index": 6,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 39,
+      "id": "46e0ae50-022d-49f1-a576-612e7e75660a",
+      "label": "Ta L\u03b11",
+      "source_xml": "XrayMapImages-39-ObjectBlob.xml",
+      "aoi_id": "232b9545-57a7-4893-83de-019db9fb0cba",
+      "aoi_index": 6,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 40,
+      "id": "f5ef39af-1098-4a24-ab3d-fcaa5c3ecd40",
+      "label": "W L\u03b11",
+      "source_xml": "XrayMapImages-40-ObjectBlob.xml",
+      "aoi_id": "232b9545-57a7-4893-83de-019db9fb0cba",
+      "aoi_index": 6,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 41,
+      "id": "4c01ce80-0548-4a0b-a383-44fc0cbf63cd",
+      "label": "Mo L\u03b11",
+      "source_xml": "XrayMapImages-41-ObjectBlob.xml",
+      "aoi_id": "232b9545-57a7-4893-83de-019db9fb0cba",
+      "aoi_index": 6,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 42,
+      "id": "33d041ed-5ce0-4a43-a42a-8261b02f129c",
+      "label": "Nb L\u03b11",
+      "source_xml": "XrayMapImages-42-ObjectBlob.xml",
+      "aoi_id": "232b9545-57a7-4893-83de-019db9fb0cba",
+      "aoi_index": 6,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 43,
+      "id": "face0375-a64d-410c-9d01-530fe96d0f32",
+      "label": "Zr L\u03b11",
+      "source_xml": "XrayMapImages-43-ObjectBlob.xml",
+      "aoi_id": "232b9545-57a7-4893-83de-019db9fb0cba",
+      "aoi_index": 6,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 44,
+      "id": "1173a5f1-a7b9-4782-b10b-51eea069a874",
+      "label": "Ni K\u03b11",
+      "source_xml": "XrayMapImages-44-ObjectBlob.xml",
+      "aoi_id": "232b9545-57a7-4893-83de-019db9fb0cba",
+      "aoi_index": 6,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 45,
+      "id": "eb74ba1b-3647-4bd1-b684-deb38874f946",
+      "label": "Co K\u03b11",
+      "source_xml": "XrayMapImages-45-ObjectBlob.xml",
+      "aoi_id": "232b9545-57a7-4893-83de-019db9fb0cba",
+      "aoi_index": 6,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 46,
+      "id": "61ce3eb0-3933-4fe6-8be2-7c778015eba4",
+      "label": "Ti K\u03b11",
+      "source_xml": "XrayMapImages-46-ObjectBlob.xml",
+      "aoi_id": "232b9545-57a7-4893-83de-019db9fb0cba",
+      "aoi_index": 6,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 47,
+      "id": "a65d00d0-ff61-435f-a7e8-810060035d9a",
+      "label": "Al K\u03b11",
+      "source_xml": "XrayMapImages-47-ObjectBlob.xml",
+      "aoi_id": "232b9545-57a7-4893-83de-019db9fb0cba",
+      "aoi_index": 6,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 48,
+      "id": "d0d95de3-38b3-45ea-aad6-3997285656cc",
+      "label": "B K\u03b11_2",
+      "source_xml": "XrayMapImages-48-ObjectBlob.xml",
+      "aoi_id": "232b9545-57a7-4893-83de-019db9fb0cba",
+      "aoi_index": 6,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 49,
+      "id": "5296ad5c-f683-485a-873e-8ffeafd91f24",
+      "label": "O K\u03b11",
+      "source_xml": "XrayMapImages-49-ObjectBlob.xml",
+      "aoi_id": "232b9545-57a7-4893-83de-019db9fb0cba",
+      "aoi_index": 6,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 50,
+      "id": "9a29bb0b-4619-4073-9d7c-1cd3b019ec7c",
+      "label": "Cr K\u03b11",
+      "source_xml": "XrayMapImages-50-ObjectBlob.xml",
+      "aoi_id": "4ce86fa3-ce48-43e9-aef4-a34b2edd19c7",
+      "aoi_index": 8,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 51,
+      "id": "5733d523-6480-47d9-a061-c534beec008c",
+      "label": "O K\u03b11",
+      "source_xml": "XrayMapImages-51-ObjectBlob.xml",
+      "aoi_id": "4ce86fa3-ce48-43e9-aef4-a34b2edd19c7",
+      "aoi_index": 8,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 52,
+      "id": "0076277a-a014-4fe4-af78-5d19a9902274",
+      "label": "B K\u03b11_2",
+      "source_xml": "XrayMapImages-52-ObjectBlob.xml",
+      "aoi_id": "4ce86fa3-ce48-43e9-aef4-a34b2edd19c7",
+      "aoi_index": 8,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 53,
+      "id": "52cc5b3d-f409-4723-b688-38b4b6651e77",
+      "label": "Al K\u03b11",
+      "source_xml": "XrayMapImages-53-ObjectBlob.xml",
+      "aoi_id": "4ce86fa3-ce48-43e9-aef4-a34b2edd19c7",
+      "aoi_index": 8,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 54,
+      "id": "d4ac7c65-5a66-41df-829b-382815847c9c",
+      "label": "Ti K\u03b11",
+      "source_xml": "XrayMapImages-54-ObjectBlob.xml",
+      "aoi_id": "4ce86fa3-ce48-43e9-aef4-a34b2edd19c7",
+      "aoi_index": 8,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 55,
+      "id": "fb89a7cf-2600-4c0d-a42d-0ae66e623ab8",
+      "label": "Co K\u03b11",
+      "source_xml": "XrayMapImages-55-ObjectBlob.xml",
+      "aoi_id": "4ce86fa3-ce48-43e9-aef4-a34b2edd19c7",
+      "aoi_index": 8,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 56,
+      "id": "4325a4bc-9716-4767-8880-25cb18d84155",
+      "label": "Ni K\u03b11",
+      "source_xml": "XrayMapImages-56-ObjectBlob.xml",
+      "aoi_id": "4ce86fa3-ce48-43e9-aef4-a34b2edd19c7",
+      "aoi_index": 8,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 57,
+      "id": "d13484b6-2adb-425e-93b9-b625ed131ff5",
+      "label": "Zr L\u03b11",
+      "source_xml": "XrayMapImages-57-ObjectBlob.xml",
+      "aoi_id": "4ce86fa3-ce48-43e9-aef4-a34b2edd19c7",
+      "aoi_index": 8,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 58,
+      "id": "fccb9453-a102-4b58-8317-738ad2b10b27",
+      "label": "Nb L\u03b11",
+      "source_xml": "XrayMapImages-58-ObjectBlob.xml",
+      "aoi_id": "4ce86fa3-ce48-43e9-aef4-a34b2edd19c7",
+      "aoi_index": 8,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 59,
+      "id": "ca0f8169-16bc-4f35-a885-6c4608170cd9",
+      "label": "Mo L\u03b11",
+      "source_xml": "XrayMapImages-59-ObjectBlob.xml",
+      "aoi_id": "4ce86fa3-ce48-43e9-aef4-a34b2edd19c7",
+      "aoi_index": 8,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 60,
+      "id": "594e05d5-4d68-45cb-b3c6-052581e14487",
+      "label": "W L\u03b11",
+      "source_xml": "XrayMapImages-60-ObjectBlob.xml",
+      "aoi_id": "4ce86fa3-ce48-43e9-aef4-a34b2edd19c7",
+      "aoi_index": 8,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 61,
+      "id": "335573fe-77f0-4520-bbc0-449bd6224d66",
+      "label": "Ta L\u03b11",
+      "source_xml": "XrayMapImages-61-ObjectBlob.xml",
+      "aoi_id": "4ce86fa3-ce48-43e9-aef4-a34b2edd19c7",
+      "aoi_index": 8,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 62,
+      "id": "6710a216-265c-44ca-8e88-318883724d6e",
+      "label": "C K\u03b11_2",
+      "source_xml": "XrayMapImages-62-ObjectBlob.xml",
+      "aoi_id": "4ce86fa3-ce48-43e9-aef4-a34b2edd19c7",
+      "aoi_index": 8,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 63,
+      "id": "f9308085-3f56-4d92-8fa7-bcd362746d14",
+      "label": "C K\u03b11_2",
+      "source_xml": "XrayMapImages-63-ObjectBlob.xml",
+      "aoi_id": "cfebdf6e-0d8e-4ddf-a33b-6c3323aedd50",
+      "aoi_index": 10,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 64,
+      "id": "a5e80b77-e711-4607-8967-1124a88b733c",
+      "label": "Ta L\u03b11",
+      "source_xml": "XrayMapImages-64-ObjectBlob.xml",
+      "aoi_id": "cfebdf6e-0d8e-4ddf-a33b-6c3323aedd50",
+      "aoi_index": 10,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 65,
+      "id": "19071486-06a4-41e4-8369-7e0948ef4cec",
+      "label": "W L\u03b11",
+      "source_xml": "XrayMapImages-65-ObjectBlob.xml",
+      "aoi_id": "cfebdf6e-0d8e-4ddf-a33b-6c3323aedd50",
+      "aoi_index": 10,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 66,
+      "id": "46585380-0dd0-43ca-bd13-4c0fb3ebefa2",
+      "label": "Mo L\u03b11",
+      "source_xml": "XrayMapImages-66-ObjectBlob.xml",
+      "aoi_id": "cfebdf6e-0d8e-4ddf-a33b-6c3323aedd50",
+      "aoi_index": 10,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 67,
+      "id": "f191a09f-bff6-46df-b921-66f1cb4b7914",
+      "label": "Nb L\u03b11",
+      "source_xml": "XrayMapImages-67-ObjectBlob.xml",
+      "aoi_id": "cfebdf6e-0d8e-4ddf-a33b-6c3323aedd50",
+      "aoi_index": 10,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 68,
+      "id": "78d952d8-f047-4deb-bba4-8a18ec065a37",
+      "label": "Zr L\u03b11",
+      "source_xml": "XrayMapImages-68-ObjectBlob.xml",
+      "aoi_id": "cfebdf6e-0d8e-4ddf-a33b-6c3323aedd50",
+      "aoi_index": 10,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 69,
+      "id": "28b5ea5d-7cd4-42cb-8dd7-5aaedf367095",
+      "label": "Ni K\u03b11",
+      "source_xml": "XrayMapImages-69-ObjectBlob.xml",
+      "aoi_id": "cfebdf6e-0d8e-4ddf-a33b-6c3323aedd50",
+      "aoi_index": 10,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 70,
+      "id": "f579f890-7936-4477-b464-df63e54b9ba9",
+      "label": "Co K\u03b11",
+      "source_xml": "XrayMapImages-70-ObjectBlob.xml",
+      "aoi_id": "cfebdf6e-0d8e-4ddf-a33b-6c3323aedd50",
+      "aoi_index": 10,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 71,
+      "id": "d1bafca8-7384-4b71-8bbf-696c607ae6e0",
+      "label": "Ti K\u03b11",
+      "source_xml": "XrayMapImages-71-ObjectBlob.xml",
+      "aoi_id": "cfebdf6e-0d8e-4ddf-a33b-6c3323aedd50",
+      "aoi_index": 10,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 72,
+      "id": "c72c8170-f4c1-4d85-924f-f42c4ccfd86e",
+      "label": "Al K\u03b11",
+      "source_xml": "XrayMapImages-72-ObjectBlob.xml",
+      "aoi_id": "cfebdf6e-0d8e-4ddf-a33b-6c3323aedd50",
+      "aoi_index": 10,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 73,
+      "id": "e54d2d70-319a-41ee-82a9-ae4a91d8d531",
+      "label": "B K\u03b11_2",
+      "source_xml": "XrayMapImages-73-ObjectBlob.xml",
+      "aoi_id": "cfebdf6e-0d8e-4ddf-a33b-6c3323aedd50",
+      "aoi_index": 10,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 74,
+      "id": "af4a3ad1-2c28-48af-8088-f5e025abaefa",
+      "label": "O K\u03b11",
+      "source_xml": "XrayMapImages-74-ObjectBlob.xml",
+      "aoi_id": "cfebdf6e-0d8e-4ddf-a33b-6c3323aedd50",
+      "aoi_index": 10,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 75,
+      "id": "a656dc21-0e63-4394-8433-711e0169f389",
+      "label": "C K\u03b11_2",
+      "source_xml": "XrayMapImages-75-ObjectBlob.xml",
+      "aoi_id": "da84abe7-5704-43c1-b6c7-6a35aa47a1fa",
+      "aoi_index": 12,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 76,
+      "id": "26144af2-e950-488d-91b9-ba3fe28d51d1",
+      "label": "Cr K\u03b11",
+      "source_xml": "XrayMapImages-76-ObjectBlob.xml",
+      "aoi_id": "da84abe7-5704-43c1-b6c7-6a35aa47a1fa",
+      "aoi_index": 12,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 77,
+      "id": "01392966-86dc-4631-bf30-9b13d950143d",
+      "label": "Ta L\u03b11",
+      "source_xml": "XrayMapImages-77-ObjectBlob.xml",
+      "aoi_id": "da84abe7-5704-43c1-b6c7-6a35aa47a1fa",
+      "aoi_index": 12,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 78,
+      "id": "14d1298a-075d-4152-ba3f-f37fc5bf18dc",
+      "label": "W L\u03b11",
+      "source_xml": "XrayMapImages-78-ObjectBlob.xml",
+      "aoi_id": "da84abe7-5704-43c1-b6c7-6a35aa47a1fa",
+      "aoi_index": 12,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 79,
+      "id": "81dcb00c-fb64-41ee-b8c1-fcd6ae840202",
+      "label": "Mo L\u03b11",
+      "source_xml": "XrayMapImages-79-ObjectBlob.xml",
+      "aoi_id": "da84abe7-5704-43c1-b6c7-6a35aa47a1fa",
+      "aoi_index": 12,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 80,
+      "id": "049a7f3a-d041-441a-8b04-75e4cf705213",
+      "label": "Nb L\u03b11",
+      "source_xml": "XrayMapImages-80-ObjectBlob.xml",
+      "aoi_id": "da84abe7-5704-43c1-b6c7-6a35aa47a1fa",
+      "aoi_index": 12,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 81,
+      "id": "fb460ff1-6ea3-4a61-a62a-ab32bf4123c8",
+      "label": "Zr L\u03b11",
+      "source_xml": "XrayMapImages-81-ObjectBlob.xml",
+      "aoi_id": "da84abe7-5704-43c1-b6c7-6a35aa47a1fa",
+      "aoi_index": 12,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 82,
+      "id": "db0ba75d-9bac-45bb-8eaf-b6193eae8f33",
+      "label": "Ni K\u03b11",
+      "source_xml": "XrayMapImages-82-ObjectBlob.xml",
+      "aoi_id": "da84abe7-5704-43c1-b6c7-6a35aa47a1fa",
+      "aoi_index": 12,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 83,
+      "id": "459bb1a0-57b1-483e-844e-e8cf04083aa2",
+      "label": "Co K\u03b11",
+      "source_xml": "XrayMapImages-83-ObjectBlob.xml",
+      "aoi_id": "da84abe7-5704-43c1-b6c7-6a35aa47a1fa",
+      "aoi_index": 12,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 84,
+      "id": "fc28947e-f9ac-4c5c-be41-488d0f5f340c",
+      "label": "Ti K\u03b11",
+      "source_xml": "XrayMapImages-84-ObjectBlob.xml",
+      "aoi_id": "da84abe7-5704-43c1-b6c7-6a35aa47a1fa",
+      "aoi_index": 12,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 85,
+      "id": "6e6c445c-1b8a-434f-98c9-6c9a0fa4b01c",
+      "label": "Al K\u03b11",
+      "source_xml": "XrayMapImages-85-ObjectBlob.xml",
+      "aoi_id": "da84abe7-5704-43c1-b6c7-6a35aa47a1fa",
+      "aoi_index": 12,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 86,
+      "id": "19585284-bcd3-4c7b-b075-e2c308d45a3f",
+      "label": "B K\u03b11_2",
+      "source_xml": "XrayMapImages-86-ObjectBlob.xml",
+      "aoi_id": "da84abe7-5704-43c1-b6c7-6a35aa47a1fa",
+      "aoi_index": 12,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 87,
+      "id": "c2e7a04e-3ccf-410e-8107-72dabd43c717",
+      "label": "O K\u03b11",
+      "source_xml": "XrayMapImages-87-ObjectBlob.xml",
+      "aoi_id": "da84abe7-5704-43c1-b6c7-6a35aa47a1fa",
+      "aoi_index": 12,
+      "geometry_crosscheck": {
+        "width": 1024,
+        "height": 768,
+        "normalized_pixel_double": 0.0009765625,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 88,
+      "id": "c73ee401-c086-479e-a73e-33eab81f2ae4",
+      "label": "Cr K\u03b11",
+      "source_xml": "XrayMapImages-88-ObjectBlob.xml",
+      "aoi_id": "b768e723-d99d-4f69-a024-7c07487649e3",
+      "aoi_index": 14,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 89,
+      "id": "ce904c1e-1957-4c88-b057-53d2faab97d6",
+      "label": "O K\u03b11",
+      "source_xml": "XrayMapImages-89-ObjectBlob.xml",
+      "aoi_id": "b768e723-d99d-4f69-a024-7c07487649e3",
+      "aoi_index": 14,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 90,
+      "id": "4d7a0138-ddce-4a60-9d71-104c39fe9d6e",
+      "label": "B K\u03b11_2",
+      "source_xml": "XrayMapImages-90-ObjectBlob.xml",
+      "aoi_id": "b768e723-d99d-4f69-a024-7c07487649e3",
+      "aoi_index": 14,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 91,
+      "id": "f6c4801e-2c23-458c-8a6d-a9b0cab6ea86",
+      "label": "Al K\u03b11",
+      "source_xml": "XrayMapImages-91-ObjectBlob.xml",
+      "aoi_id": "b768e723-d99d-4f69-a024-7c07487649e3",
+      "aoi_index": 14,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 92,
+      "id": "d08699d9-4041-4b40-bb92-9effbc1575ad",
+      "label": "Ti K\u03b11",
+      "source_xml": "XrayMapImages-92-ObjectBlob.xml",
+      "aoi_id": "b768e723-d99d-4f69-a024-7c07487649e3",
+      "aoi_index": 14,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 93,
+      "id": "2b8bbc15-3e15-49d9-adcb-470d2ad77a89",
+      "label": "Co K\u03b11",
+      "source_xml": "XrayMapImages-93-ObjectBlob.xml",
+      "aoi_id": "b768e723-d99d-4f69-a024-7c07487649e3",
+      "aoi_index": 14,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 94,
+      "id": "8cfb49f5-3663-4359-a455-5f2ae032efa5",
+      "label": "Ni K\u03b11",
+      "source_xml": "XrayMapImages-94-ObjectBlob.xml",
+      "aoi_id": "b768e723-d99d-4f69-a024-7c07487649e3",
+      "aoi_index": 14,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 95,
+      "id": "00300c31-951b-44eb-9fc7-a024864c94bf",
+      "label": "Zr L\u03b11",
+      "source_xml": "XrayMapImages-95-ObjectBlob.xml",
+      "aoi_id": "b768e723-d99d-4f69-a024-7c07487649e3",
+      "aoi_index": 14,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 96,
+      "id": "701cf97e-bee6-4bf0-b2ed-841db31a300b",
+      "label": "Nb L\u03b11",
+      "source_xml": "XrayMapImages-96-ObjectBlob.xml",
+      "aoi_id": "b768e723-d99d-4f69-a024-7c07487649e3",
+      "aoi_index": 14,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 97,
+      "id": "121cfeae-1437-4b63-a0eb-03400de5faf4",
+      "label": "Mo L\u03b11",
+      "source_xml": "XrayMapImages-97-ObjectBlob.xml",
+      "aoi_id": "b768e723-d99d-4f69-a024-7c07487649e3",
+      "aoi_index": 14,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 98,
+      "id": "7e6efc35-ad5c-4a43-810a-7ef5a64e19d2",
+      "label": "W L\u03b11",
+      "source_xml": "XrayMapImages-98-ObjectBlob.xml",
+      "aoi_id": "b768e723-d99d-4f69-a024-7c07487649e3",
+      "aoi_index": 14,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 99,
+      "id": "72011222-8e0d-4ed9-82e5-7c1b13b1392f",
+      "label": "Ta L\u03b11",
+      "source_xml": "XrayMapImages-99-ObjectBlob.xml",
+      "aoi_id": "b768e723-d99d-4f69-a024-7c07487649e3",
+      "aoi_index": 14,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 100,
+      "id": "68080f47-bcbc-4c3f-8bc5-bec85192c23f",
+      "label": "C K\u03b11_2",
+      "source_xml": "XrayMapImages-100-ObjectBlob.xml",
+      "aoi_id": "b768e723-d99d-4f69-a024-7c07487649e3",
+      "aoi_index": 14,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 101,
+      "id": "c87e2c58-cb44-4b93-9aef-d49d7499bf35",
+      "label": "C K\u03b11_2",
+      "source_xml": "XrayMapImages-101-ObjectBlob.xml",
+      "aoi_id": "ca20282c-8252-402c-ae13-cfbeb33c61c3",
+      "aoi_index": 16,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 102,
+      "id": "abeaae41-d77c-4c2d-ab50-33f733b2be73",
+      "label": "Ta L\u03b11",
+      "source_xml": "XrayMapImages-102-ObjectBlob.xml",
+      "aoi_id": "ca20282c-8252-402c-ae13-cfbeb33c61c3",
+      "aoi_index": 16,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 103,
+      "id": "886e3db0-606f-4fcb-84b2-a88db439b933",
+      "label": "W L\u03b11",
+      "source_xml": "XrayMapImages-103-ObjectBlob.xml",
+      "aoi_id": "ca20282c-8252-402c-ae13-cfbeb33c61c3",
+      "aoi_index": 16,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 104,
+      "id": "18e2bf1b-5652-47ef-9623-1fcb2ff00375",
+      "label": "Mo L\u03b11",
+      "source_xml": "XrayMapImages-104-ObjectBlob.xml",
+      "aoi_id": "ca20282c-8252-402c-ae13-cfbeb33c61c3",
+      "aoi_index": 16,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 105,
+      "id": "2ebc2e79-2c5c-4ebc-9b68-fd547e671cdb",
+      "label": "Nb L\u03b11",
+      "source_xml": "XrayMapImages-105-ObjectBlob.xml",
+      "aoi_id": "ca20282c-8252-402c-ae13-cfbeb33c61c3",
+      "aoi_index": 16,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 106,
+      "id": "938cf1ad-22a4-48f8-9949-ffa7328d3ed9",
+      "label": "Zr L\u03b11",
+      "source_xml": "XrayMapImages-106-ObjectBlob.xml",
+      "aoi_id": "ca20282c-8252-402c-ae13-cfbeb33c61c3",
+      "aoi_index": 16,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 107,
+      "id": "3e805164-eded-4ea8-a078-baec6c967551",
+      "label": "Ni K\u03b11",
+      "source_xml": "XrayMapImages-107-ObjectBlob.xml",
+      "aoi_id": "ca20282c-8252-402c-ae13-cfbeb33c61c3",
+      "aoi_index": 16,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 108,
+      "id": "73265f7c-4ca2-4774-887f-dc112c676de9",
+      "label": "Co K\u03b11",
+      "source_xml": "XrayMapImages-108-ObjectBlob.xml",
+      "aoi_id": "ca20282c-8252-402c-ae13-cfbeb33c61c3",
+      "aoi_index": 16,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 109,
+      "id": "166e0214-552d-4184-9a99-4e48af540f51",
+      "label": "Ti K\u03b11",
+      "source_xml": "XrayMapImages-109-ObjectBlob.xml",
+      "aoi_id": "ca20282c-8252-402c-ae13-cfbeb33c61c3",
+      "aoi_index": 16,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 110,
+      "id": "2f0f5976-a3b2-49fb-91d0-78999f6b34e4",
+      "label": "Al K\u03b11",
+      "source_xml": "XrayMapImages-110-ObjectBlob.xml",
+      "aoi_id": "ca20282c-8252-402c-ae13-cfbeb33c61c3",
+      "aoi_index": 16,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 111,
+      "id": "234e6649-0ca6-4df6-96b0-97a30e289209",
+      "label": "B K\u03b11_2",
+      "source_xml": "XrayMapImages-111-ObjectBlob.xml",
+      "aoi_id": "ca20282c-8252-402c-ae13-cfbeb33c61c3",
+      "aoi_index": 16,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 112,
+      "id": "a57355a2-4508-4af6-9691-9cc0eb043ac1",
+      "label": "O K\u03b11",
+      "source_xml": "XrayMapImages-112-ObjectBlob.xml",
+      "aoi_id": "ca20282c-8252-402c-ae13-cfbeb33c61c3",
+      "aoi_index": 16,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 113,
+      "id": "ea0272c2-ab0e-4757-9bb9-136187f848b6",
+      "label": "Cr K\u03b11",
+      "source_xml": "XrayMapImages-113-ObjectBlob.xml",
+      "aoi_id": "ca20282c-8252-402c-ae13-cfbeb33c61c3",
+      "aoi_index": 16,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 114,
+      "id": "bf28f051-1d75-4305-a061-50127c2e1e66",
+      "label": "C K\u03b11_2",
+      "source_xml": "XrayMapImages-114-ObjectBlob.xml",
+      "aoi_id": "a053a5f7-73d9-4f79-a7ff-e48806145832",
+      "aoi_index": 18,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 115,
+      "id": "e45ea664-4e63-495e-8507-7f08bd79f903",
+      "label": "Ta L\u03b11",
+      "source_xml": "XrayMapImages-115-ObjectBlob.xml",
+      "aoi_id": "a053a5f7-73d9-4f79-a7ff-e48806145832",
+      "aoi_index": 18,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 116,
+      "id": "e6e4b9a7-6000-44c1-a291-c830e41f9b3e",
+      "label": "W L\u03b11",
+      "source_xml": "XrayMapImages-116-ObjectBlob.xml",
+      "aoi_id": "a053a5f7-73d9-4f79-a7ff-e48806145832",
+      "aoi_index": 18,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 117,
+      "id": "f918e780-94e0-449f-8cd1-33452b9a3846",
+      "label": "Mo L\u03b11",
+      "source_xml": "XrayMapImages-117-ObjectBlob.xml",
+      "aoi_id": "a053a5f7-73d9-4f79-a7ff-e48806145832",
+      "aoi_index": 18,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 118,
+      "id": "4c79c129-4905-47f5-a559-3beeb4d36890",
+      "label": "Nb L\u03b11",
+      "source_xml": "XrayMapImages-118-ObjectBlob.xml",
+      "aoi_id": "a053a5f7-73d9-4f79-a7ff-e48806145832",
+      "aoi_index": 18,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 119,
+      "id": "587bfe2a-cef0-4596-a503-4af438bf6618",
+      "label": "Zr L\u03b11",
+      "source_xml": "XrayMapImages-119-ObjectBlob.xml",
+      "aoi_id": "a053a5f7-73d9-4f79-a7ff-e48806145832",
+      "aoi_index": 18,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 120,
+      "id": "ed2dc165-4cee-4a77-bd48-b926e0bbd211",
+      "label": "Ni K\u03b11",
+      "source_xml": "XrayMapImages-120-ObjectBlob.xml",
+      "aoi_id": "a053a5f7-73d9-4f79-a7ff-e48806145832",
+      "aoi_index": 18,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 121,
+      "id": "3ae39876-c02d-4e4c-b60a-e24463cdd5b8",
+      "label": "Co K\u03b11",
+      "source_xml": "XrayMapImages-121-ObjectBlob.xml",
+      "aoi_id": "a053a5f7-73d9-4f79-a7ff-e48806145832",
+      "aoi_index": 18,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 122,
+      "id": "678ca7a9-014c-48df-b718-51c7d891ed1f",
+      "label": "Ti K\u03b11",
+      "source_xml": "XrayMapImages-122-ObjectBlob.xml",
+      "aoi_id": "a053a5f7-73d9-4f79-a7ff-e48806145832",
+      "aoi_index": 18,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 123,
+      "id": "97d35ea9-393e-4991-b39d-31757b4974d1",
+      "label": "Al K\u03b11",
+      "source_xml": "XrayMapImages-123-ObjectBlob.xml",
+      "aoi_id": "a053a5f7-73d9-4f79-a7ff-e48806145832",
+      "aoi_index": 18,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 124,
+      "id": "d98f3e8c-c3d6-4055-bb16-7d2b3f205f31",
+      "label": "B K\u03b11_2",
+      "source_xml": "XrayMapImages-124-ObjectBlob.xml",
+      "aoi_id": "a053a5f7-73d9-4f79-a7ff-e48806145832",
+      "aoi_index": 18,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 125,
+      "id": "2f85f2c8-a73d-46fd-acb3-735652889ea5",
+      "label": "O K\u03b11",
+      "source_xml": "XrayMapImages-125-ObjectBlob.xml",
+      "aoi_id": "a053a5f7-73d9-4f79-a7ff-e48806145832",
+      "aoi_index": 18,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    },
+    {
+      "table": "XrayMapImages",
+      "row": 126,
+      "id": "c0c42f08-c37c-45c7-87a7-3722b3ea7eca",
+      "label": "Cr K\u03b11",
+      "source_xml": "XrayMapImages-126-ObjectBlob.xml",
+      "aoi_id": "a053a5f7-73d9-4f79-a7ff-e48806145832",
+      "aoi_index": 18,
+      "geometry_crosscheck": {
+        "width": 2048,
+        "height": 1536,
+        "normalized_pixel_double": 0.00048828125,
+        "image_core_dimensions_agree": true,
+        "aoi_geometry_agrees": true,
+        "coordinate_units": null
+      }
+    }
+  ],
+  "external_unit_context": {
+    "title": "Oxford Instruments MicroAnalysis System Getting Started Guide",
+    "part_number": "51-1624-135",
+    "issue": "1A",
+    "date": "July2011",
+    "url": "https://engineering.temple.edu/sites/engineering/files/Oxford%20EDS%20Getting%20started.pdf",
+    "sha256": "aea77a58318e43f271e49c62bb03834711de3a87247624de384ad520aedfd987",
+    "relevant_page": 11,
+    "inspection": "Page11 rendered with pypdfium2 and visually inspected: AZtec Microscope Control labels Working Distance(mm), High Voltage(kV), status-bar magnification x.",
+    "limit": "Historical vendor UI convention supports unit interpretation; not a schema18.0 serialization specification or independent hardware measurement."
+  },
+  "conclusions": {
+    "magnification": "Named Magnification is stored as 7231 for all 18 AOIs; interpreted as a dimensionless ratio.",
+    "high_voltage": "Named HighVoltage is stored20 for all18 AOIs; no explicit archive unit. Interpreted20kV using documented AZtec UI convention, not independent acquisition validation.",
+    "working_distance": "Named WorkingDistance ranges8.474040031433105..8.548569679260254; interpreted mm using documented AZtec UI convention, not an embedded archive unit.",
+    "scan_calibration": "Stored(1,4/3,104.55187984813607); first double equals width/height; physical meaning and units of second remain unestablished.",
+    "physical_pixel_size": "Not established. Geometry pixel double is exactly1/width and FullFieldRegion extent(0,0,1,.75), so geometry is normalized, not a declared metric pixel size.",
+    "orientation": "Stored array row/column order is documented separately; this metadata decoding does not establish absolute display/stage orientation.",
+    "caution": "Stored status values include FilamentOff=1 and StageConnected=0; declarations are not proof of actual hardware state."
+  }
+}
